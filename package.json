@@ -1,29 +1,27 @@
 {
-  "name": "stellar-elm",
+  "name": "stellar-elm-demo",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
   "directories": {
     "doc": "docs",
-    "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryan-senn/stellar-elm.git"
+    "url": "git+https://github.com/ryan-senn/stellar-elm-demo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ryan-senn/stellar-elm/issues"
+    "url": "https://github.com/ryan-senn/stellar-elm-demo/issues"
   },
-  "homepage": "https://github.com/ryan-senn/stellar-elm#readme",
+  "homepage": "https://github.com/ryan-senn/stellar-elm-demo#readme",
   "dependencies": {
     "clipboard": "^2.0.1",
     "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1",
     "highlightjs": "^9.10.0"
   }
 }
