@@ -23745,114 +23745,114 @@ var _ryan_senn$elm_record_formatter$RecordFormatter$toString = function (_p1) {
 				_elm_lang$core$Basics$toString(_p1))));
 };
 
-var _user$project$Endpoints$TransactionDetails = {ctor: 'TransactionDetails'};
-var _user$project$Endpoints$TransactionsForLedger = {ctor: 'TransactionsForLedger'};
-var _user$project$Endpoints$TransactionsForAccount = {ctor: 'TransactionsForAccount'};
-var _user$project$Endpoints$PostTransaction = {ctor: 'PostTransaction'};
-var _user$project$Endpoints$AllTransactions = {ctor: 'AllTransactions'};
-var _user$project$Endpoints$PaymentsForTransaction = {ctor: 'PaymentsForTransaction'};
-var _user$project$Endpoints$PaymentsForLedger = {ctor: 'PaymentsForLedger'};
-var _user$project$Endpoints$PaymentsForAccount = {ctor: 'PaymentsForAccount'};
-var _user$project$Endpoints$AllPayments = {ctor: 'AllPayments'};
-var _user$project$Endpoints$FindPaymentPaths = {ctor: 'FindPaymentPaths'};
-var _user$project$Endpoints$OrderbookDetails = {ctor: 'OrderbookDetails'};
-var _user$project$Endpoints$OperationDetails = {ctor: 'OperationDetails'};
-var _user$project$Endpoints$OperationsForTransaction = {ctor: 'OperationsForTransaction'};
-var _user$project$Endpoints$OperationsForLedger = {ctor: 'OperationsForLedger'};
-var _user$project$Endpoints$OperationsForAccount = {ctor: 'OperationsForAccount'};
-var _user$project$Endpoints$AllOperations = {ctor: 'AllOperations'};
-var _user$project$Endpoints$OffersForAccount = {ctor: 'OffersForAccount'};
-var _user$project$Endpoints$LedgerDetails = {ctor: 'LedgerDetails'};
-var _user$project$Endpoints$AllLedgers = {ctor: 'AllLedgers'};
-var _user$project$Endpoints$EffectsForTransaction = {ctor: 'EffectsForTransaction'};
-var _user$project$Endpoints$EffectsForOperation = {ctor: 'EffectsForOperation'};
-var _user$project$Endpoints$EffectsForLedger = {ctor: 'EffectsForLedger'};
-var _user$project$Endpoints$EffectsForAccount = {ctor: 'EffectsForAccount'};
-var _user$project$Endpoints$AllEffects = {ctor: 'AllEffects'};
-var _user$project$Endpoints$DataForAccount = {ctor: 'DataForAccount'};
-var _user$project$Endpoints$AllAssets = {ctor: 'AllAssets'};
-var _user$project$Endpoints$AccountDetails = {ctor: 'AccountDetails'};
-var _user$project$Endpoints$asList = {
+var _ryan_senn$stellar_elm_demo$Endpoints$TransactionDetails = {ctor: 'TransactionDetails'};
+var _ryan_senn$stellar_elm_demo$Endpoints$TransactionsForLedger = {ctor: 'TransactionsForLedger'};
+var _ryan_senn$stellar_elm_demo$Endpoints$TransactionsForAccount = {ctor: 'TransactionsForAccount'};
+var _ryan_senn$stellar_elm_demo$Endpoints$PostTransaction = {ctor: 'PostTransaction'};
+var _ryan_senn$stellar_elm_demo$Endpoints$AllTransactions = {ctor: 'AllTransactions'};
+var _ryan_senn$stellar_elm_demo$Endpoints$PaymentsForTransaction = {ctor: 'PaymentsForTransaction'};
+var _ryan_senn$stellar_elm_demo$Endpoints$PaymentsForLedger = {ctor: 'PaymentsForLedger'};
+var _ryan_senn$stellar_elm_demo$Endpoints$PaymentsForAccount = {ctor: 'PaymentsForAccount'};
+var _ryan_senn$stellar_elm_demo$Endpoints$AllPayments = {ctor: 'AllPayments'};
+var _ryan_senn$stellar_elm_demo$Endpoints$FindPaymentPaths = {ctor: 'FindPaymentPaths'};
+var _ryan_senn$stellar_elm_demo$Endpoints$OrderbookDetails = {ctor: 'OrderbookDetails'};
+var _ryan_senn$stellar_elm_demo$Endpoints$OperationDetails = {ctor: 'OperationDetails'};
+var _ryan_senn$stellar_elm_demo$Endpoints$OperationsForTransaction = {ctor: 'OperationsForTransaction'};
+var _ryan_senn$stellar_elm_demo$Endpoints$OperationsForLedger = {ctor: 'OperationsForLedger'};
+var _ryan_senn$stellar_elm_demo$Endpoints$OperationsForAccount = {ctor: 'OperationsForAccount'};
+var _ryan_senn$stellar_elm_demo$Endpoints$AllOperations = {ctor: 'AllOperations'};
+var _ryan_senn$stellar_elm_demo$Endpoints$OffersForAccount = {ctor: 'OffersForAccount'};
+var _ryan_senn$stellar_elm_demo$Endpoints$LedgerDetails = {ctor: 'LedgerDetails'};
+var _ryan_senn$stellar_elm_demo$Endpoints$AllLedgers = {ctor: 'AllLedgers'};
+var _ryan_senn$stellar_elm_demo$Endpoints$EffectsForTransaction = {ctor: 'EffectsForTransaction'};
+var _ryan_senn$stellar_elm_demo$Endpoints$EffectsForOperation = {ctor: 'EffectsForOperation'};
+var _ryan_senn$stellar_elm_demo$Endpoints$EffectsForLedger = {ctor: 'EffectsForLedger'};
+var _ryan_senn$stellar_elm_demo$Endpoints$EffectsForAccount = {ctor: 'EffectsForAccount'};
+var _ryan_senn$stellar_elm_demo$Endpoints$AllEffects = {ctor: 'AllEffects'};
+var _ryan_senn$stellar_elm_demo$Endpoints$DataForAccount = {ctor: 'DataForAccount'};
+var _ryan_senn$stellar_elm_demo$Endpoints$AllAssets = {ctor: 'AllAssets'};
+var _ryan_senn$stellar_elm_demo$Endpoints$AccountDetails = {ctor: 'AccountDetails'};
+var _ryan_senn$stellar_elm_demo$Endpoints$asList = {
 	ctor: '::',
-	_0: _user$project$Endpoints$AccountDetails,
+	_0: _ryan_senn$stellar_elm_demo$Endpoints$AccountDetails,
 	_1: {
 		ctor: '::',
-		_0: _user$project$Endpoints$AllAssets,
+		_0: _ryan_senn$stellar_elm_demo$Endpoints$AllAssets,
 		_1: {
 			ctor: '::',
-			_0: _user$project$Endpoints$DataForAccount,
+			_0: _ryan_senn$stellar_elm_demo$Endpoints$DataForAccount,
 			_1: {
 				ctor: '::',
-				_0: _user$project$Endpoints$AllEffects,
+				_0: _ryan_senn$stellar_elm_demo$Endpoints$AllEffects,
 				_1: {
 					ctor: '::',
-					_0: _user$project$Endpoints$EffectsForAccount,
+					_0: _ryan_senn$stellar_elm_demo$Endpoints$EffectsForAccount,
 					_1: {
 						ctor: '::',
-						_0: _user$project$Endpoints$EffectsForLedger,
+						_0: _ryan_senn$stellar_elm_demo$Endpoints$EffectsForLedger,
 						_1: {
 							ctor: '::',
-							_0: _user$project$Endpoints$EffectsForOperation,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints$EffectsForOperation,
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints$EffectsForTransaction,
+								_0: _ryan_senn$stellar_elm_demo$Endpoints$EffectsForTransaction,
 								_1: {
 									ctor: '::',
-									_0: _user$project$Endpoints$AllLedgers,
+									_0: _ryan_senn$stellar_elm_demo$Endpoints$AllLedgers,
 									_1: {
 										ctor: '::',
-										_0: _user$project$Endpoints$LedgerDetails,
+										_0: _ryan_senn$stellar_elm_demo$Endpoints$LedgerDetails,
 										_1: {
 											ctor: '::',
-											_0: _user$project$Endpoints$OffersForAccount,
+											_0: _ryan_senn$stellar_elm_demo$Endpoints$OffersForAccount,
 											_1: {
 												ctor: '::',
-												_0: _user$project$Endpoints$AllOperations,
+												_0: _ryan_senn$stellar_elm_demo$Endpoints$AllOperations,
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints$OperationsForAccount,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints$OperationsForAccount,
 													_1: {
 														ctor: '::',
-														_0: _user$project$Endpoints$OperationsForLedger,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints$OperationsForLedger,
 														_1: {
 															ctor: '::',
-															_0: _user$project$Endpoints$OperationsForTransaction,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints$OperationsForTransaction,
 															_1: {
 																ctor: '::',
-																_0: _user$project$Endpoints$OperationDetails,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints$OperationDetails,
 																_1: {
 																	ctor: '::',
-																	_0: _user$project$Endpoints$OrderbookDetails,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints$OrderbookDetails,
 																	_1: {
 																		ctor: '::',
-																		_0: _user$project$Endpoints$FindPaymentPaths,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints$FindPaymentPaths,
 																		_1: {
 																			ctor: '::',
-																			_0: _user$project$Endpoints$AllPayments,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints$AllPayments,
 																			_1: {
 																				ctor: '::',
-																				_0: _user$project$Endpoints$PaymentsForAccount,
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints$PaymentsForAccount,
 																				_1: {
 																					ctor: '::',
-																					_0: _user$project$Endpoints$PaymentsForLedger,
+																					_0: _ryan_senn$stellar_elm_demo$Endpoints$PaymentsForLedger,
 																					_1: {
 																						ctor: '::',
-																						_0: _user$project$Endpoints$PaymentsForTransaction,
+																						_0: _ryan_senn$stellar_elm_demo$Endpoints$PaymentsForTransaction,
 																						_1: {
 																							ctor: '::',
-																							_0: _user$project$Endpoints$AllTransactions,
+																							_0: _ryan_senn$stellar_elm_demo$Endpoints$AllTransactions,
 																							_1: {
 																								ctor: '::',
-																								_0: _user$project$Endpoints$PostTransaction,
+																								_0: _ryan_senn$stellar_elm_demo$Endpoints$PostTransaction,
 																								_1: {
 																									ctor: '::',
-																									_0: _user$project$Endpoints$TransactionsForAccount,
+																									_0: _ryan_senn$stellar_elm_demo$Endpoints$TransactionsForAccount,
 																									_1: {
 																										ctor: '::',
-																										_0: _user$project$Endpoints$TransactionsForLedger,
+																										_0: _ryan_senn$stellar_elm_demo$Endpoints$TransactionsForLedger,
 																										_1: {
 																											ctor: '::',
-																											_0: _user$project$Endpoints$TransactionDetails,
+																											_0: _ryan_senn$stellar_elm_demo$Endpoints$TransactionDetails,
 																											_1: {ctor: '[]'}
 																										}
 																									}
@@ -23882,15 +23882,15 @@ var _user$project$Endpoints$asList = {
 	}
 };
 
-var _user$project$Stellar_PublicKey$decoder = _elm_lang$core$Json_Decode$string;
+var _ryan_senn$stellar_elm_sdk$Stellar_PublicKey$decoder = _elm_lang$core$Json_Decode$string;
 
-var _user$project$Stellar_Endpoint$decoder = _elm_lang$core$Json_Decode$string;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoint$decoder = _elm_lang$core$Json_Decode$string;
 
-var _user$project$Stellar_Thresholds$Thresholds = F3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Thresholds$Thresholds = F3(
 	function (a, b, c) {
 		return {low: a, med: b, high: c};
 	});
-var _user$project$Stellar_Thresholds$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Thresholds$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'high_threshold',
 	_elm_lang$core$Json_Decode$int,
@@ -23902,13 +23902,13 @@ var _user$project$Stellar_Thresholds$decoder = A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'low_threshold',
 			_elm_lang$core$Json_Decode$int,
-			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Thresholds$Thresholds))));
+			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Thresholds$Thresholds))));
 
-var _user$project$Stellar_Flags$Flags = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Flags$Flags = F2(
 	function (a, b) {
 		return {authRequired: a, authRevocable: b};
 	});
-var _user$project$Stellar_Flags$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Flags$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'auth_revocable',
 	_elm_lang$core$Json_Decode$bool,
@@ -23916,9 +23916,9 @@ var _user$project$Stellar_Flags$decoder = A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'auth_required',
 		_elm_lang$core$Json_Decode$bool,
-		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Flags$Flags)));
+		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Flags$Flags)));
 
-var _user$project$Stellar_AssetType$toString = function (assetType) {
+var _ryan_senn$stellar_elm_sdk$Stellar_AssetType$toString = function (assetType) {
 	var _p0 = assetType;
 	switch (_p0.ctor) {
 		case 'Native':
@@ -23929,63 +23929,63 @@ var _user$project$Stellar_AssetType$toString = function (assetType) {
 			return 'credit_alphanum12';
 	}
 };
-var _user$project$Stellar_AssetType$CreditAlphanum12 = {ctor: 'CreditAlphanum12'};
-var _user$project$Stellar_AssetType$CreditAlphanum4 = {ctor: 'CreditAlphanum4'};
-var _user$project$Stellar_AssetType$Native = {ctor: 'Native'};
-var _user$project$Stellar_AssetType$stringToAssetType = function (string) {
+var _ryan_senn$stellar_elm_sdk$Stellar_AssetType$CreditAlphanum12 = {ctor: 'CreditAlphanum12'};
+var _ryan_senn$stellar_elm_sdk$Stellar_AssetType$CreditAlphanum4 = {ctor: 'CreditAlphanum4'};
+var _ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native = {ctor: 'Native'};
+var _ryan_senn$stellar_elm_sdk$Stellar_AssetType$stringToAssetType = function (string) {
 	var _p1 = string;
 	switch (_p1) {
 		case 'native':
-			return _elm_lang$core$Json_Decode$succeed(_user$project$Stellar_AssetType$Native);
+			return _elm_lang$core$Json_Decode$succeed(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native);
 		case 'credit_alphanum4':
-			return _elm_lang$core$Json_Decode$succeed(_user$project$Stellar_AssetType$CreditAlphanum4);
+			return _elm_lang$core$Json_Decode$succeed(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$CreditAlphanum4);
 		case 'credit_alphanum12':
-			return _elm_lang$core$Json_Decode$succeed(_user$project$Stellar_AssetType$CreditAlphanum12);
+			return _elm_lang$core$Json_Decode$succeed(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$CreditAlphanum12);
 		default:
 			return _elm_lang$core$Json_Decode$fail('Could not decode AssetType');
 	}
 };
-var _user$project$Stellar_AssetType$decoder = A2(_elm_lang$core$Json_Decode$andThen, _user$project$Stellar_AssetType$stringToAssetType, _elm_lang$core$Json_Decode$string);
-var _user$project$Stellar_AssetType$asList = {
+var _ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder = A2(_elm_lang$core$Json_Decode$andThen, _ryan_senn$stellar_elm_sdk$Stellar_AssetType$stringToAssetType, _elm_lang$core$Json_Decode$string);
+var _ryan_senn$stellar_elm_sdk$Stellar_AssetType$asList = {
 	ctor: '::',
-	_0: _user$project$Stellar_AssetType$Native,
+	_0: _ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native,
 	_1: {
 		ctor: '::',
-		_0: _user$project$Stellar_AssetType$CreditAlphanum4,
+		_0: _ryan_senn$stellar_elm_sdk$Stellar_AssetType$CreditAlphanum4,
 		_1: {
 			ctor: '::',
-			_0: _user$project$Stellar_AssetType$CreditAlphanum12,
+			_0: _ryan_senn$stellar_elm_sdk$Stellar_AssetType$CreditAlphanum12,
 			_1: {ctor: '[]'}
 		}
 	}
 };
 
-var _user$project$Stellar_Balance$Balance = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Balance$Balance = F2(
 	function (a, b) {
 		return {balance: a, assetType: b};
 	});
-var _user$project$Stellar_Balance$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Balance$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'asset_type',
-	_user$project$Stellar_AssetType$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'balance',
 		_elm_lang$core$Json_Decode$string,
-		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Balance$Balance)));
+		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Balance$Balance)));
 
-var _user$project$Stellar_Signer$Signer = F4(
+var _ryan_senn$stellar_elm_sdk$Stellar_Signer$Signer = F4(
 	function (a, b, c, d) {
 		return {publicKey: a, weight: b, key: c, type_: d};
 	});
-var _user$project$Stellar_Signer$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Signer$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'type',
 	_elm_lang$core$Json_Decode$string,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'key',
-		_user$project$Stellar_PublicKey$decoder,
+		_ryan_senn$stellar_elm_sdk$Stellar_PublicKey$decoder,
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'weight',
@@ -23993,14 +23993,14 @@ var _user$project$Stellar_Signer$decoder = A3(
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'public_key',
-				_user$project$Stellar_PublicKey$decoder,
-				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Signer$Signer)))));
+				_ryan_senn$stellar_elm_sdk$Stellar_PublicKey$decoder,
+				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Signer$Signer)))));
 
-var _user$project$Stellar_Link$Link = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Link$Link = F2(
 	function (a, b) {
 		return {href: a, templated: b};
 	});
-var _user$project$Stellar_Link$decoder = A4(
+var _ryan_senn$stellar_elm_sdk$Stellar_Link$decoder = A4(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 	'templated',
 	_elm_lang$core$Json_Decode$bool,
@@ -24009,19 +24009,19 @@ var _user$project$Stellar_Link$decoder = A4(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'href',
 		_elm_lang$core$Json_Decode$string,
-		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Link$Link)));
+		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Link$Link)));
 
-var _user$project$Stellar_Resources_Data$Data = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Data$Data = function (a) {
 	return {value: a};
 };
-var _user$project$Stellar_Resources_Data$decoder = A4(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Data$decoder = A4(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 	'value',
 	_elm_lang$core$Json_Decode$maybe(_elm_lang$core$Json_Decode$string),
 	_elm_lang$core$Maybe$Nothing,
-	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Data$Data));
+	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Data$Data));
 
-var _user$project$Stellar_Resources_Account$Account = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Account$Account = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -24044,60 +24044,60 @@ var _user$project$Stellar_Resources_Account$Account = function (a) {
 		};
 	};
 };
-var _user$project$Stellar_Resources_Account$Links = F9(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Account$Links = F9(
 	function (a, b, c, d, e, f, g, h, i) {
 		return {toml: a, data: b, effects: c, offers: d, operations: e, payments: f, self: g, trades: h, transactions: i};
 	});
-var _user$project$Stellar_Resources_Account$linksDecoder = A4(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Account$linksDecoder = A4(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 	'transactions',
-	_elm_lang$core$Json_Decode$maybe(_user$project$Stellar_Link$decoder),
+	_elm_lang$core$Json_Decode$maybe(_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder),
 	_elm_lang$core$Maybe$Nothing,
 	A4(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 		'trades',
-		_elm_lang$core$Json_Decode$maybe(_user$project$Stellar_Link$decoder),
+		_elm_lang$core$Json_Decode$maybe(_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder),
 		_elm_lang$core$Maybe$Nothing,
 		A4(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 			'self',
-			_elm_lang$core$Json_Decode$maybe(_user$project$Stellar_Link$decoder),
+			_elm_lang$core$Json_Decode$maybe(_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder),
 			_elm_lang$core$Maybe$Nothing,
 			A4(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 				'payments',
-				_elm_lang$core$Json_Decode$maybe(_user$project$Stellar_Link$decoder),
+				_elm_lang$core$Json_Decode$maybe(_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder),
 				_elm_lang$core$Maybe$Nothing,
 				A4(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 					'operations',
-					_elm_lang$core$Json_Decode$maybe(_user$project$Stellar_Link$decoder),
+					_elm_lang$core$Json_Decode$maybe(_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder),
 					_elm_lang$core$Maybe$Nothing,
 					A4(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 						'offers',
-						_elm_lang$core$Json_Decode$maybe(_user$project$Stellar_Link$decoder),
+						_elm_lang$core$Json_Decode$maybe(_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder),
 						_elm_lang$core$Maybe$Nothing,
 						A4(
 							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 							'effects',
-							_elm_lang$core$Json_Decode$maybe(_user$project$Stellar_Link$decoder),
+							_elm_lang$core$Json_Decode$maybe(_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder),
 							_elm_lang$core$Maybe$Nothing,
 							A4(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 								'data',
-								_elm_lang$core$Json_Decode$maybe(_user$project$Stellar_Link$decoder),
+								_elm_lang$core$Json_Decode$maybe(_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder),
 								_elm_lang$core$Maybe$Nothing,
 								A4(
 									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 									'toml',
-									_elm_lang$core$Json_Decode$maybe(_user$project$Stellar_Link$decoder),
+									_elm_lang$core$Json_Decode$maybe(_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder),
 									_elm_lang$core$Maybe$Nothing,
-									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Account$Links))))))))));
-var _user$project$Stellar_Resources_Account$decoder = A3(
+									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Account$Links))))))))));
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Account$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Account$linksDecoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Account$linksDecoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'paging_token',
@@ -24105,23 +24105,23 @@ var _user$project$Stellar_Resources_Account$decoder = A3(
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'flags',
-			_user$project$Stellar_Flags$decoder,
+			_ryan_senn$stellar_elm_sdk$Stellar_Flags$decoder,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'data',
-				_user$project$Stellar_Resources_Data$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Data$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'signers',
-					_elm_lang$core$Json_Decode$list(_user$project$Stellar_Signer$decoder),
+					_elm_lang$core$Json_Decode$list(_ryan_senn$stellar_elm_sdk$Stellar_Signer$decoder),
 					A3(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'thresholds',
-						_user$project$Stellar_Thresholds$decoder,
+						_ryan_senn$stellar_elm_sdk$Stellar_Thresholds$decoder,
 						A3(
 							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 							'balances',
-							_elm_lang$core$Json_Decode$list(_user$project$Stellar_Balance$decoder),
+							_elm_lang$core$Json_Decode$list(_ryan_senn$stellar_elm_sdk$Stellar_Balance$decoder),
 							A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'subentry_count',
@@ -24133,18 +24133,18 @@ var _user$project$Stellar_Resources_Account$decoder = A3(
 									A3(
 										_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 										'account_id',
-										_user$project$Stellar_PublicKey$decoder,
+										_ryan_senn$stellar_elm_sdk$Stellar_PublicKey$decoder,
 										A3(
 											_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 											'id',
-											_user$project$Stellar_PublicKey$decoder,
-											_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Account$Account))))))))))));
+											_ryan_senn$stellar_elm_sdk$Stellar_PublicKey$decoder,
+											_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Account$Account))))))))))));
 
-var _user$project$Stellar_Error$Error = F5(
+var _ryan_senn$stellar_elm_sdk$Stellar_Error$Error = F5(
 	function (a, b, c, d, e) {
 		return {type_: a, title: b, status: c, detail: d, instance: e};
 	});
-var _user$project$Stellar_Error$decoder = A4(
+var _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder = A4(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 	'instance',
 	_elm_lang$core$Json_Decode$maybe(_elm_lang$core$Json_Decode$string),
@@ -24165,12 +24165,12 @@ var _user$project$Stellar_Error$decoder = A4(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'type',
 					_elm_lang$core$Json_Decode$string,
-					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Error$Error))))));
-var _user$project$Stellar_Error$flattenError = F2(
+					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Error$Error))))));
+var _ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError = F2(
 	function (httpError, ok) {
 		var _p0 = httpError;
 		if (_p0.ctor === 'BadStatus') {
-			var _p1 = A2(_elm_lang$core$Json_Decode$decodeString, _user$project$Stellar_Error$decoder, _p0._0.body);
+			var _p1 = A2(_elm_lang$core$Json_Decode$decodeString, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder, _p0._0.body);
 			if (_p1.ctor === 'Ok') {
 				return _elm_lang$core$Result$Ok(
 					ok(_p1._0));
@@ -24181,97 +24181,97 @@ var _user$project$Stellar_Error$flattenError = F2(
 			return _elm_lang$core$Result$Err(httpError);
 		}
 	});
-var _user$project$Stellar_Error$Forbidden = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Error$Forbidden = function (a) {
 	return {ctor: 'Forbidden', _0: a};
 };
-var _user$project$Stellar_Error$RateLimitExceeded = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Error$RateLimitExceeded = function (a) {
 	return {ctor: 'RateLimitExceeded', _0: a};
 };
-var _user$project$Stellar_Error$ServerError = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Error$ServerError = function (a) {
 	return {ctor: 'ServerError', _0: a};
 };
-var _user$project$Stellar_Error$standardErrorFromStatus = function (error) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Error$standardErrorFromStatus = function (error) {
 	var _p2 = error.status;
 	switch (_p2) {
 		case 403:
 			return _elm_lang$core$Json_Decode$succeed(
-				_user$project$Stellar_Error$Forbidden(error));
+				_ryan_senn$stellar_elm_sdk$Stellar_Error$Forbidden(error));
 		case 429:
 			return _elm_lang$core$Json_Decode$succeed(
-				_user$project$Stellar_Error$RateLimitExceeded(error));
+				_ryan_senn$stellar_elm_sdk$Stellar_Error$RateLimitExceeded(error));
 		case 500:
 			return _elm_lang$core$Json_Decode$succeed(
-				_user$project$Stellar_Error$ServerError(error));
+				_ryan_senn$stellar_elm_sdk$Stellar_Error$ServerError(error));
 		default:
 			return _elm_lang$core$Json_Decode$fail('Could not decode standard error');
 	}
 };
-var _user$project$Stellar_Error$standardErrorDecoder = A2(_elm_lang$core$Json_Decode$andThen, _user$project$Stellar_Error$standardErrorFromStatus, _user$project$Stellar_Error$decoder);
+var _ryan_senn$stellar_elm_sdk$Stellar_Error$standardErrorDecoder = A2(_elm_lang$core$Json_Decode$andThen, _ryan_senn$stellar_elm_sdk$Stellar_Error$standardErrorFromStatus, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder);
 
-var _user$project$Stellar_Endpoints_AccountDetails$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$url = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
 			endpoint,
 			A2(_elm_lang$core$Basics_ops['++'], '/accounts/', publicKey));
 	});
-var _user$project$Stellar_Endpoints_AccountDetails$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_AccountDetails$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_AccountDetails$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_AccountDetails$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_AccountDetails$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
-			_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_AccountDetails$Success, _user$project$Stellar_Resources_Account$decoder),
+			_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$Success, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Account$decoder),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_AccountDetails$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$requestBuilder = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_AccountDetails$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_AccountDetails$url, endpoint, publicKey)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$url, endpoint, publicKey)));
 	});
 
-var _user$project$Endpoints_AccountDetails_Model$initialSettings = {publicKey: _bluedogtraining$bdt_elm$Form_Input$init};
-var _user$project$Endpoints_AccountDetails_Model$initialModel = {settings: _user$project$Endpoints_AccountDetails_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AccountDetails_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Model$initialSettings = {publicKey: _bluedogtraining$bdt_elm$Form_Input$init};
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_AccountDetails_Model$Settings = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Model$Settings = function (a) {
 	return {publicKey: a};
 };
 
-var _user$project$Endpoints_AccountDetails_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_AccountDetails_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_AccountDetails_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_AccountDetails_Msg$UpdatePublicKey = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Msg$UpdatePublicKey = function (a) {
 	return {ctor: 'UpdatePublicKey', _0: a};
 };
 
-var _user$project$Routes$isActiveRoute = F2(
+var _ryan_senn$stellar_elm_demo$Routes$isActiveRoute = F2(
 	function (mRoute, route) {
 		return _elm_lang$core$Native_Utils.eq(
 			mRoute,
 			_elm_lang$core$Maybe$Just(route));
 	});
-var _user$project$Routes$routeToString = function (page) {
+var _ryan_senn$stellar_elm_demo$Routes$routeToString = function (page) {
 	var _p0 = page;
 	if (_p0.ctor === 'Endpoints') {
 		return A2(
@@ -24284,21 +24284,21 @@ var _user$project$Routes$routeToString = function (page) {
 		return '#/';
 	}
 };
-var _user$project$Routes$href = function (route) {
+var _ryan_senn$stellar_elm_demo$Routes$href = function (route) {
 	return _rtfeldman$elm_css$Html_Styled_Attributes$href(
-		_user$project$Routes$routeToString(route));
+		_ryan_senn$stellar_elm_demo$Routes$routeToString(route));
 };
-var _user$project$Routes$modifyUrl = function (_p1) {
+var _ryan_senn$stellar_elm_demo$Routes$modifyUrl = function (_p1) {
 	return _elm_lang$navigation$Navigation$modifyUrl(
-		_user$project$Routes$routeToString(_p1));
+		_ryan_senn$stellar_elm_demo$Routes$routeToString(_p1));
 };
-var _user$project$Routes$Endpoints = function (a) {
+var _ryan_senn$stellar_elm_demo$Routes$Endpoints = function (a) {
 	return {ctor: 'Endpoints', _0: a};
 };
-var _user$project$Routes$endpointParser = function (endpoint) {
+var _ryan_senn$stellar_elm_demo$Routes$endpointParser = function (endpoint) {
 	return A2(
 		_evancz$url_parser$UrlParser$map,
-		_user$project$Routes$Endpoints(endpoint),
+		_ryan_senn$stellar_elm_demo$Routes$Endpoints(endpoint),
 		A2(
 			_evancz$url_parser$UrlParser_ops['</>'],
 			_evancz$url_parser$UrlParser$s('endpoints'),
@@ -24307,110 +24307,110 @@ var _user$project$Routes$endpointParser = function (endpoint) {
 					_elm_community$string_extra$String_Extra$decapitalize(
 						_elm_lang$core$Basics$toString(endpoint))))));
 };
-var _user$project$Routes$Home = {ctor: 'Home'};
-var _user$project$Routes$routeParser = _evancz$url_parser$UrlParser$oneOf(
+var _ryan_senn$stellar_elm_demo$Routes$Home = {ctor: 'Home'};
+var _ryan_senn$stellar_elm_demo$Routes$routeParser = _evancz$url_parser$UrlParser$oneOf(
 	A2(
 		_elm_lang$core$Basics_ops['++'],
 		{
 			ctor: '::',
 			_0: A2(
 				_evancz$url_parser$UrlParser$map,
-				_user$project$Routes$Home,
+				_ryan_senn$stellar_elm_demo$Routes$Home,
 				_evancz$url_parser$UrlParser$s('')),
 			_1: {
 				ctor: '::',
 				_0: A2(
 					_evancz$url_parser$UrlParser$map,
-					_user$project$Routes$Home,
+					_ryan_senn$stellar_elm_demo$Routes$Home,
 					_evancz$url_parser$UrlParser$s('#/')),
 				_1: {ctor: '[]'}
 			}
 		},
-		A2(_elm_lang$core$List$map, _user$project$Routes$endpointParser, _user$project$Endpoints$asList)));
-var _user$project$Routes$fromLocation = function (location) {
-	return _elm_lang$core$String$isEmpty(location.hash) ? _elm_lang$core$Maybe$Just(_user$project$Routes$Home) : A2(_evancz$url_parser$UrlParser$parseHash, _user$project$Routes$routeParser, location);
+		A2(_elm_lang$core$List$map, _ryan_senn$stellar_elm_demo$Routes$endpointParser, _ryan_senn$stellar_elm_demo$Endpoints$asList)));
+var _ryan_senn$stellar_elm_demo$Routes$fromLocation = function (location) {
+	return _elm_lang$core$String$isEmpty(location.hash) ? _elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_demo$Routes$Home) : A2(_evancz$url_parser$UrlParser$parseHash, _ryan_senn$stellar_elm_demo$Routes$routeParser, location);
 };
 
-var _user$project$Stellar_Sorting$toString = function (_p0) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString = function (_p0) {
 	return _elm_lang$core$String$toLower(
 		_elm_lang$core$Basics$toString(_p0));
 };
-var _user$project$Stellar_Sorting$Desc = {ctor: 'Desc'};
-var _user$project$Stellar_Sorting$Asc = {ctor: 'Asc'};
+var _ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc = {ctor: 'Desc'};
+var _ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc = {ctor: 'Asc'};
 
-var _user$project$Stellar_Resources_Page$Page = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$Page = F2(
 	function (a, b) {
 		return {embedded_: a, links_: b};
 	});
-var _user$project$Stellar_Resources_Page$Embed = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$Embed = function (a) {
 	return {records: a};
 };
-var _user$project$Stellar_Resources_Page$embeddedDecoder = function (recordDecoder) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$embeddedDecoder = function (recordDecoder) {
 	return A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'records',
 		_elm_lang$core$Json_Decode$list(recordDecoder),
-		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Page$Embed));
+		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$Embed));
 };
-var _user$project$Stellar_Resources_Page$Links = F3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$Links = F3(
 	function (a, b, c) {
 		return {self: a, prev: b, next: c};
 	});
-var _user$project$Stellar_Resources_Page$linksDecoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$linksDecoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'next',
-	_user$project$Stellar_Link$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'prev',
-		_user$project$Stellar_Link$decoder,
+		_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'self',
-			_user$project$Stellar_Link$decoder,
-			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Page$Links))));
-var _user$project$Stellar_Resources_Page$decoder = function (recordDecoder) {
+			_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
+			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$Links))));
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder = function (recordDecoder) {
 	return A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'_links',
-		_user$project$Stellar_Resources_Page$linksDecoder,
+		_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$linksDecoder,
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'_embedded',
-			_user$project$Stellar_Resources_Page$embeddedDecoder(recordDecoder),
-			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Page$Page)));
+			_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$embeddedDecoder(recordDecoder),
+			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$Page)));
 };
 
-var _user$project$Stellar_Resources_Asset$Asset = F8(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$Asset = F8(
 	function (a, b, c, d, e, f, g, h) {
 		return {assetType: a, assetCode: b, assetIssuer: c, amount: d, numAccounts: e, flags: f, pagingToken: g, links_: h};
 	});
-var _user$project$Stellar_Resources_Asset$Links = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$Links = function (a) {
 	return {toml: a};
 };
-var _user$project$Stellar_Resources_Asset$linksDecoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$linksDecoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'toml',
-	_user$project$Stellar_Link$decoder,
-	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Asset$Links));
-var _user$project$Stellar_Resources_Asset$CreditAlphanum12 = {ctor: 'CreditAlphanum12'};
-var _user$project$Stellar_Resources_Asset$CreditAlphanum4 = {ctor: 'CreditAlphanum4'};
-var _user$project$Stellar_Resources_Asset$stringToAssetType = function (string) {
+	_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
+	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$Links));
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$CreditAlphanum12 = {ctor: 'CreditAlphanum12'};
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$CreditAlphanum4 = {ctor: 'CreditAlphanum4'};
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$stringToAssetType = function (string) {
 	var _p0 = string;
 	switch (_p0) {
 		case 'credit_alphanum4':
-			return _elm_lang$core$Json_Decode$succeed(_user$project$Stellar_Resources_Asset$CreditAlphanum4);
+			return _elm_lang$core$Json_Decode$succeed(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$CreditAlphanum4);
 		case 'credit_alphanum12':
-			return _elm_lang$core$Json_Decode$succeed(_user$project$Stellar_Resources_Asset$CreditAlphanum12);
+			return _elm_lang$core$Json_Decode$succeed(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$CreditAlphanum12);
 		default:
 			return _elm_lang$core$Json_Decode$fail('Could not decode AssetType');
 	}
 };
-var _user$project$Stellar_Resources_Asset$assetTypeDecoder = A2(_elm_lang$core$Json_Decode$andThen, _user$project$Stellar_Resources_Asset$stringToAssetType, _elm_lang$core$Json_Decode$string);
-var _user$project$Stellar_Resources_Asset$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$assetTypeDecoder = A2(_elm_lang$core$Json_Decode$andThen, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$stringToAssetType, _elm_lang$core$Json_Decode$string);
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Asset$linksDecoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$linksDecoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'paging_token',
@@ -24418,7 +24418,7 @@ var _user$project$Stellar_Resources_Asset$decoder = A3(
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'flags',
-			_user$project$Stellar_Flags$decoder,
+			_ryan_senn$stellar_elm_sdk$Stellar_Flags$decoder,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'num_accounts',
@@ -24438,13 +24438,13 @@ var _user$project$Stellar_Resources_Asset$decoder = A3(
 							A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'asset_type',
-								_user$project$Stellar_Resources_Asset$assetTypeDecoder,
-								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Asset$Asset)))))))));
+								_ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$assetTypeDecoder,
+								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$Asset)))))))));
 
-var _user$project$Stellar_Endpoints_AllAssets$url = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$url = function (endpoint) {
 	return A2(_elm_lang$core$Basics_ops['++'], endpoint, '/assets');
 };
-var _user$project$Stellar_Endpoints_AllAssets$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -24453,13 +24453,13 @@ var _user$project$Stellar_Endpoints_AllAssets$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllAssets$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -24474,7 +24474,7 @@ var _user$project$Stellar_Endpoints_AllAssets$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllAssets$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -24485,7 +24485,7 @@ var _user$project$Stellar_Endpoints_AllAssets$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllAssets$setAssetIssuer = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$setAssetIssuer = F2(
 	function (publicKey, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -24496,7 +24496,7 @@ var _user$project$Stellar_Endpoints_AllAssets$setAssetIssuer = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllAssets$setAssetCode = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$setAssetCode = F2(
 	function (assetCode, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -24507,77 +24507,77 @@ var _user$project$Stellar_Endpoints_AllAssets$setAssetCode = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllAssets$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_AllAssets$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllAssets$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllAssets$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_AllAssets$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_AllAssets$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Asset$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_AllAssets$requestBuilder = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$requestBuilder = function (endpoint) {
 	return A2(
 		_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-		_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_AllAssets$decoder),
+		_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$decoder),
 		_lukewestby$elm_http_builder$HttpBuilder$get(
-			_user$project$Stellar_Endpoints_AllAssets$url(endpoint)));
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$url(endpoint)));
 };
 
-var _user$project$Endpoints_AllAssets_Model$initialSettings = {assetCode: _bluedogtraining$bdt_elm$Form_Input$init, assetIssuer: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllAssets_Model$initialModel = {settings: _user$project$Endpoints_AllAssets_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllAssets_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Model$initialSettings = {assetCode: _bluedogtraining$bdt_elm$Form_Input$init, assetIssuer: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_AllAssets_Model$Settings = F5(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Model$Settings = F5(
 	function (a, b, c, d, e) {
 		return {assetCode: a, assetIssuer: b, cursor: c, limit: d, sorting: e};
 	});
 
-var _user$project$Endpoints_AllAssets_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_AllAssets_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_AllAssets_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_AllAssets_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_AllAssets_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_AllAssets_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_AllAssets_Msg$UpdateAssetIssuer = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$UpdateAssetIssuer = function (a) {
 	return {ctor: 'UpdateAssetIssuer', _0: a};
 };
-var _user$project$Endpoints_AllAssets_Msg$UpdateAssetCode = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$UpdateAssetCode = function (a) {
 	return {ctor: 'UpdateAssetCode', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_DataForAccount$dataKeyToString = function (_p0) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$dataKeyToString = function (_p0) {
 	return _elm_community$string_extra$String_Extra$dasherize(
 		_elm_community$string_extra$String_Extra$decapitalize(
 			_elm_lang$core$Basics$toString(_p0)));
 };
-var _user$project$Stellar_Endpoints_DataForAccount$url = F3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$url = F3(
 	function (endpoint, publicKey, key) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -24591,97 +24591,97 @@ var _user$project$Stellar_Endpoints_DataForAccount$url = F3(
 					A2(
 						_elm_lang$core$Basics_ops['++'],
 						'/data/',
-						_user$project$Stellar_Endpoints_DataForAccount$dataKeyToString(key)))));
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$dataKeyToString(key)))));
 	});
-var _user$project$Stellar_Endpoints_DataForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_DataForAccount$UserId = {ctor: 'UserId'};
-var _user$project$Stellar_Endpoints_DataForAccount$dataKeyList = {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$UserId = {ctor: 'UserId'};
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$dataKeyList = {
 	ctor: '::',
-	_0: _user$project$Stellar_Endpoints_DataForAccount$UserId,
+	_0: _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$UserId,
 	_1: {ctor: '[]'}
 };
-var _user$project$Stellar_Endpoints_DataForAccount$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_DataForAccount$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_DataForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_DataForAccount$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
-			_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_DataForAccount$Success, _user$project$Stellar_Resources_Data$decoder),
+			_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$Success, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Data$decoder),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_DataForAccount$requestBuilder = F3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$requestBuilder = F3(
 	function (endpoint, publicKey, dataKey) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_DataForAccount$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A3(_user$project$Stellar_Endpoints_DataForAccount$url, endpoint, publicKey, dataKey)));
+				A3(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$url, endpoint, publicKey, dataKey)));
 	});
 
-var _user$project$Endpoints_DataForAccount_Model$initialSettings = {
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Model$initialSettings = {
 	publicKey: _bluedogtraining$bdt_elm$Form_Input$init,
-	dataKey: _bluedogtraining$bdt_elm$Form_Select$init(_user$project$Stellar_Endpoints_DataForAccount$dataKeyList)
+	dataKey: _bluedogtraining$bdt_elm$Form_Select$init(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$dataKeyList)
 };
-var _user$project$Endpoints_DataForAccount_Model$initialModel = {settings: _user$project$Endpoints_DataForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_DataForAccount_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_DataForAccount_Model$Settings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Model$Settings = F2(
 	function (a, b) {
 		return {publicKey: a, dataKey: b};
 	});
 
-var _user$project$Endpoints_DataForAccount_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_DataForAccount_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_DataForAccount_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_DataForAccount_Msg$UpdateDataKey = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$UpdateDataKey = function (a) {
 	return {ctor: 'UpdateDataKey', _0: a};
 };
-var _user$project$Endpoints_DataForAccount_Msg$UpdatePublicKey = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$UpdatePublicKey = function (a) {
 	return {ctor: 'UpdatePublicKey', _0: a};
 };
 
-var _user$project$Stellar_Resources_Effects_Links$Links = F3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$Links = F3(
 	function (a, b, c) {
 		return {operation: a, succeeds: b, precedes: c};
 	});
-var _user$project$Stellar_Resources_Effects_Links$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'precedes',
-	_user$project$Stellar_Link$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'succeeds',
-		_user$project$Stellar_Link$decoder,
+		_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'operation',
-			_user$project$Stellar_Link$decoder,
-			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_Links$Links))));
+			_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
+			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$Links))));
 
-var _user$project$Stellar_Resources_Effects_AccountCreated$AccountCreated = F8(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountCreated$AccountCreated = F8(
 	function (a, b, c, d, e, f, g, h) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, startingBalance: f, createdAt: g, links: h};
 	});
-var _user$project$Stellar_Resources_Effects_AccountCreated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountCreated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'created_at',
@@ -24710,16 +24710,16 @@ var _user$project$Stellar_Resources_Effects_AccountCreated$decoder = A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'id',
 								_elm_lang$core$Json_Decode$string,
-								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_AccountCreated$AccountCreated)))))))));
+								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountCreated$AccountCreated)))))))));
 
-var _user$project$Stellar_Resources_Effects_AccountCredited$AccountCredited = F9(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountCredited$AccountCredited = F9(
 	function (a, b, c, d, e, f, g, h, i) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, assetType: f, amount: g, createdAt: h, links: i};
 	});
-var _user$project$Stellar_Resources_Effects_AccountCredited$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountCredited$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'created_at',
@@ -24731,7 +24731,7 @@ var _user$project$Stellar_Resources_Effects_AccountCredited$decoder = A3(
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'asset_type',
-				_user$project$Stellar_AssetType$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'account',
@@ -24752,16 +24752,16 @@ var _user$project$Stellar_Resources_Effects_AccountCredited$decoder = A3(
 									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 									'id',
 									_elm_lang$core$Json_Decode$string,
-									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_AccountCredited$AccountCredited))))))))));
+									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountCredited$AccountCredited))))))))));
 
-var _user$project$Stellar_Resources_Effects_AccountDebited$AccountDebited = F9(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountDebited$AccountDebited = F9(
 	function (a, b, c, d, e, f, g, h, i) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, assetType: f, amount: g, createdAt: h, links: i};
 	});
-var _user$project$Stellar_Resources_Effects_AccountDebited$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountDebited$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'created_at',
@@ -24773,7 +24773,7 @@ var _user$project$Stellar_Resources_Effects_AccountDebited$decoder = A3(
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'asset_type',
-				_user$project$Stellar_AssetType$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'account',
@@ -24794,16 +24794,16 @@ var _user$project$Stellar_Resources_Effects_AccountDebited$decoder = A3(
 									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 									'id',
 									_elm_lang$core$Json_Decode$string,
-									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_AccountDebited$AccountDebited))))))))));
+									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountDebited$AccountDebited))))))))));
 
-var _user$project$Stellar_Resources_Effects_AccountFlagsUpdated$AccountFlagsUpdated = F8(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountFlagsUpdated$AccountFlagsUpdated = F8(
 	function (a, b, c, d, e, f, g, h) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, authRequired: f, authRevokable: g, links: h};
 	});
-var _user$project$Stellar_Resources_Effects_AccountFlagsUpdated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountFlagsUpdated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'auth_revokable_flag',
@@ -24832,16 +24832,16 @@ var _user$project$Stellar_Resources_Effects_AccountFlagsUpdated$decoder = A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'id',
 								_elm_lang$core$Json_Decode$string,
-								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_AccountFlagsUpdated$AccountFlagsUpdated)))))))));
+								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountFlagsUpdated$AccountFlagsUpdated)))))))));
 
-var _user$project$Stellar_Resources_Effects_AccountHomeDomainUpdated$AccountHomeDomainUpdated = F7(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountHomeDomainUpdated$AccountHomeDomainUpdated = F7(
 	function (a, b, c, d, e, f, g) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, homeDomain: f, links: g};
 	});
-var _user$project$Stellar_Resources_Effects_AccountHomeDomainUpdated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountHomeDomainUpdated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'home_domain',
@@ -24866,16 +24866,16 @@ var _user$project$Stellar_Resources_Effects_AccountHomeDomainUpdated$decoder = A
 							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 							'id',
 							_elm_lang$core$Json_Decode$string,
-							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_AccountHomeDomainUpdated$AccountHomeDomainUpdated))))))));
+							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountHomeDomainUpdated$AccountHomeDomainUpdated))))))));
 
-var _user$project$Stellar_Resources_Effects_AccountInflationDestinationUpdated$AccountInflationDestinationUpdated = F6(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountInflationDestinationUpdated$AccountInflationDestinationUpdated = F6(
 	function (a, b, c, d, e, f) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, links: f};
 	});
-var _user$project$Stellar_Resources_Effects_AccountInflationDestinationUpdated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountInflationDestinationUpdated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'account',
@@ -24896,16 +24896,16 @@ var _user$project$Stellar_Resources_Effects_AccountInflationDestinationUpdated$d
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'id',
 						_elm_lang$core$Json_Decode$string,
-						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_AccountInflationDestinationUpdated$AccountInflationDestinationUpdated)))))));
+						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountInflationDestinationUpdated$AccountInflationDestinationUpdated)))))));
 
-var _user$project$Stellar_Resources_Effects_AccountRemoved$AccountRemoved = F6(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountRemoved$AccountRemoved = F6(
 	function (a, b, c, d, e, f) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, links: f};
 	});
-var _user$project$Stellar_Resources_Effects_AccountRemoved$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountRemoved$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'account',
@@ -24926,16 +24926,16 @@ var _user$project$Stellar_Resources_Effects_AccountRemoved$decoder = A3(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'id',
 						_elm_lang$core$Json_Decode$string,
-						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_AccountRemoved$AccountRemoved)))))));
+						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountRemoved$AccountRemoved)))))));
 
-var _user$project$Stellar_Resources_Effects_AccountThresholdsUpdated$AccountThresholdsUpdated = F9(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountThresholdsUpdated$AccountThresholdsUpdated = F9(
 	function (a, b, c, d, e, f, g, h, i) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, lowThreshold: f, medThreshold: g, highThreshold: h, links: i};
 	});
-var _user$project$Stellar_Resources_Effects_AccountThresholdsUpdated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountThresholdsUpdated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'high_threshold',
@@ -24968,16 +24968,16 @@ var _user$project$Stellar_Resources_Effects_AccountThresholdsUpdated$decoder = A
 									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 									'id',
 									_elm_lang$core$Json_Decode$string,
-									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_AccountThresholdsUpdated$AccountThresholdsUpdated))))))))));
+									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountThresholdsUpdated$AccountThresholdsUpdated))))))))));
 
-var _user$project$Stellar_Resources_Effects_DataCreated$DataCreated = F6(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataCreated$DataCreated = F6(
 	function (a, b, c, d, e, f) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, links: f};
 	});
-var _user$project$Stellar_Resources_Effects_DataCreated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataCreated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'account',
@@ -24998,16 +24998,16 @@ var _user$project$Stellar_Resources_Effects_DataCreated$decoder = A3(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'id',
 						_elm_lang$core$Json_Decode$string,
-						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_DataCreated$DataCreated)))))));
+						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataCreated$DataCreated)))))));
 
-var _user$project$Stellar_Resources_Effects_DataRemoved$DataRemoved = F6(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataRemoved$DataRemoved = F6(
 	function (a, b, c, d, e, f) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, links: f};
 	});
-var _user$project$Stellar_Resources_Effects_DataRemoved$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataRemoved$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'account',
@@ -25028,16 +25028,16 @@ var _user$project$Stellar_Resources_Effects_DataRemoved$decoder = A3(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'id',
 						_elm_lang$core$Json_Decode$string,
-						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_DataRemoved$DataRemoved)))))));
+						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataRemoved$DataRemoved)))))));
 
-var _user$project$Stellar_Resources_Effects_DataUpdated$DataUpdated = F6(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataUpdated$DataUpdated = F6(
 	function (a, b, c, d, e, f) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, links: f};
 	});
-var _user$project$Stellar_Resources_Effects_DataUpdated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataUpdated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'account',
@@ -25058,16 +25058,16 @@ var _user$project$Stellar_Resources_Effects_DataUpdated$decoder = A3(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'id',
 						_elm_lang$core$Json_Decode$string,
-						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_DataUpdated$DataUpdated)))))));
+						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataUpdated$DataUpdated)))))));
 
-var _user$project$Stellar_Resources_Effects_OfferCreated$OfferCreated = F6(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferCreated$OfferCreated = F6(
 	function (a, b, c, d, e, f) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, links: f};
 	});
-var _user$project$Stellar_Resources_Effects_OfferCreated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferCreated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'account',
@@ -25088,16 +25088,16 @@ var _user$project$Stellar_Resources_Effects_OfferCreated$decoder = A3(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'id',
 						_elm_lang$core$Json_Decode$string,
-						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_OfferCreated$OfferCreated)))))));
+						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferCreated$OfferCreated)))))));
 
-var _user$project$Stellar_Resources_Effects_OfferRemoved$OfferRemoved = F6(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferRemoved$OfferRemoved = F6(
 	function (a, b, c, d, e, f) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, links: f};
 	});
-var _user$project$Stellar_Resources_Effects_OfferRemoved$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferRemoved$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'account',
@@ -25118,16 +25118,16 @@ var _user$project$Stellar_Resources_Effects_OfferRemoved$decoder = A3(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'id',
 						_elm_lang$core$Json_Decode$string,
-						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_OfferRemoved$OfferRemoved)))))));
+						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferRemoved$OfferRemoved)))))));
 
-var _user$project$Stellar_Resources_Effects_OfferUpdated$OfferUpdated = F6(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferUpdated$OfferUpdated = F6(
 	function (a, b, c, d, e, f) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, links: f};
 	});
-var _user$project$Stellar_Resources_Effects_OfferUpdated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferUpdated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'account',
@@ -25148,9 +25148,9 @@ var _user$project$Stellar_Resources_Effects_OfferUpdated$decoder = A3(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'id',
 						_elm_lang$core$Json_Decode$string,
-						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_OfferUpdated$OfferUpdated)))))));
+						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferUpdated$OfferUpdated)))))));
 
-var _user$project$Stellar_Resources_Effects_SignerCreated$SignerCreated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_SignerCreated$SignerCreated = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -25171,10 +25171,10 @@ var _user$project$Stellar_Resources_Effects_SignerCreated$SignerCreated = functi
 		};
 	};
 };
-var _user$project$Stellar_Resources_Effects_SignerCreated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_SignerCreated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'created_at',
@@ -25186,7 +25186,7 @@ var _user$project$Stellar_Resources_Effects_SignerCreated$decoder = A3(
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'public_key',
-				_user$project$Stellar_PublicKey$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_PublicKey$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'weight',
@@ -25211,16 +25211,16 @@ var _user$project$Stellar_Resources_Effects_SignerCreated$decoder = A3(
 										_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 										'id',
 										_elm_lang$core$Json_Decode$string,
-										_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_SignerCreated$SignerCreated)))))))))));
+										_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_SignerCreated$SignerCreated)))))))))));
 
-var _user$project$Stellar_Resources_Effects_SignerRemoved$SignerRemoved = F9(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_SignerRemoved$SignerRemoved = F9(
 	function (a, b, c, d, e, f, g, h, i) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, weight: f, publicKey: g, key: h, links: i};
 	});
-var _user$project$Stellar_Resources_Effects_SignerRemoved$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_SignerRemoved$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'key',
@@ -25228,7 +25228,7 @@ var _user$project$Stellar_Resources_Effects_SignerRemoved$decoder = A3(
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'public_key',
-			_user$project$Stellar_PublicKey$decoder,
+			_ryan_senn$stellar_elm_sdk$Stellar_PublicKey$decoder,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'weight',
@@ -25253,9 +25253,9 @@ var _user$project$Stellar_Resources_Effects_SignerRemoved$decoder = A3(
 									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 									'id',
 									_elm_lang$core$Json_Decode$string,
-									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_SignerRemoved$SignerRemoved))))))))));
+									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_SignerRemoved$SignerRemoved))))))))));
 
-var _user$project$Stellar_Resources_Effects_Trade$Trade = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Trade$Trade = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -25288,10 +25288,10 @@ var _user$project$Stellar_Resources_Effects_Trade$Trade = function (a) {
 		};
 	};
 };
-var _user$project$Stellar_Resources_Effects_Trade$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Trade$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A4(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 		'bought_asset_issuer',
@@ -25305,7 +25305,7 @@ var _user$project$Stellar_Resources_Effects_Trade$decoder = A3(
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'bought_asset_type',
-				_user$project$Stellar_AssetType$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'bought_amount',
@@ -25323,7 +25323,7 @@ var _user$project$Stellar_Resources_Effects_Trade$decoder = A3(
 							A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'sold_asset_type',
-								_user$project$Stellar_AssetType$decoder,
+								_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 								A3(
 									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 									'sold_amount',
@@ -25356,16 +25356,16 @@ var _user$project$Stellar_Resources_Effects_Trade$decoder = A3(
 																_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 																'id',
 																_elm_lang$core$Json_Decode$string,
-																_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_Trade$Trade)))))))))))))))));
+																_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Trade$Trade)))))))))))))))));
 
-var _user$project$Stellar_Resources_Effects_TrustlineAuthorised$TrustlineAuthorised = F9(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineAuthorised$TrustlineAuthorised = F9(
 	function (a, b, c, d, e, f, g, h, i) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, trustor: f, assetType: g, assetCode: h, links: i};
 	});
-var _user$project$Stellar_Resources_Effects_TrustlineAuthorised$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineAuthorised$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A4(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 		'asset_code',
@@ -25374,7 +25374,7 @@ var _user$project$Stellar_Resources_Effects_TrustlineAuthorised$decoder = A3(
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'asset_type',
-			_user$project$Stellar_AssetType$decoder,
+			_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'trustor',
@@ -25399,16 +25399,16 @@ var _user$project$Stellar_Resources_Effects_TrustlineAuthorised$decoder = A3(
 									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 									'id',
 									_elm_lang$core$Json_Decode$string,
-									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_TrustlineAuthorised$TrustlineAuthorised))))))))));
+									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineAuthorised$TrustlineAuthorised))))))))));
 
-var _user$project$Stellar_Resources_Effects_TrustlineCreated$TrustlineCreated = F8(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineCreated$TrustlineCreated = F8(
 	function (a, b, c, d, e, f, g, h) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, assetType: f, limit: g, links: h};
 	});
-var _user$project$Stellar_Resources_Effects_TrustlineCreated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineCreated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'limit',
@@ -25416,7 +25416,7 @@ var _user$project$Stellar_Resources_Effects_TrustlineCreated$decoder = A3(
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'asset',
-			_user$project$Stellar_AssetType$decoder,
+			_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'account',
@@ -25437,16 +25437,16 @@ var _user$project$Stellar_Resources_Effects_TrustlineCreated$decoder = A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'id',
 								_elm_lang$core$Json_Decode$string,
-								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_TrustlineCreated$TrustlineCreated)))))))));
+								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineCreated$TrustlineCreated)))))))));
 
-var _user$project$Stellar_Resources_Effects_TrustlineDeauthorised$TrustlineDeauthorised = F9(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineDeauthorised$TrustlineDeauthorised = F9(
 	function (a, b, c, d, e, f, g, h, i) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, trustor: f, assetType: g, assetCode: h, links: i};
 	});
-var _user$project$Stellar_Resources_Effects_TrustlineDeauthorised$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineDeauthorised$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A4(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 		'asset_code',
@@ -25455,7 +25455,7 @@ var _user$project$Stellar_Resources_Effects_TrustlineDeauthorised$decoder = A3(
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'asset_type',
-			_user$project$Stellar_AssetType$decoder,
+			_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'trustor',
@@ -25480,16 +25480,16 @@ var _user$project$Stellar_Resources_Effects_TrustlineDeauthorised$decoder = A3(
 									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 									'id',
 									_elm_lang$core$Json_Decode$string,
-									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_TrustlineDeauthorised$TrustlineDeauthorised))))))))));
+									_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineDeauthorised$TrustlineDeauthorised))))))))));
 
-var _user$project$Stellar_Resources_Effects_TrustlineRemoved$TrustlineRemoved = F8(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineRemoved$TrustlineRemoved = F8(
 	function (a, b, c, d, e, f, g, h) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, assetType: f, limit: g, links: h};
 	});
-var _user$project$Stellar_Resources_Effects_TrustlineRemoved$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineRemoved$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'limit',
@@ -25497,7 +25497,7 @@ var _user$project$Stellar_Resources_Effects_TrustlineRemoved$decoder = A3(
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'asset',
-			_user$project$Stellar_AssetType$decoder,
+			_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'account',
@@ -25518,16 +25518,16 @@ var _user$project$Stellar_Resources_Effects_TrustlineRemoved$decoder = A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'id',
 								_elm_lang$core$Json_Decode$string,
-								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_TrustlineRemoved$TrustlineRemoved)))))))));
+								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineRemoved$TrustlineRemoved)))))))));
 
-var _user$project$Stellar_Resources_Effects_TrustlineUpdated$TrustlineUpdated = F8(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineUpdated$TrustlineUpdated = F8(
 	function (a, b, c, d, e, f, g, h) {
 		return {id: a, pagingToken: b, type_: c, typeI: d, account: e, assetType: f, limit: g, links: h};
 	});
-var _user$project$Stellar_Resources_Effects_TrustlineUpdated$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineUpdated$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Effects_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'limit',
@@ -25535,7 +25535,7 @@ var _user$project$Stellar_Resources_Effects_TrustlineUpdated$decoder = A3(
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'asset',
-			_user$project$Stellar_AssetType$decoder,
+			_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'account',
@@ -25556,134 +25556,134 @@ var _user$project$Stellar_Resources_Effects_TrustlineUpdated$decoder = A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'id',
 								_elm_lang$core$Json_Decode$string,
-								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Effects_TrustlineUpdated$TrustlineUpdated)))))))));
+								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineUpdated$TrustlineUpdated)))))))));
 
-var _user$project$Stellar_Resources_Effect$TrustlineUpdated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$TrustlineUpdated = function (a) {
 	return {ctor: 'TrustlineUpdated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$TrustlineRemoved = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$TrustlineRemoved = function (a) {
 	return {ctor: 'TrustlineRemoved', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$TrustlineDeauthorised = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$TrustlineDeauthorised = function (a) {
 	return {ctor: 'TrustlineDeauthorised', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$TrustlineCreated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$TrustlineCreated = function (a) {
 	return {ctor: 'TrustlineCreated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$TrustlineAuthorised = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$TrustlineAuthorised = function (a) {
 	return {ctor: 'TrustlineAuthorised', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$Trade = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$Trade = function (a) {
 	return {ctor: 'Trade', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$SignerRemoved = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$SignerRemoved = function (a) {
 	return {ctor: 'SignerRemoved', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$SignerCreated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$SignerCreated = function (a) {
 	return {ctor: 'SignerCreated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$OfferUpdated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$OfferUpdated = function (a) {
 	return {ctor: 'OfferUpdated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$OfferRemoved = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$OfferRemoved = function (a) {
 	return {ctor: 'OfferRemoved', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$OfferCreated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$OfferCreated = function (a) {
 	return {ctor: 'OfferCreated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$DataUpdated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$DataUpdated = function (a) {
 	return {ctor: 'DataUpdated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$DataRemoved = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$DataRemoved = function (a) {
 	return {ctor: 'DataRemoved', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$DataCreated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$DataCreated = function (a) {
 	return {ctor: 'DataCreated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$AccountThresholdsUpdated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountThresholdsUpdated = function (a) {
 	return {ctor: 'AccountThresholdsUpdated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$AccountRemoved = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountRemoved = function (a) {
 	return {ctor: 'AccountRemoved', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$AccountInflationDestinationUpdated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountInflationDestinationUpdated = function (a) {
 	return {ctor: 'AccountInflationDestinationUpdated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$AccountHomeDomainUpdated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountHomeDomainUpdated = function (a) {
 	return {ctor: 'AccountHomeDomainUpdated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$AccountFlagsUpdated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountFlagsUpdated = function (a) {
 	return {ctor: 'AccountFlagsUpdated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$AccountDebited = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountDebited = function (a) {
 	return {ctor: 'AccountDebited', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$AccountCredited = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountCredited = function (a) {
 	return {ctor: 'AccountCredited', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$AccountCreated = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountCreated = function (a) {
 	return {ctor: 'AccountCreated', _0: a};
 };
-var _user$project$Stellar_Resources_Effect$effectFromType = function (type_) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$effectFromType = function (type_) {
 	var _p0 = type_;
 	switch (_p0) {
 		case 'account_created':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$AccountCreated, _user$project$Stellar_Resources_Effects_AccountCreated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountCreated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountCreated$decoder);
 		case 'account_credited':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$AccountCredited, _user$project$Stellar_Resources_Effects_AccountCredited$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountCredited, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountCredited$decoder);
 		case 'account_debited':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$AccountDebited, _user$project$Stellar_Resources_Effects_AccountDebited$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountDebited, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountDebited$decoder);
 		case 'account_flags_updated':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$AccountFlagsUpdated, _user$project$Stellar_Resources_Effects_AccountFlagsUpdated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountFlagsUpdated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountFlagsUpdated$decoder);
 		case 'account_home_domain_updated':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$AccountHomeDomainUpdated, _user$project$Stellar_Resources_Effects_AccountHomeDomainUpdated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountHomeDomainUpdated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountHomeDomainUpdated$decoder);
 		case 'account_inflation_destination_updated':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$AccountInflationDestinationUpdated, _user$project$Stellar_Resources_Effects_AccountInflationDestinationUpdated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountInflationDestinationUpdated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountInflationDestinationUpdated$decoder);
 		case 'account_removed':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$AccountRemoved, _user$project$Stellar_Resources_Effects_AccountRemoved$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountRemoved, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountRemoved$decoder);
 		case 'account_thresholds_updated':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$AccountThresholdsUpdated, _user$project$Stellar_Resources_Effects_AccountThresholdsUpdated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$AccountThresholdsUpdated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_AccountThresholdsUpdated$decoder);
 		case 'data_created':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$DataCreated, _user$project$Stellar_Resources_Effects_DataCreated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$DataCreated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataCreated$decoder);
 		case 'data_removed':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$DataRemoved, _user$project$Stellar_Resources_Effects_DataRemoved$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$DataRemoved, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataRemoved$decoder);
 		case 'data_updated':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$DataUpdated, _user$project$Stellar_Resources_Effects_DataUpdated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$DataUpdated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_DataUpdated$decoder);
 		case 'offer_created':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$OfferCreated, _user$project$Stellar_Resources_Effects_OfferCreated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$OfferCreated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferCreated$decoder);
 		case 'offer_removed':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$OfferRemoved, _user$project$Stellar_Resources_Effects_OfferRemoved$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$OfferRemoved, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferRemoved$decoder);
 		case 'offer_updated':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$OfferUpdated, _user$project$Stellar_Resources_Effects_OfferUpdated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$OfferUpdated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_OfferUpdated$decoder);
 		case 'signer_created':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$SignerCreated, _user$project$Stellar_Resources_Effects_SignerCreated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$SignerCreated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_SignerCreated$decoder);
 		case 'signer_removed':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$SignerRemoved, _user$project$Stellar_Resources_Effects_SignerRemoved$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$SignerRemoved, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_SignerRemoved$decoder);
 		case 'trade':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$Trade, _user$project$Stellar_Resources_Effects_Trade$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$Trade, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_Trade$decoder);
 		case 'trustline_authorised':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$TrustlineAuthorised, _user$project$Stellar_Resources_Effects_TrustlineAuthorised$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$TrustlineAuthorised, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineAuthorised$decoder);
 		case 'trustline_created':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$TrustlineCreated, _user$project$Stellar_Resources_Effects_TrustlineCreated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$TrustlineCreated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineCreated$decoder);
 		case 'trustline_deauthorised':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$TrustlineDeauthorised, _user$project$Stellar_Resources_Effects_TrustlineDeauthorised$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$TrustlineDeauthorised, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineDeauthorised$decoder);
 		case 'trustline_removed':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$TrustlineRemoved, _user$project$Stellar_Resources_Effects_TrustlineRemoved$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$TrustlineRemoved, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineRemoved$decoder);
 		case 'trustline_updated':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Effect$TrustlineUpdated, _user$project$Stellar_Resources_Effects_TrustlineUpdated$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$TrustlineUpdated, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effects_TrustlineUpdated$decoder);
 		default:
 			return _elm_lang$core$Json_Decode$fail('Could not decode Effect');
 	}
 };
-var _user$project$Stellar_Resources_Effect$decoder = A2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$decoder = A2(
 	_elm_lang$core$Json_Decode$andThen,
-	_user$project$Stellar_Resources_Effect$effectFromType,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$effectFromType,
 	A2(_elm_lang$core$Json_Decode$field, 'type', _elm_lang$core$Json_Decode$string));
 
-var _user$project$Stellar_Endpoints_AllEffects$url = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$url = function (endpoint) {
 	return A2(_elm_lang$core$Basics_ops['++'], endpoint, '/effects');
 };
-var _user$project$Stellar_Endpoints_AllEffects$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -25692,13 +25692,13 @@ var _user$project$Stellar_Endpoints_AllEffects$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllEffects$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -25713,7 +25713,7 @@ var _user$project$Stellar_Endpoints_AllEffects$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllEffects$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -25724,66 +25724,66 @@ var _user$project$Stellar_Endpoints_AllEffects$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllEffects$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_AllEffects$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllEffects$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllEffects$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_AllEffects$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_AllEffects$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Effect$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_AllEffects$requestBuilder = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$requestBuilder = function (endpoint) {
 	return A2(
 		_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-		_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_AllEffects$decoder),
+		_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$decoder),
 		_lukewestby$elm_http_builder$HttpBuilder$get(
-			_user$project$Stellar_Endpoints_AllEffects$url(endpoint)));
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$url(endpoint)));
 };
 
-var _user$project$Endpoints_AllEffects_Model$initialSettings = {cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllEffects_Model$initialModel = {settings: _user$project$Endpoints_AllEffects_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllEffects_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Model$initialSettings = {cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_AllEffects_Model$Settings = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Model$Settings = F3(
 	function (a, b, c) {
 		return {cursor: a, limit: b, sorting: c};
 	});
 
-var _user$project$Endpoints_AllEffects_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_AllEffects_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_AllEffects_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_AllEffects_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_AllEffects_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_AllEffects_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_EffectsForAccount$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$url = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -25793,7 +25793,7 @@ var _user$project$Stellar_Endpoints_EffectsForAccount$url = F2(
 				'/accounts/',
 				A2(_elm_lang$core$Basics_ops['++'], publicKey, '/effects')));
 	});
-var _user$project$Stellar_Endpoints_EffectsForAccount$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -25802,13 +25802,13 @@ var _user$project$Stellar_Endpoints_EffectsForAccount$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForAccount$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -25823,7 +25823,7 @@ var _user$project$Stellar_Endpoints_EffectsForAccount$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForAccount$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -25834,70 +25834,70 @@ var _user$project$Stellar_Endpoints_EffectsForAccount$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_EffectsForAccount$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_EffectsForAccount$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_EffectsForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_EffectsForAccount$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_EffectsForAccount$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Effect$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_EffectsForAccount$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$requestBuilder = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_EffectsForAccount$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_EffectsForAccount$url, endpoint, publicKey)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$url, endpoint, publicKey)));
 	});
 
-var _user$project$Endpoints_EffectsForAccount_Model$initialSettings = {account: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_EffectsForAccount_Model$initialModel = {settings: _user$project$Endpoints_EffectsForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_EffectsForAccount_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Model$initialSettings = {account: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_EffectsForAccount_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {account: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_EffectsForAccount_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_EffectsForAccount_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_EffectsForAccount_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_EffectsForAccount_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_EffectsForAccount_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_EffectsForAccount_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_EffectsForAccount_Msg$UpdateAccount = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$UpdateAccount = function (a) {
 	return {ctor: 'UpdateAccount', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_EffectsForLedger$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$url = F2(
 	function (endpoint, ledgerId) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -25910,7 +25910,7 @@ var _user$project$Stellar_Endpoints_EffectsForLedger$url = F2(
 					_elm_lang$core$Basics$toString(ledgerId),
 					'/effects')));
 	});
-var _user$project$Stellar_Endpoints_EffectsForLedger$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -25919,13 +25919,13 @@ var _user$project$Stellar_Endpoints_EffectsForLedger$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForLedger$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -25940,7 +25940,7 @@ var _user$project$Stellar_Endpoints_EffectsForLedger$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForLedger$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -25951,70 +25951,70 @@ var _user$project$Stellar_Endpoints_EffectsForLedger$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForLedger$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_EffectsForLedger$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_EffectsForLedger$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_EffectsForLedger$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_EffectsForLedger$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_EffectsForLedger$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Effect$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_EffectsForLedger$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$requestBuilder = F2(
 	function (endpoint, ledgerId) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_EffectsForLedger$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_EffectsForLedger$url, endpoint, ledgerId)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$url, endpoint, ledgerId)));
 	});
 
-var _user$project$Endpoints_EffectsForLedger_Model$initialSettings = {ledgerId: _bluedogtraining$bdt_elm$Form_IntInput$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_EffectsForLedger_Model$initialModel = {settings: _user$project$Endpoints_EffectsForLedger_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_EffectsForLedger_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Model$initialSettings = {ledgerId: _bluedogtraining$bdt_elm$Form_IntInput$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_EffectsForLedger_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {ledgerId: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_EffectsForLedger_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_EffectsForLedger_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_EffectsForLedger_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_EffectsForLedger_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_EffectsForLedger_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_EffectsForLedger_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_EffectsForLedger_Msg$UpdateLedgerId = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$UpdateLedgerId = function (a) {
 	return {ctor: 'UpdateLedgerId', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_EffectsForOperation$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$url = F2(
 	function (endpoint, operationId) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -26027,7 +26027,7 @@ var _user$project$Stellar_Endpoints_EffectsForOperation$url = F2(
 					_elm_lang$core$Basics$toString(operationId),
 					'/effects')));
 	});
-var _user$project$Stellar_Endpoints_EffectsForOperation$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26036,13 +26036,13 @@ var _user$project$Stellar_Endpoints_EffectsForOperation$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForOperation$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26057,7 +26057,7 @@ var _user$project$Stellar_Endpoints_EffectsForOperation$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForOperation$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26068,70 +26068,70 @@ var _user$project$Stellar_Endpoints_EffectsForOperation$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForOperation$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_EffectsForOperation$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_EffectsForOperation$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_EffectsForOperation$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_EffectsForOperation$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_EffectsForOperation$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Effect$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_EffectsForOperation$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$requestBuilder = F2(
 	function (endpoint, operationId) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_EffectsForOperation$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_EffectsForOperation$url, endpoint, operationId)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$url, endpoint, operationId)));
 	});
 
-var _user$project$Endpoints_EffectsForOperation_Model$initialSettings = {operationId: _bluedogtraining$bdt_elm$Form_IntInput$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_EffectsForOperation_Model$initialModel = {settings: _user$project$Endpoints_EffectsForOperation_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_EffectsForOperation_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Model$initialSettings = {operationId: _bluedogtraining$bdt_elm$Form_IntInput$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_EffectsForOperation_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {operationId: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_EffectsForOperation_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_EffectsForOperation_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_EffectsForOperation_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_EffectsForOperation_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_EffectsForOperation_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_EffectsForOperation_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_EffectsForOperation_Msg$UpdateOperationId = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$UpdateOperationId = function (a) {
 	return {ctor: 'UpdateOperationId', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_EffectsForTransaction$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$url = F2(
 	function (endpoint, hash) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -26141,7 +26141,7 @@ var _user$project$Stellar_Endpoints_EffectsForTransaction$url = F2(
 				'/transactions/',
 				A2(_elm_lang$core$Basics_ops['++'], hash, '/effects')));
 	});
-var _user$project$Stellar_Endpoints_EffectsForTransaction$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26150,13 +26150,13 @@ var _user$project$Stellar_Endpoints_EffectsForTransaction$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForTransaction$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26171,7 +26171,7 @@ var _user$project$Stellar_Endpoints_EffectsForTransaction$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForTransaction$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26182,70 +26182,70 @@ var _user$project$Stellar_Endpoints_EffectsForTransaction$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_EffectsForTransaction$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_EffectsForTransaction$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_EffectsForTransaction$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_EffectsForTransaction$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_EffectsForTransaction$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_EffectsForTransaction$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Effect$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Effect$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_EffectsForTransaction$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$requestBuilder = F2(
 	function (endpoint, hash) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_EffectsForTransaction$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_EffectsForTransaction$url, endpoint, hash)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$url, endpoint, hash)));
 	});
 
-var _user$project$Endpoints_EffectsForTransaction_Model$initialSettings = {transaction: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_EffectsForTransaction_Model$initialModel = {settings: _user$project$Endpoints_EffectsForTransaction_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_EffectsForTransaction_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Model$initialSettings = {transaction: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_EffectsForTransaction_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {transaction: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_EffectsForTransaction_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_EffectsForTransaction_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_EffectsForTransaction_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_EffectsForTransaction_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_EffectsForTransaction_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_EffectsForTransaction_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_EffectsForTransaction_Msg$UpdateTransaction = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$UpdateTransaction = function (a) {
 	return {ctor: 'UpdateTransaction', _0: a};
 };
 
-var _user$project$Stellar_Resources_Ledger$Ledger = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Ledger$Ledger = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -26282,35 +26282,35 @@ var _user$project$Stellar_Resources_Ledger$Ledger = function (a) {
 		};
 	};
 };
-var _user$project$Stellar_Resources_Ledger$Links = F5(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Ledger$Links = F5(
 	function (a, b, c, d, e) {
 		return {effects: a, operations: b, payments: c, self: d, transactions: e};
 	});
-var _user$project$Stellar_Resources_Ledger$linksDecoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Ledger$linksDecoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'transactions',
-	_user$project$Stellar_Link$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'self',
-		_user$project$Stellar_Link$decoder,
+		_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'payments',
-			_user$project$Stellar_Link$decoder,
+			_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'operations',
-				_user$project$Stellar_Link$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'effects',
-					_user$project$Stellar_Link$decoder,
-					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Ledger$Links))))));
-var _user$project$Stellar_Resources_Ledger$decoder = A3(
+					_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
+					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Ledger$Links))))));
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Ledger$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Ledger$linksDecoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Ledger$linksDecoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'base_reserve_in_stroops',
@@ -26382,12 +26382,12 @@ var _user$project$Stellar_Resources_Ledger$decoder = A3(
 																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 																		'id',
 																		_elm_lang$core$Json_Decode$string,
-																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Ledger$Ledger)))))))))))))))))));
+																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Ledger$Ledger)))))))))))))))))));
 
-var _user$project$Stellar_Endpoints_AllLedgers$url = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$url = function (endpoint) {
 	return A2(_elm_lang$core$Basics_ops['++'], endpoint, '/ledgers');
 };
-var _user$project$Stellar_Endpoints_AllLedgers$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26396,13 +26396,13 @@ var _user$project$Stellar_Endpoints_AllLedgers$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllLedgers$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26417,7 +26417,7 @@ var _user$project$Stellar_Endpoints_AllLedgers$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllLedgers$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26428,66 +26428,66 @@ var _user$project$Stellar_Endpoints_AllLedgers$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllLedgers$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_AllLedgers$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllLedgers$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllLedgers$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_AllLedgers$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_AllLedgers$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Ledger$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Ledger$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_AllLedgers$requestBuilder = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$requestBuilder = function (endpoint) {
 	return A2(
 		_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-		_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_AllLedgers$decoder),
+		_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$decoder),
 		_lukewestby$elm_http_builder$HttpBuilder$get(
-			_user$project$Stellar_Endpoints_AllLedgers$url(endpoint)));
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$url(endpoint)));
 };
 
-var _user$project$Endpoints_AllLedgers_Model$initialSettings = {cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllLedgers_Model$initialModel = {settings: _user$project$Endpoints_AllLedgers_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllLedgers_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Model$initialSettings = {cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_AllLedgers_Model$Settings = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Model$Settings = F3(
 	function (a, b, c) {
 		return {cursor: a, limit: b, sorting: c};
 	});
 
-var _user$project$Endpoints_AllLedgers_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_AllLedgers_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_AllLedgers_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_AllLedgers_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_AllLedgers_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_AllLedgers_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_LedgerDetails$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$url = F2(
 	function (endpoint, sequence) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -26497,51 +26497,51 @@ var _user$project$Stellar_Endpoints_LedgerDetails$url = F2(
 				'/ledgers/',
 				_elm_lang$core$Basics$toString(sequence)));
 	});
-var _user$project$Stellar_Endpoints_LedgerDetails$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_LedgerDetails$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_LedgerDetails$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_LedgerDetails$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_LedgerDetails$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
-			_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_LedgerDetails$Success, _user$project$Stellar_Resources_Ledger$decoder),
+			_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$Success, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Ledger$decoder),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_LedgerDetails$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$requestBuilder = F2(
 	function (endpoint, sequence) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_LedgerDetails$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_LedgerDetails$url, endpoint, sequence)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$url, endpoint, sequence)));
 	});
 
-var _user$project$Endpoints_LedgerDetails_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_LedgerDetails_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_LedgerDetails_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_LedgerDetails_Msg$UpdateSequence = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Msg$UpdateSequence = function (a) {
 	return {ctor: 'UpdateSequence', _0: a};
 };
 
-var _user$project$Stellar_Resources_Offer$Offer = F8(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Offer$Offer = F8(
 	function (a, b, c, d, e, f, g, h) {
 		return {id: a, pagingToken: b, seller: c, selling: d, buying: e, amount: f, priceR: g, price: h};
 	});
-var _user$project$Stellar_Resources_Offer$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Offer$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'price',
 	_elm_lang$core$Json_Decode$string,
@@ -26556,11 +26556,11 @@ var _user$project$Stellar_Resources_Offer$decoder = A3(
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'buying',
-				_user$project$Stellar_Resources_Asset$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'selling',
-					_user$project$Stellar_Resources_Asset$decoder,
+					_ryan_senn$stellar_elm_sdk$Stellar_Resources_Asset$decoder,
 					A3(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'seller',
@@ -26573,9 +26573,9 @@ var _user$project$Stellar_Resources_Offer$decoder = A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'id',
 								_elm_lang$core$Json_Decode$int,
-								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Offer$Offer)))))))));
+								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Offer$Offer)))))))));
 
-var _user$project$Stellar_Endpoints_OffersForAccount$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$url = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -26585,7 +26585,7 @@ var _user$project$Stellar_Endpoints_OffersForAccount$url = F2(
 				'/accounts/',
 				A2(_elm_lang$core$Basics_ops['++'], publicKey, '/offers')));
 	});
-var _user$project$Stellar_Endpoints_OffersForAccount$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26594,13 +26594,13 @@ var _user$project$Stellar_Endpoints_OffersForAccount$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OffersForAccount$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26615,7 +26615,7 @@ var _user$project$Stellar_Endpoints_OffersForAccount$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OffersForAccount$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -26626,96 +26626,96 @@ var _user$project$Stellar_Endpoints_OffersForAccount$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OffersForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_OffersForAccount$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_OffersForAccount$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_OffersForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_OffersForAccount$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_OffersForAccount$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Offer$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Offer$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_OffersForAccount$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$requestBuilder = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_OffersForAccount$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_OffersForAccount$url, endpoint, publicKey)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$url, endpoint, publicKey)));
 	});
 
-var _user$project$Endpoints_OffersForAccount_Model$initialSettings = {account: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_OffersForAccount_Model$initialModel = {settings: _user$project$Endpoints_OffersForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_OffersForAccount_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Model$initialSettings = {account: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_OffersForAccount_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {account: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_OffersForAccount_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_OffersForAccount_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_OffersForAccount_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_OffersForAccount_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_OffersForAccount_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_OffersForAccount_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_OffersForAccount_Msg$UpdateAccount = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$UpdateAccount = function (a) {
 	return {ctor: 'UpdateAccount', _0: a};
 };
 
-var _user$project$Stellar_Resources_Operations_Links$Links = F5(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$Links = F5(
 	function (a, b, c, d, e) {
 		return {self: a, succeeds: b, precedes: c, effects: d, transaction: e};
 	});
-var _user$project$Stellar_Resources_Operations_Links$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'transaction',
-	_user$project$Stellar_Link$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'effects',
-		_user$project$Stellar_Link$decoder,
+		_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'precedes',
-			_user$project$Stellar_Link$decoder,
+			_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'succeeds',
-				_user$project$Stellar_Link$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'self',
-					_user$project$Stellar_Link$decoder,
-					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_Links$Links))))));
+					_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
+					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$Links))))));
 
-var _user$project$Stellar_Resources_Operations_CreateAccount$CreateAccount = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_CreateAccount$CreateAccount = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -26738,10 +26738,10 @@ var _user$project$Stellar_Resources_Operations_CreateAccount$CreateAccount = fun
 		};
 	};
 };
-var _user$project$Stellar_Resources_Operations_CreateAccount$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_CreateAccount$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Operations_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'account',
@@ -26782,9 +26782,9 @@ var _user$project$Stellar_Resources_Operations_CreateAccount$decoder = A3(
 											_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 											'id',
 											_elm_lang$core$Json_Decode$string,
-											_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_CreateAccount$CreateAccount))))))))))));
+											_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_CreateAccount$CreateAccount))))))))))));
 
-var _user$project$Stellar_Resources_Operations_Payment$Payment = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Payment$Payment = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -26807,10 +26807,10 @@ var _user$project$Stellar_Resources_Operations_Payment$Payment = function (a) {
 		};
 	};
 };
-var _user$project$Stellar_Resources_Operations_Payment$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Payment$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Operations_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'amount',
@@ -26851,9 +26851,9 @@ var _user$project$Stellar_Resources_Operations_Payment$decoder = A3(
 											_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 											'id',
 											_elm_lang$core$Json_Decode$string,
-											_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_Payment$Payment))))))))))));
+											_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Payment$Payment))))))))))));
 
-var _user$project$Stellar_Resources_Operations_PathPayment$PathPayment = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_PathPayment$PathPayment = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -26890,10 +26890,10 @@ var _user$project$Stellar_Resources_Operations_PathPayment$PathPayment = functio
 		};
 	};
 };
-var _user$project$Stellar_Resources_Operations_PathPayment$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_PathPayment$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Operations_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'source_asset_issuer',
@@ -26905,7 +26905,7 @@ var _user$project$Stellar_Resources_Operations_PathPayment$decoder = A3(
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'source_asset_type',
-				_user$project$Stellar_AssetType$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'source_max',
@@ -26913,7 +26913,7 @@ var _user$project$Stellar_Resources_Operations_PathPayment$decoder = A3(
 					A3(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'asset_type',
-						_user$project$Stellar_AssetType$decoder,
+						_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 						A3(
 							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 							'asset_issuer',
@@ -26962,9 +26962,9 @@ var _user$project$Stellar_Resources_Operations_PathPayment$decoder = A3(
 																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 																		'id',
 																		_elm_lang$core$Json_Decode$string,
-																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_PathPayment$PathPayment)))))))))))))))))));
+																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_PathPayment$PathPayment)))))))))))))))))));
 
-var _user$project$Stellar_Resources_Operations_ManageOffer$ManageOffer = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ManageOffer$ManageOffer = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -27001,10 +27001,10 @@ var _user$project$Stellar_Resources_Operations_ManageOffer$ManageOffer = functio
 		};
 	};
 };
-var _user$project$Stellar_Resources_Operations_ManageOffer$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ManageOffer$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Operations_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'selling_asset_issuer',
@@ -27016,7 +27016,7 @@ var _user$project$Stellar_Resources_Operations_ManageOffer$decoder = A3(
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'selling_asset_type',
-				_user$project$Stellar_AssetType$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'buying_asset_issuer',
@@ -27028,7 +27028,7 @@ var _user$project$Stellar_Resources_Operations_ManageOffer$decoder = A3(
 						A3(
 							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 							'buying_asset_type',
-							_user$project$Stellar_AssetType$decoder,
+							_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 							A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'price_r',
@@ -27073,9 +27073,9 @@ var _user$project$Stellar_Resources_Operations_ManageOffer$decoder = A3(
 																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 																		'id',
 																		_elm_lang$core$Json_Decode$string,
-																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_ManageOffer$ManageOffer)))))))))))))))))));
+																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ManageOffer$ManageOffer)))))))))))))))))));
 
-var _user$project$Stellar_Resources_Operations_CreatePassiveOffer$CreatePassiveOffer = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_CreatePassiveOffer$CreatePassiveOffer = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -27112,10 +27112,10 @@ var _user$project$Stellar_Resources_Operations_CreatePassiveOffer$CreatePassiveO
 		};
 	};
 };
-var _user$project$Stellar_Resources_Operations_CreatePassiveOffer$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_CreatePassiveOffer$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Operations_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'selling_asset_issuer',
@@ -27127,7 +27127,7 @@ var _user$project$Stellar_Resources_Operations_CreatePassiveOffer$decoder = A3(
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'selling_asset_type',
-				_user$project$Stellar_AssetType$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'buying_asset_issuer',
@@ -27139,7 +27139,7 @@ var _user$project$Stellar_Resources_Operations_CreatePassiveOffer$decoder = A3(
 						A3(
 							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 							'buying_asset_type',
-							_user$project$Stellar_AssetType$decoder,
+							_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 							A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'price_r',
@@ -27184,9 +27184,9 @@ var _user$project$Stellar_Resources_Operations_CreatePassiveOffer$decoder = A3(
 																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 																		'id',
 																		_elm_lang$core$Json_Decode$string,
-																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_CreatePassiveOffer$CreatePassiveOffer)))))))))))))))))));
+																		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_CreatePassiveOffer$CreatePassiveOffer)))))))))))))))))));
 
-var _user$project$Stellar_Resources_Operations_SetOptions$SetOptions = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_SetOptions$SetOptions = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -27227,10 +27227,10 @@ var _user$project$Stellar_Resources_Operations_SetOptions$SetOptions = function 
 		};
 	};
 };
-var _user$project$Stellar_Resources_Operations_SetOptions$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_SetOptions$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Operations_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder,
 	A4(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 		'high_threshold',
@@ -27274,7 +27274,7 @@ var _user$project$Stellar_Resources_Operations_SetOptions$decoder = A3(
 									A4(
 										_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
 										'signer_key',
-										_elm_lang$core$Json_Decode$maybe(_user$project$Stellar_PublicKey$decoder),
+										_elm_lang$core$Json_Decode$maybe(_ryan_senn$stellar_elm_sdk$Stellar_PublicKey$decoder),
 										_elm_lang$core$Maybe$Nothing,
 										A4(
 											_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
@@ -27319,9 +27319,9 @@ var _user$project$Stellar_Resources_Operations_SetOptions$decoder = A3(
 																				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 																				'id',
 																				_elm_lang$core$Json_Decode$string,
-																				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_SetOptions$SetOptions)))))))))))))))))))));
+																				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_SetOptions$SetOptions)))))))))))))))))))));
 
-var _user$project$Stellar_Resources_Operations_ChangeTrust$ChangeTrust = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ChangeTrust$ChangeTrust = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -27350,10 +27350,10 @@ var _user$project$Stellar_Resources_Operations_ChangeTrust$ChangeTrust = functio
 		};
 	};
 };
-var _user$project$Stellar_Resources_Operations_ChangeTrust$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ChangeTrust$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Operations_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'trustor',
@@ -27377,7 +27377,7 @@ var _user$project$Stellar_Resources_Operations_ChangeTrust$decoder = A3(
 						A3(
 							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 							'asset_type',
-							_user$project$Stellar_AssetType$decoder,
+							_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 							A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'transaction_hash',
@@ -27406,9 +27406,9 @@ var _user$project$Stellar_Resources_Operations_ChangeTrust$decoder = A3(
 														_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 														'id',
 														_elm_lang$core$Json_Decode$string,
-														_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_ChangeTrust$ChangeTrust)))))))))))))));
+														_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ChangeTrust$ChangeTrust)))))))))))))));
 
-var _user$project$Stellar_Resources_Operations_AllowTrust$AllowTrust = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_AllowTrust$AllowTrust = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -27437,10 +27437,10 @@ var _user$project$Stellar_Resources_Operations_AllowTrust$AllowTrust = function 
 		};
 	};
 };
-var _user$project$Stellar_Resources_Operations_AllowTrust$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_AllowTrust$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Operations_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'authorize',
@@ -27464,7 +27464,7 @@ var _user$project$Stellar_Resources_Operations_AllowTrust$decoder = A3(
 						A3(
 							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 							'asset_type',
-							_user$project$Stellar_AssetType$decoder,
+							_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
 							A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'transaction_hash',
@@ -27493,9 +27493,9 @@ var _user$project$Stellar_Resources_Operations_AllowTrust$decoder = A3(
 														_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 														'id',
 														_elm_lang$core$Json_Decode$string,
-														_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_AllowTrust$AllowTrust)))))))))))))));
+														_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_AllowTrust$AllowTrust)))))))))))))));
 
-var _user$project$Stellar_Resources_Operations_AccountMerge$AccountMerge = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_AccountMerge$AccountMerge = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -27516,10 +27516,10 @@ var _user$project$Stellar_Resources_Operations_AccountMerge$AccountMerge = funct
 		};
 	};
 };
-var _user$project$Stellar_Resources_Operations_AccountMerge$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_AccountMerge$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Operations_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'into',
@@ -27556,16 +27556,16 @@ var _user$project$Stellar_Resources_Operations_AccountMerge$decoder = A3(
 										_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 										'id',
 										_elm_lang$core$Json_Decode$string,
-										_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_AccountMerge$AccountMerge)))))))))));
+										_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_AccountMerge$AccountMerge)))))))))));
 
-var _user$project$Stellar_Resources_Operations_Inflation$Inflation = F8(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Inflation$Inflation = F8(
 	function (a, b, c, d, e, f, g, h) {
 		return {id: a, pagingToken: b, sourceAccount: c, type_: d, typeI: e, createdAt: f, transactionHash: g, links: h};
 	});
-var _user$project$Stellar_Resources_Operations_Inflation$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Inflation$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Operations_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'transaction_hash',
@@ -27594,9 +27594,9 @@ var _user$project$Stellar_Resources_Operations_Inflation$decoder = A3(
 								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 								'id',
 								_elm_lang$core$Json_Decode$string,
-								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_Inflation$Inflation)))))))));
+								_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Inflation$Inflation)))))))));
 
-var _user$project$Stellar_Resources_Operations_ManageData$ManageData = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ManageData$ManageData = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -27617,10 +27617,10 @@ var _user$project$Stellar_Resources_Operations_ManageData$ManageData = function 
 		};
 	};
 };
-var _user$project$Stellar_Resources_Operations_ManageData$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ManageData$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Operations_Links$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Links$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'value',
@@ -27657,79 +27657,79 @@ var _user$project$Stellar_Resources_Operations_ManageData$decoder = A3(
 										_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 										'id',
 										_elm_lang$core$Json_Decode$string,
-										_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Operations_ManageData$ManageData)))))))))));
+										_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ManageData$ManageData)))))))))));
 
-var _user$project$Stellar_Resources_Operation$ManageData = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$ManageData = function (a) {
 	return {ctor: 'ManageData', _0: a};
 };
-var _user$project$Stellar_Resources_Operation$Inflation = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$Inflation = function (a) {
 	return {ctor: 'Inflation', _0: a};
 };
-var _user$project$Stellar_Resources_Operation$AccountMerge = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$AccountMerge = function (a) {
 	return {ctor: 'AccountMerge', _0: a};
 };
-var _user$project$Stellar_Resources_Operation$AllowTrust = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$AllowTrust = function (a) {
 	return {ctor: 'AllowTrust', _0: a};
 };
-var _user$project$Stellar_Resources_Operation$ChangeTrust = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$ChangeTrust = function (a) {
 	return {ctor: 'ChangeTrust', _0: a};
 };
-var _user$project$Stellar_Resources_Operation$SetOptions = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$SetOptions = function (a) {
 	return {ctor: 'SetOptions', _0: a};
 };
-var _user$project$Stellar_Resources_Operation$CreatePassiveOffer = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$CreatePassiveOffer = function (a) {
 	return {ctor: 'CreatePassiveOffer', _0: a};
 };
-var _user$project$Stellar_Resources_Operation$ManageOffer = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$ManageOffer = function (a) {
 	return {ctor: 'ManageOffer', _0: a};
 };
-var _user$project$Stellar_Resources_Operation$PathPayment = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$PathPayment = function (a) {
 	return {ctor: 'PathPayment', _0: a};
 };
-var _user$project$Stellar_Resources_Operation$Payment = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$Payment = function (a) {
 	return {ctor: 'Payment', _0: a};
 };
-var _user$project$Stellar_Resources_Operation$CreateAccount = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$CreateAccount = function (a) {
 	return {ctor: 'CreateAccount', _0: a};
 };
-var _user$project$Stellar_Resources_Operation$operationFromType = function (type_) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$operationFromType = function (type_) {
 	var _p0 = type_;
 	switch (_p0) {
 		case 'create_account':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Operation$CreateAccount, _user$project$Stellar_Resources_Operations_CreateAccount$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$CreateAccount, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_CreateAccount$decoder);
 		case 'payment':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Operation$Payment, _user$project$Stellar_Resources_Operations_Payment$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$Payment, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Payment$decoder);
 		case 'path_payment':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Operation$PathPayment, _user$project$Stellar_Resources_Operations_PathPayment$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$PathPayment, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_PathPayment$decoder);
 		case 'manage_offer':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Operation$ManageOffer, _user$project$Stellar_Resources_Operations_ManageOffer$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$ManageOffer, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ManageOffer$decoder);
 		case 'create_passive_offer':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Operation$CreatePassiveOffer, _user$project$Stellar_Resources_Operations_CreatePassiveOffer$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$CreatePassiveOffer, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_CreatePassiveOffer$decoder);
 		case 'set_options':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Operation$SetOptions, _user$project$Stellar_Resources_Operations_SetOptions$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$SetOptions, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_SetOptions$decoder);
 		case 'change_trust':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Operation$ChangeTrust, _user$project$Stellar_Resources_Operations_ChangeTrust$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$ChangeTrust, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ChangeTrust$decoder);
 		case 'allow_trust':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Operation$AllowTrust, _user$project$Stellar_Resources_Operations_AllowTrust$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$AllowTrust, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_AllowTrust$decoder);
 		case 'account_merge':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Operation$AccountMerge, _user$project$Stellar_Resources_Operations_AccountMerge$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$AccountMerge, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_AccountMerge$decoder);
 		case 'inflation':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Operation$Inflation, _user$project$Stellar_Resources_Operations_Inflation$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$Inflation, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Inflation$decoder);
 		case 'manage_data':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Operation$ManageData, _user$project$Stellar_Resources_Operations_ManageData$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$ManageData, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_ManageData$decoder);
 		default:
 			return _elm_lang$core$Json_Decode$fail('Could not decode Operation');
 	}
 };
-var _user$project$Stellar_Resources_Operation$decoder = A2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$decoder = A2(
 	_elm_lang$core$Json_Decode$andThen,
-	_user$project$Stellar_Resources_Operation$operationFromType,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$operationFromType,
 	A2(_elm_lang$core$Json_Decode$field, 'type', _elm_lang$core$Json_Decode$string));
 
-var _user$project$Stellar_Endpoints_AllOperations$url = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$url = function (endpoint) {
 	return A2(_elm_lang$core$Basics_ops['++'], endpoint, '/operations');
 };
-var _user$project$Stellar_Endpoints_AllOperations$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -27738,13 +27738,13 @@ var _user$project$Stellar_Endpoints_AllOperations$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllOperations$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -27759,7 +27759,7 @@ var _user$project$Stellar_Endpoints_AllOperations$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllOperations$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -27770,66 +27770,66 @@ var _user$project$Stellar_Endpoints_AllOperations$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllOperations$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_AllOperations$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllOperations$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllOperations$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_AllOperations$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_AllOperations$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Operation$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_AllOperations$requestBuilder = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$requestBuilder = function (endpoint) {
 	return A2(
 		_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-		_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_AllOperations$decoder),
+		_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$decoder),
 		_lukewestby$elm_http_builder$HttpBuilder$get(
-			_user$project$Stellar_Endpoints_AllOperations$url(endpoint)));
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$url(endpoint)));
 };
 
-var _user$project$Endpoints_AllOperations_Model$initialSettings = {cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllOperations_Model$initialModel = {settings: _user$project$Endpoints_AllOperations_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllOperations_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Model$initialSettings = {cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_AllOperations_Model$Settings = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Model$Settings = F3(
 	function (a, b, c) {
 		return {cursor: a, limit: b, sorting: c};
 	});
 
-var _user$project$Endpoints_AllOperations_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_AllOperations_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_AllOperations_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_AllOperations_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_AllOperations_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_AllOperations_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_OperationsForAccount$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$url = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -27839,7 +27839,7 @@ var _user$project$Stellar_Endpoints_OperationsForAccount$url = F2(
 				'/accounts/',
 				A2(_elm_lang$core$Basics_ops['++'], publicKey, '/operations')));
 	});
-var _user$project$Stellar_Endpoints_OperationsForAccount$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -27848,13 +27848,13 @@ var _user$project$Stellar_Endpoints_OperationsForAccount$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OperationsForAccount$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -27869,7 +27869,7 @@ var _user$project$Stellar_Endpoints_OperationsForAccount$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OperationsForAccount$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -27880,70 +27880,70 @@ var _user$project$Stellar_Endpoints_OperationsForAccount$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OperationsForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_OperationsForAccount$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_OperationsForAccount$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_OperationsForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_OperationsForAccount$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_OperationsForAccount$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Operation$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_OperationsForAccount$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$requestBuilder = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_OperationsForAccount$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_OperationsForAccount$url, endpoint, publicKey)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$url, endpoint, publicKey)));
 	});
 
-var _user$project$Endpoints_OperationsForAccount_Model$initialSettings = {account: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_OperationsForAccount_Model$initialModel = {settings: _user$project$Endpoints_OperationsForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_OperationsForAccount_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Model$initialSettings = {account: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_OperationsForAccount_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {account: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_OperationsForAccount_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_OperationsForAccount_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_OperationsForAccount_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_OperationsForAccount_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_OperationsForAccount_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_OperationsForAccount_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_OperationsForAccount_Msg$UpdateAccount = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$UpdateAccount = function (a) {
 	return {ctor: 'UpdateAccount', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_OperationsForLedger$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$url = F2(
 	function (endpoint, ledgerId) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -27956,7 +27956,7 @@ var _user$project$Stellar_Endpoints_OperationsForLedger$url = F2(
 					_elm_lang$core$Basics$toString(ledgerId),
 					'/operations')));
 	});
-var _user$project$Stellar_Endpoints_OperationsForLedger$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -27965,13 +27965,13 @@ var _user$project$Stellar_Endpoints_OperationsForLedger$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OperationsForLedger$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -27986,7 +27986,7 @@ var _user$project$Stellar_Endpoints_OperationsForLedger$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OperationsForLedger$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -27997,70 +27997,70 @@ var _user$project$Stellar_Endpoints_OperationsForLedger$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OperationsForLedger$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_OperationsForLedger$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_OperationsForLedger$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_OperationsForLedger$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_OperationsForLedger$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_OperationsForLedger$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Operation$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_OperationsForLedger$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$requestBuilder = F2(
 	function (endpoint, ledgerId) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_OperationsForLedger$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_OperationsForLedger$url, endpoint, ledgerId)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$url, endpoint, ledgerId)));
 	});
 
-var _user$project$Endpoints_OperationsForLedger_Model$initialSettings = {ledgerId: _bluedogtraining$bdt_elm$Form_IntInput$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_OperationsForLedger_Model$initialModel = {settings: _user$project$Endpoints_OperationsForLedger_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_OperationsForLedger_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Model$initialSettings = {ledgerId: _bluedogtraining$bdt_elm$Form_IntInput$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_OperationsForLedger_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {ledgerId: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_OperationsForLedger_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_OperationsForLedger_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_OperationsForLedger_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_OperationsForLedger_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_OperationsForLedger_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_OperationsForLedger_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_OperationsForLedger_Msg$UpdateLedgerId = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$UpdateLedgerId = function (a) {
 	return {ctor: 'UpdateLedgerId', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_OperationsForTransaction$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$url = F2(
 	function (endpoint, hash) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -28070,7 +28070,7 @@ var _user$project$Stellar_Endpoints_OperationsForTransaction$url = F2(
 				'/transactions/',
 				A2(_elm_lang$core$Basics_ops['++'], hash, '/operations')));
 	});
-var _user$project$Stellar_Endpoints_OperationsForTransaction$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28079,13 +28079,13 @@ var _user$project$Stellar_Endpoints_OperationsForTransaction$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OperationsForTransaction$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28100,7 +28100,7 @@ var _user$project$Stellar_Endpoints_OperationsForTransaction$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OperationsForTransaction$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28111,70 +28111,70 @@ var _user$project$Stellar_Endpoints_OperationsForTransaction$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OperationsForTransaction$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_OperationsForTransaction$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_OperationsForTransaction$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_OperationsForTransaction$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_OperationsForTransaction$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_OperationsForTransaction$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Operation$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_OperationsForTransaction$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$requestBuilder = F2(
 	function (endpoint, hash) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_OperationsForTransaction$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_OperationsForTransaction$url, endpoint, hash)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$url, endpoint, hash)));
 	});
 
-var _user$project$Endpoints_OperationsForTransaction_Model$initialSettings = {transaction: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_OperationsForTransaction_Model$initialModel = {settings: _user$project$Endpoints_OperationsForTransaction_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_OperationsForTransaction_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Model$initialSettings = {transaction: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_OperationsForTransaction_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {transaction: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_OperationsForTransaction_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_OperationsForTransaction_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_OperationsForTransaction_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_OperationsForTransaction_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_OperationsForTransaction_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_OperationsForTransaction_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_OperationsForTransaction_Msg$UpdateTransaction = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$UpdateTransaction = function (a) {
 	return {ctor: 'UpdateTransaction', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_OperationDetails$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$url = F2(
 	function (endpoint, operationId) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -28184,61 +28184,61 @@ var _user$project$Stellar_Endpoints_OperationDetails$url = F2(
 				'/operations/',
 				_elm_lang$core$Basics$toString(operationId)));
 	});
-var _user$project$Stellar_Endpoints_OperationDetails$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_OperationDetails$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_OperationDetails$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_OperationDetails$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_OperationDetails$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
-			_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_OperationDetails$Success, _user$project$Stellar_Resources_Operation$decoder),
+			_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$Success, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$decoder),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_OperationDetails$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$requestBuilder = F2(
 	function (endpoint, operationId) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_OperationDetails$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_OperationDetails$url, endpoint, operationId)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$url, endpoint, operationId)));
 	});
 
-var _user$project$Endpoints_OperationDetails_Model$initialSettings = {operationId: _bluedogtraining$bdt_elm$Form_IntInput$init};
-var _user$project$Endpoints_OperationDetails_Model$initialModel = {settings: _user$project$Endpoints_OperationDetails_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_OperationDetails_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Model$initialSettings = {operationId: _bluedogtraining$bdt_elm$Form_IntInput$init};
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_OperationDetails_Model$Settings = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Model$Settings = function (a) {
 	return {operationId: a};
 };
 
-var _user$project$Endpoints_OperationDetails_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_OperationDetails_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_OperationDetails_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_OperationDetails_Msg$UpdatePublicKey = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Msg$UpdatePublicKey = function (a) {
 	return {ctor: 'UpdatePublicKey', _0: a};
 };
 
-var _user$project$Stellar_RationalNumber$RationalNumber = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_RationalNumber$RationalNumber = F2(
 	function (a, b) {
 		return {n: a, d: b};
 	});
-var _user$project$Stellar_RationalNumber$decoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_RationalNumber$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'd',
 	_elm_lang$core$Json_Decode$int,
@@ -28246,59 +28246,59 @@ var _user$project$Stellar_RationalNumber$decoder = A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'n',
 		_elm_lang$core$Json_Decode$int,
-		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_RationalNumber$RationalNumber)));
+		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_RationalNumber$RationalNumber)));
 
-var _user$project$Stellar_Resources_Orderbook$Orderbook = F4(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$Orderbook = F4(
 	function (a, b, c, d) {
 		return {bids: a, asks: b, base: c, counter: d};
 	});
-var _user$project$Stellar_Resources_Orderbook$Listing = F3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$Listing = F3(
 	function (a, b, c) {
 		return {price: a, priceR: b, amount: c};
 	});
-var _user$project$Stellar_Resources_Orderbook$listingDecoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$listingDecoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'amount',
 	_elm_lang$core$Json_Decode$string,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'priceR',
-		_user$project$Stellar_RationalNumber$decoder,
+		_ryan_senn$stellar_elm_sdk$Stellar_RationalNumber$decoder,
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'price',
 			_elm_lang$core$Json_Decode$string,
-			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Orderbook$Listing))));
-var _user$project$Stellar_Resources_Orderbook$Offer = function (a) {
+			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$Listing))));
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$Offer = function (a) {
 	return {assetType: a};
 };
-var _user$project$Stellar_Resources_Orderbook$offerDecoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$offerDecoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'asset_type',
-	_user$project$Stellar_AssetType$decoder,
-	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Orderbook$Offer));
-var _user$project$Stellar_Resources_Orderbook$decoder = A3(
+	_ryan_senn$stellar_elm_sdk$Stellar_AssetType$decoder,
+	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$Offer));
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'counter',
-	_user$project$Stellar_Resources_Orderbook$offerDecoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$offerDecoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'base',
-		_user$project$Stellar_Resources_Orderbook$offerDecoder,
+		_ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$offerDecoder,
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'asks',
-			_elm_lang$core$Json_Decode$list(_user$project$Stellar_Resources_Orderbook$listingDecoder),
+			_elm_lang$core$Json_Decode$list(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$listingDecoder),
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'bids',
-				_elm_lang$core$Json_Decode$list(_user$project$Stellar_Resources_Orderbook$listingDecoder),
-				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Orderbook$Orderbook)))));
+				_elm_lang$core$Json_Decode$list(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$listingDecoder),
+				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$Orderbook)))));
 
-var _user$project$Stellar_Endpoints_OrderbookDetails$url = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$url = function (endpoint) {
 	return A2(_elm_lang$core$Basics_ops['++'], endpoint, '/order_book');
 };
-var _user$project$Stellar_Endpoints_OrderbookDetails$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28313,7 +28313,7 @@ var _user$project$Stellar_Endpoints_OrderbookDetails$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OrderbookDetails$setBuyingAssetIssuer = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$setBuyingAssetIssuer = F2(
 	function (buyingAssetIssuer, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28324,7 +28324,7 @@ var _user$project$Stellar_Endpoints_OrderbookDetails$setBuyingAssetIssuer = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OrderbookDetails$setBuyingAssetCode = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$setBuyingAssetCode = F2(
 	function (buyingAssetCode, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28335,7 +28335,7 @@ var _user$project$Stellar_Endpoints_OrderbookDetails$setBuyingAssetCode = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OrderbookDetails$setSellingAssetIssuer = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$setSellingAssetIssuer = F2(
 	function (sellingAssetIssuer, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28346,7 +28346,7 @@ var _user$project$Stellar_Endpoints_OrderbookDetails$setSellingAssetIssuer = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OrderbookDetails$setSellingAssetCode = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$setSellingAssetCode = F2(
 	function (sellingAssetCode, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28357,24 +28357,24 @@ var _user$project$Stellar_Endpoints_OrderbookDetails$setSellingAssetCode = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_OrderbookDetails$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_OrderbookDetails$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_OrderbookDetails$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_OrderbookDetails$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_OrderbookDetails$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
-			_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_OrderbookDetails$Success, _user$project$Stellar_Resources_Orderbook$decoder),
+			_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$Success, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Orderbook$decoder),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_OrderbookDetails$requestBuilder = F3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$requestBuilder = F3(
 	function (endpoint, sellingAssetType, buyingAssetType) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28383,7 +28383,7 @@ var _user$project$Stellar_Endpoints_OrderbookDetails$requestBuilder = F3(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'buying_asset_type',
-					_1: _user$project$Stellar_AssetType$toString(buyingAssetType)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_AssetType$toString(buyingAssetType)
 				},
 				_1: {ctor: '[]'}
 			},
@@ -28394,72 +28394,72 @@ var _user$project$Stellar_Endpoints_OrderbookDetails$requestBuilder = F3(
 					_0: {
 						ctor: '_Tuple2',
 						_0: 'selling_asset_type',
-						_1: _user$project$Stellar_AssetType$toString(sellingAssetType)
+						_1: _ryan_senn$stellar_elm_sdk$Stellar_AssetType$toString(sellingAssetType)
 					},
 					_1: {ctor: '[]'}
 				},
 				A2(
 					_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-					_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_OrderbookDetails$decoder),
+					_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$decoder),
 					_lukewestby$elm_http_builder$HttpBuilder$get(
-						_user$project$Stellar_Endpoints_OrderbookDetails$url(endpoint)))));
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$url(endpoint)))));
 	});
 
-var _user$project$Endpoints_OrderbookDetails_Model$initialSettings = {
-	sellingAssetType: _bluedogtraining$bdt_elm$Form_Select$init(_user$project$Stellar_AssetType$asList),
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Model$initialSettings = {
+	sellingAssetType: _bluedogtraining$bdt_elm$Form_Select$init(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$asList),
 	sellingAssetCode: _bluedogtraining$bdt_elm$Form_Input$init,
 	sellingAssetIssuer: _bluedogtraining$bdt_elm$Form_Input$init,
-	buyingAssetType: _bluedogtraining$bdt_elm$Form_Select$init(_user$project$Stellar_AssetType$asList),
+	buyingAssetType: _bluedogtraining$bdt_elm$Form_Select$init(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$asList),
 	buyingAssetCode: _bluedogtraining$bdt_elm$Form_Input$init,
 	buyingAssetIssuer: _bluedogtraining$bdt_elm$Form_Input$init,
 	limit: _bluedogtraining$bdt_elm$Form_IntInput$init
 };
-var _user$project$Endpoints_OrderbookDetails_Model$initialModel = {settings: _user$project$Endpoints_OrderbookDetails_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_OrderbookDetails_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_OrderbookDetails_Model$Settings = F7(
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Model$Settings = F7(
 	function (a, b, c, d, e, f, g) {
 		return {sellingAssetType: a, sellingAssetCode: b, sellingAssetIssuer: c, buyingAssetType: d, buyingAssetCode: e, buyingAssetIssuer: f, limit: g};
 	});
 
-var _user$project$Endpoints_OrderbookDetails_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_OrderbookDetails_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_OrderbookDetails_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_OrderbookDetails_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetIssuer = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetIssuer = function (a) {
 	return {ctor: 'UpdateBuyingAssetIssuer', _0: a};
 };
-var _user$project$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetCode = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetCode = function (a) {
 	return {ctor: 'UpdateBuyingAssetCode', _0: a};
 };
-var _user$project$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetType = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetType = function (a) {
 	return {ctor: 'UpdateBuyingAssetType', _0: a};
 };
-var _user$project$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetIssuer = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetIssuer = function (a) {
 	return {ctor: 'UpdateSellingAssetIssuer', _0: a};
 };
-var _user$project$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetCode = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetCode = function (a) {
 	return {ctor: 'UpdateSellingAssetCode', _0: a};
 };
-var _user$project$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetType = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetType = function (a) {
 	return {ctor: 'UpdateSellingAssetType', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_FindPaymentPaths$url = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$url = function (endpoint) {
 	return A2(_elm_lang$core$Basics_ops['++'], endpoint, '/paths');
 };
-var _user$project$Stellar_Endpoints_FindPaymentPaths$setDestinationAssetIssuer = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$setDestinationAssetIssuer = F2(
 	function (destinationAssetIssuer, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28470,7 +28470,7 @@ var _user$project$Stellar_Endpoints_FindPaymentPaths$setDestinationAssetIssuer =
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_FindPaymentPaths$setDestinationAssetCode = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$setDestinationAssetCode = F2(
 	function (destinationAssetCode, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28481,24 +28481,24 @@ var _user$project$Stellar_Endpoints_FindPaymentPaths$setDestinationAssetCode = F
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_FindPaymentPaths$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_FindPaymentPaths$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_FindPaymentPaths$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_FindPaymentPaths$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_FindPaymentPaths$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
-			_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_FindPaymentPaths$Success, _user$project$Stellar_Resources_Operation$decoder),
+			_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$Success, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operation$decoder),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_FindPaymentPaths$requestBuilder = F5(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$requestBuilder = F5(
 	function (endpoint, sourceAccount, destinationAccount, assetType, amount) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28518,7 +28518,7 @@ var _user$project$Stellar_Endpoints_FindPaymentPaths$requestBuilder = F5(
 					_0: {
 						ctor: '_Tuple2',
 						_0: 'destination_asset_type',
-						_1: _user$project$Stellar_AssetType$toString(assetType)
+						_1: _ryan_senn$stellar_elm_sdk$Stellar_AssetType$toString(assetType)
 					},
 					_1: {ctor: '[]'}
 				},
@@ -28538,94 +28538,94 @@ var _user$project$Stellar_Endpoints_FindPaymentPaths$requestBuilder = F5(
 						},
 						A2(
 							_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-							_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_FindPaymentPaths$decoder),
+							_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$decoder),
 							_lukewestby$elm_http_builder$HttpBuilder$get(
-								_user$project$Stellar_Endpoints_FindPaymentPaths$url(endpoint)))))));
+								_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$url(endpoint)))))));
 	});
 
-var _user$project$Endpoints_FindPaymentPaths_Model$initialSettings = {
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Model$initialSettings = {
 	sourceAccount: _bluedogtraining$bdt_elm$Form_Input$init,
 	destinationAccount: _bluedogtraining$bdt_elm$Form_Input$init,
-	destinationAssetType: _bluedogtraining$bdt_elm$Form_Select$init(_user$project$Stellar_AssetType$asList),
+	destinationAssetType: _bluedogtraining$bdt_elm$Form_Select$init(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$asList),
 	destinationAssetCode: _bluedogtraining$bdt_elm$Form_Input$init,
 	destinationAssetIssuer: _bluedogtraining$bdt_elm$Form_Input$init,
 	destinationAmount: _bluedogtraining$bdt_elm$Form_IntInput$init
 };
-var _user$project$Endpoints_FindPaymentPaths_Model$initialModel = {settings: _user$project$Endpoints_FindPaymentPaths_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_FindPaymentPaths_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_FindPaymentPaths_Model$Settings = F6(
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Model$Settings = F6(
 	function (a, b, c, d, e, f) {
 		return {sourceAccount: a, destinationAccount: b, destinationAssetType: c, destinationAssetCode: d, destinationAssetIssuer: e, destinationAmount: f};
 	});
 
-var _user$project$Endpoints_FindPaymentPaths_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_FindPaymentPaths_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_FindPaymentPaths_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAmount = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAmount = function (a) {
 	return {ctor: 'UpdateDestinationAmount', _0: a};
 };
-var _user$project$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetIssuer = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetIssuer = function (a) {
 	return {ctor: 'UpdateDestinationAssetIssuer', _0: a};
 };
-var _user$project$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetCode = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetCode = function (a) {
 	return {ctor: 'UpdateDestinationAssetCode', _0: a};
 };
-var _user$project$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetType = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetType = function (a) {
 	return {ctor: 'UpdateDestinationAssetType', _0: a};
 };
-var _user$project$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAccount = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAccount = function (a) {
 	return {ctor: 'UpdateDestinationAccount', _0: a};
 };
-var _user$project$Endpoints_FindPaymentPaths_Msg$UpdateSourceAccount = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateSourceAccount = function (a) {
 	return {ctor: 'UpdateSourceAccount', _0: a};
 };
 
-var _user$project$Stellar_Resources_Payment$AccountMerge = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$AccountMerge = function (a) {
 	return {ctor: 'AccountMerge', _0: a};
 };
-var _user$project$Stellar_Resources_Payment$PathPayment = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$PathPayment = function (a) {
 	return {ctor: 'PathPayment', _0: a};
 };
-var _user$project$Stellar_Resources_Payment$Payment_ = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$Payment_ = function (a) {
 	return {ctor: 'Payment_', _0: a};
 };
-var _user$project$Stellar_Resources_Payment$CreateAccount = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$CreateAccount = function (a) {
 	return {ctor: 'CreateAccount', _0: a};
 };
-var _user$project$Stellar_Resources_Payment$operationFromType = function (type_) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$operationFromType = function (type_) {
 	var _p0 = type_;
 	switch (_p0) {
 		case 'create_account':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Payment$CreateAccount, _user$project$Stellar_Resources_Operations_CreateAccount$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$CreateAccount, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_CreateAccount$decoder);
 		case 'payment':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Payment$Payment_, _user$project$Stellar_Resources_Operations_Payment$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$Payment_, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_Payment$decoder);
 		case 'path_payment':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Payment$PathPayment, _user$project$Stellar_Resources_Operations_PathPayment$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$PathPayment, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_PathPayment$decoder);
 		case 'account_merge':
-			return A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Resources_Payment$AccountMerge, _user$project$Stellar_Resources_Operations_AccountMerge$decoder);
+			return A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$AccountMerge, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Operations_AccountMerge$decoder);
 		default:
 			return _elm_lang$core$Json_Decode$fail('Could not decode Payment');
 	}
 };
-var _user$project$Stellar_Resources_Payment$decoder = A2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$decoder = A2(
 	_elm_lang$core$Json_Decode$andThen,
-	_user$project$Stellar_Resources_Payment$operationFromType,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$operationFromType,
 	A2(_elm_lang$core$Json_Decode$field, 'type', _elm_lang$core$Json_Decode$string));
 
-var _user$project$Stellar_Endpoints_AllPayments$url = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$url = function (endpoint) {
 	return A2(_elm_lang$core$Basics_ops['++'], endpoint, '/payments');
 };
-var _user$project$Stellar_Endpoints_AllPayments$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28634,13 +28634,13 @@ var _user$project$Stellar_Endpoints_AllPayments$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllPayments$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28655,7 +28655,7 @@ var _user$project$Stellar_Endpoints_AllPayments$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllPayments$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28666,66 +28666,66 @@ var _user$project$Stellar_Endpoints_AllPayments$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllPayments$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_AllPayments$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllPayments$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllPayments$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_AllPayments$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_AllPayments$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Payment$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_AllPayments$requestBuilder = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$requestBuilder = function (endpoint) {
 	return A2(
 		_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-		_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_AllPayments$decoder),
+		_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$decoder),
 		_lukewestby$elm_http_builder$HttpBuilder$get(
-			_user$project$Stellar_Endpoints_AllPayments$url(endpoint)));
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$url(endpoint)));
 };
 
-var _user$project$Endpoints_AllPayments_Model$initialSettings = {cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllPayments_Model$initialModel = {settings: _user$project$Endpoints_AllPayments_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllPayments_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Model$initialSettings = {cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_AllPayments_Model$Settings = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Model$Settings = F3(
 	function (a, b, c) {
 		return {cursor: a, limit: b, sorting: c};
 	});
 
-var _user$project$Endpoints_AllPayments_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_AllPayments_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_AllPayments_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_AllPayments_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_AllPayments_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_AllPayments_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_PaymentsForAccount$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$url = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -28735,7 +28735,7 @@ var _user$project$Stellar_Endpoints_PaymentsForAccount$url = F2(
 				'/accounts/',
 				A2(_elm_lang$core$Basics_ops['++'], publicKey, '/payments')));
 	});
-var _user$project$Stellar_Endpoints_PaymentsForAccount$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28744,13 +28744,13 @@ var _user$project$Stellar_Endpoints_PaymentsForAccount$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_PaymentsForAccount$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28765,7 +28765,7 @@ var _user$project$Stellar_Endpoints_PaymentsForAccount$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_PaymentsForAccount$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28776,70 +28776,70 @@ var _user$project$Stellar_Endpoints_PaymentsForAccount$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_PaymentsForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_PaymentsForAccount$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_PaymentsForAccount$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_PaymentsForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_PaymentsForAccount$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_PaymentsForAccount$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Payment$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_PaymentsForAccount$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$requestBuilder = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_PaymentsForAccount$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_PaymentsForAccount$url, endpoint, publicKey)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$url, endpoint, publicKey)));
 	});
 
-var _user$project$Endpoints_PaymentsForAccount_Model$initialSettings = {account: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_PaymentsForAccount_Model$initialModel = {settings: _user$project$Endpoints_PaymentsForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_PaymentsForAccount_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Model$initialSettings = {account: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_PaymentsForAccount_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {account: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_PaymentsForAccount_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_PaymentsForAccount_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_PaymentsForAccount_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_PaymentsForAccount_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_PaymentsForAccount_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_PaymentsForAccount_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_PaymentsForAccount_Msg$UpdateAccount = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$UpdateAccount = function (a) {
 	return {ctor: 'UpdateAccount', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_PaymentsForLedger$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$url = F2(
 	function (endpoint, ledgerId) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -28852,7 +28852,7 @@ var _user$project$Stellar_Endpoints_PaymentsForLedger$url = F2(
 					_elm_lang$core$Basics$toString(ledgerId),
 					'/payments')));
 	});
-var _user$project$Stellar_Endpoints_PaymentsForLedger$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28861,13 +28861,13 @@ var _user$project$Stellar_Endpoints_PaymentsForLedger$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_PaymentsForLedger$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28882,7 +28882,7 @@ var _user$project$Stellar_Endpoints_PaymentsForLedger$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_PaymentsForLedger$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28893,70 +28893,70 @@ var _user$project$Stellar_Endpoints_PaymentsForLedger$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_PaymentsForLedger$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_PaymentsForLedger$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_PaymentsForLedger$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_PaymentsForLedger$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_PaymentsForLedger$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_PaymentsForLedger$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Payment$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_PaymentsForLedger$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$requestBuilder = F2(
 	function (endpoint, ledgerId) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_PaymentsForLedger$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_PaymentsForLedger$url, endpoint, ledgerId)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$url, endpoint, ledgerId)));
 	});
 
-var _user$project$Endpoints_PaymentsForLedger_Model$initialSettings = {ledgerId: _bluedogtraining$bdt_elm$Form_IntInput$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_PaymentsForLedger_Model$initialModel = {settings: _user$project$Endpoints_PaymentsForLedger_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_PaymentsForLedger_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Model$initialSettings = {ledgerId: _bluedogtraining$bdt_elm$Form_IntInput$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_PaymentsForLedger_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {ledgerId: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_PaymentsForLedger_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_PaymentsForLedger_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_PaymentsForLedger_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_PaymentsForLedger_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_PaymentsForLedger_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_PaymentsForLedger_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_PaymentsForLedger_Msg$UpdateLedgerId = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$UpdateLedgerId = function (a) {
 	return {ctor: 'UpdateLedgerId', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_PaymentsForTransaction$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$url = F2(
 	function (endpoint, hash) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -28966,7 +28966,7 @@ var _user$project$Stellar_Endpoints_PaymentsForTransaction$url = F2(
 				'/transactions/',
 				A2(_elm_lang$core$Basics_ops['++'], hash, '/payments')));
 	});
-var _user$project$Stellar_Endpoints_PaymentsForTransaction$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28975,13 +28975,13 @@ var _user$project$Stellar_Endpoints_PaymentsForTransaction$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_PaymentsForTransaction$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -28996,7 +28996,7 @@ var _user$project$Stellar_Endpoints_PaymentsForTransaction$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_PaymentsForTransaction$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -29007,70 +29007,70 @@ var _user$project$Stellar_Endpoints_PaymentsForTransaction$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_PaymentsForTransaction$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_PaymentsForTransaction$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_PaymentsForTransaction$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_PaymentsForTransaction$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_PaymentsForTransaction$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_PaymentsForTransaction$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Payment$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Payment$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_PaymentsForTransaction$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$requestBuilder = F2(
 	function (endpoint, hash) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_PaymentsForTransaction$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_PaymentsForTransaction$url, endpoint, hash)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$url, endpoint, hash)));
 	});
 
-var _user$project$Endpoints_PaymentsForTransaction_Model$initialSettings = {transaction: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_PaymentsForTransaction_Model$initialModel = {settings: _user$project$Endpoints_PaymentsForTransaction_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_PaymentsForTransaction_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Model$initialSettings = {transaction: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_PaymentsForTransaction_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {transaction: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_PaymentsForTransaction_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_PaymentsForTransaction_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_PaymentsForTransaction_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_PaymentsForTransaction_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_PaymentsForTransaction_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_PaymentsForTransaction_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_PaymentsForTransaction_Msg$UpdateTransaction = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$UpdateTransaction = function (a) {
 	return {ctor: 'UpdateTransaction', _0: a};
 };
 
-var _user$project$Stellar_Resources_Transaction$Transaction = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$Transaction = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -29103,43 +29103,43 @@ var _user$project$Stellar_Resources_Transaction$Transaction = function (a) {
 		};
 	};
 };
-var _user$project$Stellar_Resources_Transaction$Links = F7(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$Links = F7(
 	function (a, b, c, d, e, f, g) {
 		return {self: a, account: b, ledger: c, operations: d, effects: e, precedes: f, succeeds: g};
 	});
-var _user$project$Stellar_Resources_Transaction$linksDecoder = A3(
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$linksDecoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'succeeds',
-	_user$project$Stellar_Link$decoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'precedes',
-		_user$project$Stellar_Link$decoder,
+		_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 		A3(
 			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 			'effects',
-			_user$project$Stellar_Link$decoder,
+			_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 				'operations',
-				_user$project$Stellar_Link$decoder,
+				_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 					'ledger',
-					_user$project$Stellar_Link$decoder,
+					_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 					A3(
 						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 						'account',
-						_user$project$Stellar_Link$decoder,
+						_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
 						A3(
 							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 							'self',
-							_user$project$Stellar_Link$decoder,
-							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Transaction$Links))))))));
-var _user$project$Stellar_Resources_Transaction$decoder = A3(
+							_ryan_senn$stellar_elm_sdk$Stellar_Link$decoder,
+							_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$Links))))))));
+var _ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$decoder = A3(
 	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 	'_links',
-	_user$project$Stellar_Resources_Transaction$linksDecoder,
+	_ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$linksDecoder,
 	A3(
 		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 		'signatures',
@@ -29200,12 +29200,12 @@ var _user$project$Stellar_Resources_Transaction$decoder = A3(
 																_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
 																'id',
 																_elm_lang$core$Json_Decode$string,
-																_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Stellar_Resources_Transaction$Transaction)))))))))))))))));
+																_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$Transaction)))))))))))))))));
 
-var _user$project$Stellar_Endpoints_AllTransactions$url = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$url = function (endpoint) {
 	return A2(_elm_lang$core$Basics_ops['++'], endpoint, '/transactions');
 };
-var _user$project$Stellar_Endpoints_AllTransactions$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -29214,13 +29214,13 @@ var _user$project$Stellar_Endpoints_AllTransactions$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllTransactions$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -29235,7 +29235,7 @@ var _user$project$Stellar_Endpoints_AllTransactions$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllTransactions$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -29246,90 +29246,90 @@ var _user$project$Stellar_Endpoints_AllTransactions$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_AllTransactions$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_AllTransactions$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllTransactions$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_AllTransactions$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_AllTransactions$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_AllTransactions$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Transaction$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_AllTransactions$requestBuilder = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$requestBuilder = function (endpoint) {
 	return A2(
 		_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-		_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_AllTransactions$decoder),
+		_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$decoder),
 		_lukewestby$elm_http_builder$HttpBuilder$get(
-			_user$project$Stellar_Endpoints_AllTransactions$url(endpoint)));
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$url(endpoint)));
 };
 
-var _user$project$Endpoints_AllTransactions_Model$initialSettings = {cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllTransactions_Model$initialModel = {settings: _user$project$Endpoints_AllTransactions_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_AllTransactions_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Model$initialSettings = {cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_AllTransactions_Model$Settings = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Model$Settings = F3(
 	function (a, b, c) {
 		return {cursor: a, limit: b, sorting: c};
 	});
 
-var _user$project$Endpoints_AllTransactions_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_AllTransactions_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_AllTransactions_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_AllTransactions_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_AllTransactions_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_AllTransactions_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_PostTransaction$url = function (endpoint) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$url = function (endpoint) {
 	return A2(_elm_lang$core$Basics_ops['++'], endpoint, '/transactions');
 };
-var _user$project$Stellar_Endpoints_PostTransaction$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_PostTransaction$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_PostTransaction$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_PostTransaction$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_PostTransaction$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
-			_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_PostTransaction$Success, _user$project$Stellar_Resources_Transaction$decoder),
+			_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$Success, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$decoder),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_PostTransaction$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$requestBuilder = F2(
 	function (endpoint, transactionEnvelopeXdr) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_PostTransaction$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$decoder),
 			A3(
 				_lukewestby$elm_http_builder$HttpBuilder$withHeader,
 				'Content-Type',
@@ -29347,34 +29347,34 @@ var _user$project$Stellar_Endpoints_PostTransaction$requestBuilder = F2(
 							_1: {ctor: '[]'}
 						}),
 					_lukewestby$elm_http_builder$HttpBuilder$post(
-						_user$project$Stellar_Endpoints_PostTransaction$url(endpoint)))));
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$url(endpoint)))));
 	});
 
-var _user$project$Endpoints_PostTransaction_Model$initialSettings = {transactionEnvelopeXdr: _bluedogtraining$bdt_elm$Form_TextArea$init};
-var _user$project$Endpoints_PostTransaction_Model$initialModel = {settings: _user$project$Endpoints_PostTransaction_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_PostTransaction_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Model$initialSettings = {transactionEnvelopeXdr: _bluedogtraining$bdt_elm$Form_TextArea$init};
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_PostTransaction_Model$Settings = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Model$Settings = function (a) {
 	return {transactionEnvelopeXdr: a};
 };
 
-var _user$project$Endpoints_PostTransaction_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_PostTransaction_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_PostTransaction_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_PostTransaction_Msg$UpdateTransactionEnvelopeXdr = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Msg$UpdateTransactionEnvelopeXdr = function (a) {
 	return {ctor: 'UpdateTransactionEnvelopeXdr', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_TransactionsForAccount$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$url = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -29384,7 +29384,7 @@ var _user$project$Stellar_Endpoints_TransactionsForAccount$url = F2(
 				'/accounts/',
 				A2(_elm_lang$core$Basics_ops['++'], publicKey, '/transactions')));
 	});
-var _user$project$Stellar_Endpoints_TransactionsForAccount$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -29393,13 +29393,13 @@ var _user$project$Stellar_Endpoints_TransactionsForAccount$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_TransactionsForAccount$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -29414,7 +29414,7 @@ var _user$project$Stellar_Endpoints_TransactionsForAccount$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_TransactionsForAccount$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -29425,70 +29425,70 @@ var _user$project$Stellar_Endpoints_TransactionsForAccount$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_TransactionsForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_TransactionsForAccount$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_TransactionsForAccount$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_TransactionsForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_TransactionsForAccount$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_TransactionsForAccount$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Transaction$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_TransactionsForAccount$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$requestBuilder = F2(
 	function (endpoint, publicKey) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_TransactionsForAccount$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_TransactionsForAccount$url, endpoint, publicKey)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$url, endpoint, publicKey)));
 	});
 
-var _user$project$Endpoints_TransactionsForAccount_Model$initialSettings = {account: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_TransactionsForAccount_Model$initialModel = {settings: _user$project$Endpoints_TransactionsForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_TransactionsForAccount_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Model$initialSettings = {account: _bluedogtraining$bdt_elm$Form_Input$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_TransactionsForAccount_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {account: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_TransactionsForAccount_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_TransactionsForAccount_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_TransactionsForAccount_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_TransactionsForAccount_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_TransactionsForAccount_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_TransactionsForAccount_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_TransactionsForAccount_Msg$UpdateAccount = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$UpdateAccount = function (a) {
 	return {ctor: 'UpdateAccount', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_TransactionsForLedger$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$url = F2(
 	function (endpoint, ledgerId) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -29501,7 +29501,7 @@ var _user$project$Stellar_Endpoints_TransactionsForLedger$url = F2(
 					_elm_lang$core$Basics$toString(ledgerId),
 					'/transactions')));
 	});
-var _user$project$Stellar_Endpoints_TransactionsForLedger$setSorting = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$setSorting = F2(
 	function (sorting, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -29510,13 +29510,13 @@ var _user$project$Stellar_Endpoints_TransactionsForLedger$setSorting = F2(
 				_0: {
 					ctor: '_Tuple2',
 					_0: 'order',
-					_1: _user$project$Stellar_Sorting$toString(sorting)
+					_1: _ryan_senn$stellar_elm_sdk$Stellar_Sorting$toString(sorting)
 				},
 				_1: {ctor: '[]'}
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_TransactionsForLedger$setLimit = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$setLimit = F2(
 	function (limit, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -29531,7 +29531,7 @@ var _user$project$Stellar_Endpoints_TransactionsForLedger$setLimit = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_TransactionsForLedger$setCursor = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$setCursor = F2(
 	function (cursor, requestBuilder) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withQueryParams,
@@ -29542,70 +29542,70 @@ var _user$project$Stellar_Endpoints_TransactionsForLedger$setCursor = F2(
 			},
 			requestBuilder);
 	});
-var _user$project$Stellar_Endpoints_TransactionsForLedger$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_TransactionsForLedger$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_TransactionsForLedger$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_TransactionsForLedger$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_TransactionsForLedger$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
 			_0: A2(
 				_elm_lang$core$Json_Decode$map,
-				_user$project$Stellar_Endpoints_TransactionsForLedger$Success,
-				_user$project$Stellar_Resources_Page$decoder(_user$project$Stellar_Resources_Transaction$decoder)),
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$Success,
+				_ryan_senn$stellar_elm_sdk$Stellar_Resources_Page$decoder(_ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$decoder)),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_TransactionsForLedger$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$requestBuilder = F2(
 	function (endpoint, ledgerId) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_TransactionsForLedger$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_TransactionsForLedger$url, endpoint, ledgerId)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$url, endpoint, ledgerId)));
 	});
 
-var _user$project$Endpoints_TransactionsForLedger_Model$initialSettings = {ledgerId: _bluedogtraining$bdt_elm$Form_IntInput$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_TransactionsForLedger_Model$initialModel = {settings: _user$project$Endpoints_TransactionsForLedger_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_TransactionsForLedger_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Model$initialSettings = {ledgerId: _bluedogtraining$bdt_elm$Form_IntInput$init, cursor: _bluedogtraining$bdt_elm$Form_Input$init, limit: _bluedogtraining$bdt_elm$Form_IntInput$init, sorting: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_TransactionsForLedger_Model$Settings = F4(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Model$Settings = F4(
 	function (a, b, c, d) {
 		return {ledgerId: a, cursor: b, limit: c, sorting: d};
 	});
 
-var _user$project$Endpoints_TransactionsForLedger_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_TransactionsForLedger_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_TransactionsForLedger_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_TransactionsForLedger_Msg$UpdateSorting = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$UpdateSorting = function (a) {
 	return {ctor: 'UpdateSorting', _0: a};
 };
-var _user$project$Endpoints_TransactionsForLedger_Msg$UpdateLimit = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$UpdateLimit = function (a) {
 	return {ctor: 'UpdateLimit', _0: a};
 };
-var _user$project$Endpoints_TransactionsForLedger_Msg$UpdateCursor = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$UpdateCursor = function (a) {
 	return {ctor: 'UpdateCursor', _0: a};
 };
-var _user$project$Endpoints_TransactionsForLedger_Msg$UpdateLedgerId = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$UpdateLedgerId = function (a) {
 	return {ctor: 'UpdateLedgerId', _0: a};
 };
 
-var _user$project$Stellar_Endpoints_TransactionDetails$url = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$url = F2(
 	function (endpoint, hash) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
@@ -29615,148 +29615,148 @@ var _user$project$Stellar_Endpoints_TransactionDetails$url = F2(
 				'/transactions/',
 				_elm_lang$core$Basics$toString(hash)));
 	});
-var _user$project$Stellar_Endpoints_TransactionDetails$send = _lukewestby$elm_http_builder$HttpBuilder$send;
-var _user$project$Stellar_Endpoints_TransactionDetails$Success = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$send = _lukewestby$elm_http_builder$HttpBuilder$send;
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$Success = function (a) {
 	return {ctor: 'Success', _0: a};
 };
-var _user$project$Stellar_Endpoints_TransactionDetails$Error = function (a) {
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$Error = function (a) {
 	return {ctor: 'Error', _0: a};
 };
-var _user$project$Stellar_Endpoints_TransactionDetails$decoder = _elm_lang$core$Json_Decode$oneOf(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$decoder = _elm_lang$core$Json_Decode$oneOf(
 	{
 		ctor: '::',
-		_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_TransactionDetails$Error, _user$project$Stellar_Error$decoder),
+		_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$Error, _ryan_senn$stellar_elm_sdk$Stellar_Error$decoder),
 		_1: {
 			ctor: '::',
-			_0: A2(_elm_lang$core$Json_Decode$map, _user$project$Stellar_Endpoints_TransactionDetails$Success, _user$project$Stellar_Resources_Transaction$decoder),
+			_0: A2(_elm_lang$core$Json_Decode$map, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$Success, _ryan_senn$stellar_elm_sdk$Stellar_Resources_Transaction$decoder),
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Stellar_Endpoints_TransactionDetails$requestBuilder = F2(
+var _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$requestBuilder = F2(
 	function (endpoint, hash) {
 		return A2(
 			_lukewestby$elm_http_builder$HttpBuilder$withExpect,
-			_elm_lang$http$Http$expectJson(_user$project$Stellar_Endpoints_TransactionDetails$decoder),
+			_elm_lang$http$Http$expectJson(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$decoder),
 			_lukewestby$elm_http_builder$HttpBuilder$get(
-				A2(_user$project$Stellar_Endpoints_TransactionDetails$url, endpoint, hash)));
+				A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$url, endpoint, hash)));
 	});
 
-var _user$project$Endpoints_TransactionDetails_Msg$Response = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Msg$Response = function (a) {
 	return {ctor: 'Response', _0: a};
 };
-var _user$project$Endpoints_TransactionDetails_Msg$Request = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Msg$Request = F2(
 	function (a, b) {
 		return {ctor: 'Request', _0: a, _1: b};
 	});
-var _user$project$Endpoints_TransactionDetails_Msg$SettingsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Msg$SettingsMsg = function (a) {
 	return {ctor: 'SettingsMsg', _0: a};
 };
-var _user$project$Endpoints_TransactionDetails_Msg$UpdateHash = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Msg$UpdateHash = function (a) {
 	return {ctor: 'UpdateHash', _0: a};
 };
 
-var _user$project$Endpoints_Msg$TransactionDetailsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$TransactionDetailsMsg = function (a) {
 	return {ctor: 'TransactionDetailsMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$TransactionsForLedgerMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$TransactionsForLedgerMsg = function (a) {
 	return {ctor: 'TransactionsForLedgerMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$TransactionsForAccountMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$TransactionsForAccountMsg = function (a) {
 	return {ctor: 'TransactionsForAccountMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$PostTransactionMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$PostTransactionMsg = function (a) {
 	return {ctor: 'PostTransactionMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$AllTransactionsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$AllTransactionsMsg = function (a) {
 	return {ctor: 'AllTransactionsMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$PaymentsForTransactionMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$PaymentsForTransactionMsg = function (a) {
 	return {ctor: 'PaymentsForTransactionMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$PaymentsForLedgerMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$PaymentsForLedgerMsg = function (a) {
 	return {ctor: 'PaymentsForLedgerMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$PaymentsForAccountMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$PaymentsForAccountMsg = function (a) {
 	return {ctor: 'PaymentsForAccountMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$AllPaymentsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$AllPaymentsMsg = function (a) {
 	return {ctor: 'AllPaymentsMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$FindPaymentPathsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$FindPaymentPathsMsg = function (a) {
 	return {ctor: 'FindPaymentPathsMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$OrderbookDetailsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$OrderbookDetailsMsg = function (a) {
 	return {ctor: 'OrderbookDetailsMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$OperationDetailsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$OperationDetailsMsg = function (a) {
 	return {ctor: 'OperationDetailsMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$OperationsForTransactionMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$OperationsForTransactionMsg = function (a) {
 	return {ctor: 'OperationsForTransactionMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$OperationsForLedgerMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$OperationsForLedgerMsg = function (a) {
 	return {ctor: 'OperationsForLedgerMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$OperationsForAccountMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$OperationsForAccountMsg = function (a) {
 	return {ctor: 'OperationsForAccountMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$AllOperationsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$AllOperationsMsg = function (a) {
 	return {ctor: 'AllOperationsMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$OffersForAccountMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$OffersForAccountMsg = function (a) {
 	return {ctor: 'OffersForAccountMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$LedgerDetailsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$LedgerDetailsMsg = function (a) {
 	return {ctor: 'LedgerDetailsMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$AllLedgersMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$AllLedgersMsg = function (a) {
 	return {ctor: 'AllLedgersMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$EffectsForTransactionMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$EffectsForTransactionMsg = function (a) {
 	return {ctor: 'EffectsForTransactionMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$EffectsForOperationMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$EffectsForOperationMsg = function (a) {
 	return {ctor: 'EffectsForOperationMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$EffectsForLedgerMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$EffectsForLedgerMsg = function (a) {
 	return {ctor: 'EffectsForLedgerMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$EffectsForAccountMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$EffectsForAccountMsg = function (a) {
 	return {ctor: 'EffectsForAccountMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$AllEffectsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$AllEffectsMsg = function (a) {
 	return {ctor: 'AllEffectsMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$DataForAccountMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$DataForAccountMsg = function (a) {
 	return {ctor: 'DataForAccountMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$AllAssetsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$AllAssetsMsg = function (a) {
 	return {ctor: 'AllAssetsMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$AccountDetailsMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$AccountDetailsMsg = function (a) {
 	return {ctor: 'AccountDetailsMsg', _0: a};
 };
-var _user$project$Endpoints_Msg$UpdateEndpoint = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Msg$UpdateEndpoint = function (a) {
 	return {ctor: 'UpdateEndpoint', _0: a};
 };
 
-var _user$project$Msg$EndpointMsg = function (a) {
+var _ryan_senn$stellar_elm_demo$Msg$EndpointMsg = function (a) {
 	return {ctor: 'EndpointMsg', _0: a};
 };
-var _user$project$Msg$SetRoute = function (a) {
+var _ryan_senn$stellar_elm_demo$Msg$SetRoute = function (a) {
 	return {ctor: 'SetRoute', _0: a};
 };
 
-var _user$project$Endpoints_MsgFactory$composeMsg = function (msg) {
-	return _user$project$Msg$EndpointMsg(msg);
+var _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg = function (msg) {
+	return _ryan_senn$stellar_elm_demo$Msg$EndpointMsg(msg);
 };
 
-var _user$project$Endpoints_AccountDetails_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$AccountDetailsMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$AccountDetailsMsg(_p0));
 };
 
-var _user$project$Endpoints_Helpers$setIfJust = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust = F3(
 	function (setter, mValue, requestBuilder) {
 		var _p0 = mValue;
 		if (_p0.ctor === 'Just') {
@@ -29765,7 +29765,7 @@ var _user$project$Endpoints_Helpers$setIfJust = F3(
 			return requestBuilder;
 		}
 	});
-var _user$project$Endpoints_Helpers$setIfChangedMaybe = F5(
+var _ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe = F5(
 	function (setter, getIsChanged, getValue, formElement, requestBuilder) {
 		var _p1 = {
 			ctor: '_Tuple2',
@@ -29778,29 +29778,29 @@ var _user$project$Endpoints_Helpers$setIfChangedMaybe = F5(
 			return requestBuilder;
 		}
 	});
-var _user$project$Endpoints_Helpers$setIfChanged = F5(
+var _ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged = F5(
 	function (setter, getIsChanged, getValue, formElement, requestBuilder) {
 		return getIsChanged(formElement) ? A2(
 			setter,
 			getValue(formElement),
 			requestBuilder) : requestBuilder;
 	});
-var _user$project$Endpoints_Helpers$publicKeyFromInput = function (inputModel) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Helpers$publicKeyFromInput = function (inputModel) {
 	return _bluedogtraining$bdt_elm$Form_Input$getValue(inputModel);
 };
-var _user$project$Endpoints_Helpers$endpointFromInput = function (inputModel) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput = function (inputModel) {
 	return _bluedogtraining$bdt_elm$Form_Input$getValue(inputModel);
 };
 
-var _user$project$Endpoints_AccountDetails_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A2(
-			_user$project$Stellar_Endpoints_AccountDetails$requestBuilder,
-			_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
-			_user$project$Endpoints_Helpers$publicKeyFromInput(settings.publicKey));
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$requestBuilder,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$publicKeyFromInput(settings.publicKey));
 	});
 
-var _user$project$Endpoints_AccountDetails_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -29815,20 +29815,20 @@ var _user$project$Endpoints_AccountDetails_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_AccountDetails_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Update$update = F2(
 	function (msg, model) {
 		var _p1 = msg;
 		switch (_p1.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_AccountDetails_Update$updateSettings, _p1._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Update$updateSettings, _p1._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_AccountDetails_RequestBuilder$requestBuilder, _p1._0, _p1._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_RequestBuilder$requestBuilder, _p1._0, _p1._1);
 				var msg = function (_p2) {
-					return _user$project$Endpoints_AccountDetails_MsgFactory$composeMsg(
-						_user$project$Endpoints_AccountDetails_Msg$Response(_p2));
+					return _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Msg$Response(_p2));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -29837,7 +29837,7 @@ var _user$project$Endpoints_AccountDetails_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_AccountDetails$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -29849,7 +29849,7 @@ var _user$project$Endpoints_AccountDetails_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p1._0._0, _user$project$Stellar_Endpoints_AccountDetails$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p1._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AccountDetails$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -29867,21 +29867,21 @@ var _user$project$Endpoints_AccountDetails_Update$update = F2(
 		}
 	});
 
-var _user$project$Styles$home = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$home = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$padding(
 			_rtfeldman$elm_css$Css$px(25)),
 		_1: {ctor: '[]'}
 	});
-var _user$project$Styles$content = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$content = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$flexGrow(
 			_rtfeldman$elm_css$Css$int(1)),
 		_1: {ctor: '[]'}
 	});
-var _user$project$Styles$sidebarItemLink = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$sidebarItemLink = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: A4(
@@ -29918,7 +29918,7 @@ var _user$project$Styles$sidebarItemLink = _rtfeldman$elm_css$Html_Styled_Attrib
 			}
 		}
 	});
-var _user$project$Styles$sidebarList = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$sidebarList = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$listStyleType(_rtfeldman$elm_css$Css$none),
@@ -29936,7 +29936,7 @@ var _user$project$Styles$sidebarList = _rtfeldman$elm_css$Html_Styled_Attributes
 			}
 		}
 	});
-var _user$project$Styles$sidebarTitle = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$sidebarTitle = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: A2(
@@ -29945,7 +29945,7 @@ var _user$project$Styles$sidebarTitle = _rtfeldman$elm_css$Html_Styled_Attribute
 			_rtfeldman$elm_css$Css$px(20)),
 		_1: {ctor: '[]'}
 	});
-var _user$project$Styles$sidebar = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$sidebar = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$backgroundColor(
@@ -29959,7 +29959,7 @@ var _user$project$Styles$sidebar = _rtfeldman$elm_css$Html_Styled_Attributes$css
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Styles$body = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$body = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$displayFlex,
@@ -29973,7 +29973,7 @@ var _user$project$Styles$body = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Styles$elmTitle = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$elmTitle = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$color(
@@ -30003,7 +30003,7 @@ var _user$project$Styles$elmTitle = _rtfeldman$elm_css$Html_Styled_Attributes$cs
 			}
 		}
 	});
-var _user$project$Styles$stellarTitle = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$stellarTitle = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$color(
@@ -30028,14 +30028,14 @@ var _user$project$Styles$stellarTitle = _rtfeldman$elm_css$Html_Styled_Attribute
 			}
 		}
 	});
-var _user$project$Styles$title = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$title = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$margin(
 			_rtfeldman$elm_css$Css$px(0)),
 		_1: {ctor: '[]'}
 	});
-var _user$project$Styles$header = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$header = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$displayFlex,
@@ -30046,7 +30046,7 @@ var _user$project$Styles$header = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Styles$layout = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Styles$layout = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$displayFlex,
@@ -30056,8 +30056,8 @@ var _user$project$Styles$layout = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Styles_ops = _user$project$Styles_ops || {};
-_user$project$Styles_ops['?'] = F2(
+var _ryan_senn$stellar_elm_demo$Styles_ops = _ryan_senn$stellar_elm_demo$Styles_ops || {};
+_ryan_senn$stellar_elm_demo$Styles_ops['?'] = F2(
 	function (style, shouldDisplay) {
 		var _p0 = shouldDisplay;
 		if (_p0 === true) {
@@ -30066,19 +30066,19 @@ _user$project$Styles_ops['?'] = F2(
 			return _rtfeldman$elm_css$Css$resize(_rtfeldman$elm_css$Css$none);
 		}
 	});
-var _user$project$Styles$sidebarItem = function (isSelected) {
+var _ryan_senn$stellar_elm_demo$Styles$sidebarItem = function (isSelected) {
 	return _rtfeldman$elm_css$Html_Styled_Attributes$css(
 		{
 			ctor: '::',
 			_0: A2(
-				_user$project$Styles_ops['?'],
+				_ryan_senn$stellar_elm_demo$Styles_ops['?'],
 				_rtfeldman$elm_css$Css$backgroundColor(
 					_rtfeldman$elm_css$Css$hex('ffffff')),
 				isSelected),
 			_1: {
 				ctor: '::',
 				_0: A2(
-					_user$project$Styles_ops['?'],
+					_ryan_senn$stellar_elm_demo$Styles_ops['?'],
 					A3(
 						_rtfeldman$elm_css$Css$borderLeft3,
 						_rtfeldman$elm_css$Css$px(10),
@@ -30088,7 +30088,7 @@ var _user$project$Styles$sidebarItem = function (isSelected) {
 				_1: {
 					ctor: '::',
 					_0: A2(
-						_user$project$Styles_ops['?'],
+						_ryan_senn$stellar_elm_demo$Styles_ops['?'],
 						A3(
 							_rtfeldman$elm_css$Css$borderLeft3,
 							_rtfeldman$elm_css$Css$px(10),
@@ -30101,7 +30101,7 @@ var _user$project$Styles$sidebarItem = function (isSelected) {
 		});
 };
 
-var _user$project$Endpoints_Styles$radioButton = function (isSelected) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton = function (isSelected) {
 	return _rtfeldman$elm_css$Html_Styled_Attributes$css(
 		{
 			ctor: '::',
@@ -30148,7 +30148,7 @@ var _user$project$Endpoints_Styles$radioButton = function (isSelected) {
 			}
 		});
 };
-var _user$project$Endpoints_Styles$labelExample = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$color(
@@ -30160,7 +30160,7 @@ var _user$project$Endpoints_Styles$labelExample = _rtfeldman$elm_css$Html_Styled
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Endpoints_Styles$labelMandatory = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$after(
@@ -30171,7 +30171,7 @@ var _user$project$Endpoints_Styles$labelMandatory = _rtfeldman$elm_css$Html_Styl
 			}),
 		_1: {ctor: '[]'}
 	});
-var _user$project$Endpoints_Styles$label = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$label = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$marginTop(
@@ -30187,7 +30187,7 @@ var _user$project$Endpoints_Styles$label = _rtfeldman$elm_css$Html_Styled_Attrib
 			}
 		}
 	});
-var _user$project$Endpoints_Styles$requestButton = function (isLoading) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestButton = function (isLoading) {
 	return _rtfeldman$elm_css$Html_Styled_Attributes$css(
 		{
 			ctor: '::',
@@ -30213,7 +30213,7 @@ var _user$project$Endpoints_Styles$requestButton = function (isLoading) {
 						_1: {
 							ctor: '::',
 							_0: A2(
-								_user$project$Styles_ops['?'],
+								_ryan_senn$stellar_elm_demo$Styles_ops['?'],
 								_rtfeldman$elm_css$Css$cursor(_rtfeldman$elm_css$Css$pointer),
 								!isLoading),
 							_1: {
@@ -30238,7 +30238,7 @@ var _user$project$Endpoints_Styles$requestButton = function (isLoading) {
 			}
 		});
 };
-var _user$project$Endpoints_Styles$requestUrl = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestUrl = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$cursor(_rtfeldman$elm_css$Css$pointer),
@@ -30268,7 +30268,7 @@ var _user$project$Endpoints_Styles$requestUrl = _rtfeldman$elm_css$Html_Styled_A
 			}
 		}
 	});
-var _user$project$Endpoints_Styles$requestType = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestType = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: A2(
@@ -30295,7 +30295,7 @@ var _user$project$Endpoints_Styles$requestType = _rtfeldman$elm_css$Html_Styled_
 			}
 		}
 	});
-var _user$project$Endpoints_Styles$request = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$request = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$displayFlex,
@@ -30306,7 +30306,7 @@ var _user$project$Endpoints_Styles$request = _rtfeldman$elm_css$Html_Styled_Attr
 			_1: {ctor: '[]'}
 		}
 	});
-var _user$project$Endpoints_Styles$response = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$response = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$maxWidth(
@@ -30317,7 +30317,7 @@ var _user$project$Endpoints_Styles$response = _rtfeldman$elm_css$Html_Styled_Att
 				_rtfeldman$elm_css$Css$px(350))),
 		_1: {ctor: '[]'}
 	});
-var _user$project$Endpoints_Styles$officialLink = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$officialLink = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$marginLeft(
@@ -30334,14 +30334,14 @@ var _user$project$Endpoints_Styles$officialLink = _rtfeldman$elm_css$Html_Styled
 			}
 		}
 	});
-var _user$project$Endpoints_Styles$title = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$title = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$margin(
 			_rtfeldman$elm_css$Css$px(0)),
 		_1: {ctor: '[]'}
 	});
-var _user$project$Endpoints_Styles$titleContainer = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$titleContainer = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: A3(
@@ -30366,7 +30366,7 @@ var _user$project$Endpoints_Styles$titleContainer = _rtfeldman$elm_css$Html_Styl
 			}
 		}
 	});
-var _user$project$Endpoints_Styles$page = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$page = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: A2(
@@ -30376,13 +30376,13 @@ var _user$project$Endpoints_Styles$page = _rtfeldman$elm_css$Html_Styled_Attribu
 		_1: {ctor: '[]'}
 	});
 
-var _user$project$Endpoints_Views_Title$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view = F2(
 	function (title, link) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{
 				ctor: '::',
-				_0: _user$project$Endpoints_Styles$titleContainer,
+				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$titleContainer,
 				_1: {ctor: '[]'}
 			},
 			{
@@ -30391,7 +30391,7 @@ var _user$project$Endpoints_Views_Title$view = F2(
 					_rtfeldman$elm_css$Html_Styled$h1,
 					{
 						ctor: '::',
-						_0: _user$project$Endpoints_Styles$title,
+						_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$title,
 						_1: {ctor: '[]'}
 					},
 					{
@@ -30405,7 +30405,7 @@ var _user$project$Endpoints_Views_Title$view = F2(
 						_rtfeldman$elm_css$Html_Styled$span,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$officialLink,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$officialLink,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -30419,7 +30419,7 @@ var _user$project$Endpoints_Views_Title$view = F2(
 							_rtfeldman$elm_css$Html_Styled$a,
 							{
 								ctor: '::',
-								_0: _user$project$Endpoints_Styles$officialLink,
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$officialLink,
 								_1: {
 									ctor: '::',
 									_0: _rtfeldman$elm_css$Html_Styled_Attributes$href(link),
@@ -30441,7 +30441,7 @@ var _user$project$Endpoints_Views_Title$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_Views_Endpoint$view = function (inputModel) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view = function (inputModel) {
 	return A2(
 		_rtfeldman$elm_css$Html_Styled$div,
 		{
@@ -30455,10 +30455,10 @@ var _user$project$Endpoints_Views_Endpoint$view = function (inputModel) {
 				_rtfeldman$elm_css$Html_Styled$label,
 				{
 					ctor: '::',
-					_0: _user$project$Endpoints_Styles$label,
+					_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 					_1: {
 						ctor: '::',
-						_0: _user$project$Endpoints_Styles$labelMandatory,
+						_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 						_1: {ctor: '[]'}
 					}
 				},
@@ -30472,8 +30472,8 @@ var _user$project$Endpoints_Views_Endpoint$view = function (inputModel) {
 				_0: A2(
 					_rtfeldman$elm_css$Html_Styled$map,
 					function (_p0) {
-						return _user$project$Endpoints_MsgFactory$composeMsg(
-							_user$project$Endpoints_Msg$UpdateEndpoint(_p0));
+						return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+							_ryan_senn$stellar_elm_demo$Endpoints_Msg$UpdateEndpoint(_p0));
 					},
 					_bluedogtraining$bdt_elm$Form_Input$render(
 						_bluedogtraining$bdt_elm$Form_Input$view(inputModel))),
@@ -30482,7 +30482,7 @@ var _user$project$Endpoints_Views_Endpoint$view = function (inputModel) {
 		});
 };
 
-var _user$project$Endpoints_Views_Request$replace = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$replace = F2(
 	function (old, $new) {
 		return function (_p0) {
 			return A2(
@@ -30491,41 +30491,41 @@ var _user$project$Endpoints_Views_Request$replace = F2(
 				A2(_elm_lang$core$String$split, old, _p0));
 		};
 	});
-var _user$project$Endpoints_Views_Request$queryEscape = function (_p1) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$queryEscape = function (_p1) {
 	return A3(
-		_user$project$Endpoints_Views_Request$replace,
+		_ryan_senn$stellar_elm_demo$Endpoints_Views_Request$replace,
 		'%20',
 		'+',
 		_elm_lang$http$Http$encodeUri(_p1));
 };
-var _user$project$Endpoints_Views_Request$queryPair = function (_p2) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$queryPair = function (_p2) {
 	var _p3 = _p2;
 	return A2(
 		_elm_lang$core$Basics_ops['++'],
-		_user$project$Endpoints_Views_Request$queryEscape(_p3._0),
+		_ryan_senn$stellar_elm_demo$Endpoints_Views_Request$queryEscape(_p3._0),
 		A2(
 			_elm_lang$core$Basics_ops['++'],
 			'=',
-			_user$project$Endpoints_Views_Request$queryEscape(_p3._1)));
+			_ryan_senn$stellar_elm_demo$Endpoints_Views_Request$queryEscape(_p3._1)));
 };
-var _user$project$Endpoints_Views_Request$joinUrlEncoded = function (args) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$joinUrlEncoded = function (args) {
 	return A2(
 		_elm_lang$core$String$join,
 		'&',
-		A2(_elm_lang$core$List$map, _user$project$Endpoints_Views_Request$queryPair, args));
+		A2(_elm_lang$core$List$map, _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$queryPair, args));
 };
-var _user$project$Endpoints_Views_Request$queryParams = function (args) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$queryParams = function (args) {
 	var _p4 = _elm_lang$core$List$isEmpty(args);
 	if (_p4 === false) {
 		return A2(
 			_elm_lang$core$Basics_ops['++'],
 			'?',
-			_user$project$Endpoints_Views_Request$joinUrlEncoded(args));
+			_ryan_senn$stellar_elm_demo$Endpoints_Views_Request$joinUrlEncoded(args));
 	} else {
 		return '';
 	}
 };
-var _user$project$Endpoints_Views_Request$view = function (requestBuilder) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view = function (requestBuilder) {
 	var _p5 = requestBuilder.method;
 	switch (_p5) {
 		case 'GET':
@@ -30533,7 +30533,7 @@ var _user$project$Endpoints_Views_Request$view = function (requestBuilder) {
 				_rtfeldman$elm_css$Html_Styled$div,
 				{
 					ctor: '::',
-					_0: _user$project$Endpoints_Styles$request,
+					_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$request,
 					_1: {ctor: '[]'}
 				},
 				{
@@ -30542,7 +30542,7 @@ var _user$project$Endpoints_Views_Request$view = function (requestBuilder) {
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$requestType,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestType,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -30556,7 +30556,7 @@ var _user$project$Endpoints_Views_Request$view = function (requestBuilder) {
 							_rtfeldman$elm_css$Html_Styled$div,
 							{
 								ctor: '::',
-								_0: _user$project$Endpoints_Styles$requestUrl,
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestUrl,
 								_1: {
 									ctor: '::',
 									_0: _rtfeldman$elm_css$Html_Styled_Attributes$class('clipboard'),
@@ -30571,7 +30571,7 @@ var _user$project$Endpoints_Views_Request$view = function (requestBuilder) {
 												A2(
 													_elm_lang$core$Basics_ops['++'],
 													requestBuilder.url,
-													_user$project$Endpoints_Views_Request$queryParams(requestBuilder.queryParams))),
+													_ryan_senn$stellar_elm_demo$Endpoints_Views_Request$queryParams(requestBuilder.queryParams))),
 											_1: {ctor: '[]'}
 										}
 									}
@@ -30583,7 +30583,7 @@ var _user$project$Endpoints_Views_Request$view = function (requestBuilder) {
 									A2(
 										_elm_lang$core$Basics_ops['++'],
 										requestBuilder.url,
-										_user$project$Endpoints_Views_Request$queryParams(requestBuilder.queryParams))),
+										_ryan_senn$stellar_elm_demo$Endpoints_Views_Request$queryParams(requestBuilder.queryParams))),
 								_1: {ctor: '[]'}
 							}),
 						_1: {ctor: '[]'}
@@ -30610,13 +30610,13 @@ var _user$project$Endpoints_Views_Request$view = function (requestBuilder) {
 	}
 };
 
-var _user$project$Endpoints_Views_Button$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view = F2(
 	function (isLoading, msg) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$button,
 			{
 				ctor: '::',
-				_0: _user$project$Endpoints_Styles$requestButton(isLoading),
+				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestButton(isLoading),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -30633,7 +30633,7 @@ var _user$project$Endpoints_Views_Button$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_Views_Response$record = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Response$record = F2(
 	function (response, isLoading) {
 		var _p0 = {ctor: '_Tuple2', _0: isLoading, _1: response};
 		_v0_0:
@@ -30709,7 +30709,7 @@ var _user$project$Endpoints_Views_Response$record = F2(
 					_1: {ctor: '[]'}
 				}));
 	});
-var _user$project$Endpoints_Views_Response$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view = F2(
 	function (response, isLoading) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
@@ -30726,27 +30726,27 @@ var _user$project$Endpoints_Views_Response$view = F2(
 					}),
 				_1: {
 					ctor: '::',
-					_0: A3(_rtfeldman$elm_css$Html_Styled_Lazy$lazy2, _user$project$Endpoints_Views_Response$record, response, isLoading),
+					_0: A3(_rtfeldman$elm_css$Html_Styled_Lazy$lazy2, _ryan_senn$stellar_elm_demo$Endpoints_Views_Response$record, response, isLoading),
 					_1: {ctor: '[]'}
 				}
 			});
 	});
 
-var _user$project$Endpoints_AccountDetails_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Account Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/accounts-single.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Account Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/accounts-single.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -30761,7 +30761,7 @@ var _user$project$Endpoints_AccountDetails_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -30777,7 +30777,7 @@ var _user$project$Endpoints_AccountDetails_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -30786,7 +30786,7 @@ var _user$project$Endpoints_AccountDetails_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -30800,7 +30800,7 @@ var _user$project$Endpoints_AccountDetails_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -30816,9 +30816,9 @@ var _user$project$Endpoints_AccountDetails_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_AccountDetails_MsgFactory$composeMsg(
-															_user$project$Endpoints_AccountDetails_Msg$SettingsMsg(
-																_user$project$Endpoints_AccountDetails_Msg$UpdatePublicKey(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Msg$UpdatePublicKey(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.publicKey))),
@@ -30827,18 +30827,18 @@ var _user$project$Endpoints_AccountDetails_View$view = F2(
 										}),
 									_1: {
 										ctor: '::',
-										_0: _user$project$Endpoints_Views_Request$view(
-											A2(_user$project$Endpoints_AccountDetails_RequestBuilder$requestBuilder, endpoint, model.settings)),
+										_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+											A2(_ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_RequestBuilder$requestBuilder, endpoint, model.settings)),
 										_1: {
 											ctor: '::',
 											_0: A2(
-												_user$project$Endpoints_Views_Button$view,
+												_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 												model.isLoading,
-												_user$project$Endpoints_AccountDetails_MsgFactory$composeMsg(
-													A2(_user$project$Endpoints_AccountDetails_Msg$Request, endpoint, model.settings))),
+												_ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_MsgFactory$composeMsg(
+													A2(_ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Msg$Request, endpoint, model.settings))),
 											_1: {
 												ctor: '::',
-												_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+												_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 												_1: {ctor: '[]'}
 											}
 										}
@@ -30851,45 +30851,45 @@ var _user$project$Endpoints_AccountDetails_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_AllAssets_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$AllAssetsMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$AllAssetsMsg(_p0));
 };
 
-var _user$project$Endpoints_AllAssets_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_AllAssets$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_AllAssets$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_AllAssets$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A5(
-						_user$project$Endpoints_Helpers$setIfChanged,
-						_user$project$Stellar_Endpoints_AllAssets$setAssetIssuer,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$setAssetIssuer,
 						_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 						_bluedogtraining$bdt_elm$Form_Input$getValue,
 						settings.assetIssuer,
 						A5(
-							_user$project$Endpoints_Helpers$setIfChanged,
-							_user$project$Stellar_Endpoints_AllAssets$setAssetCode,
+							_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+							_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$setAssetCode,
 							_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 							_bluedogtraining$bdt_elm$Form_Input$getValue,
 							settings.assetCode,
-							_user$project$Stellar_Endpoints_AllAssets$requestBuilder(endpoint))))));
+							_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$requestBuilder(endpoint))))));
 	});
 
-var _user$project$Endpoints_AllAssets_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -30934,20 +30934,20 @@ var _user$project$Endpoints_AllAssets_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_AllAssets_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_AllAssets_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_AllAssets_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_AllAssets_MsgFactory$composeMsg(
-						_user$project$Endpoints_AllAssets_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -30956,7 +30956,7 @@ var _user$project$Endpoints_AllAssets_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_AllAssets$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -30968,7 +30968,7 @@ var _user$project$Endpoints_AllAssets_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_AllAssets$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllAssets$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -30986,21 +30986,21 @@ var _user$project$Endpoints_AllAssets_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_AllAssets_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'All Assets', 'https://www.stellar.org/developers/horizon/reference/endpoints/assets-all.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'All Assets', 'https://www.stellar.org/developers/horizon/reference/endpoints/assets-all.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -31015,7 +31015,7 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -31031,7 +31031,7 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -31050,7 +31050,7 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -31066,9 +31066,9 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_AllAssets_MsgFactory$composeMsg(
-															_user$project$Endpoints_AllAssets_Msg$SettingsMsg(
-																_user$project$Endpoints_AllAssets_Msg$UpdateAssetCode(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$UpdateAssetCode(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.assetCode))),
@@ -31090,7 +31090,7 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -31109,7 +31109,7 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -31125,9 +31125,9 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_AllAssets_MsgFactory$composeMsg(
-																_user$project$Endpoints_AllAssets_Msg$SettingsMsg(
-																	_user$project$Endpoints_AllAssets_Msg$UpdateAssetIssuer(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$UpdateAssetIssuer(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.assetIssuer))),
@@ -31149,7 +31149,7 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -31168,7 +31168,7 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -31184,9 +31184,9 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_AllAssets_MsgFactory$composeMsg(
-																	_user$project$Endpoints_AllAssets_Msg$SettingsMsg(
-																		_user$project$Endpoints_AllAssets_Msg$UpdateCursor(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$UpdateCursor(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_Input$render(
 																_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -31208,7 +31208,7 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -31227,7 +31227,7 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -31243,9 +31243,9 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 															_0: A2(
 																_rtfeldman$elm_css$Html_Styled$map,
 																function (_p3) {
-																	return _user$project$Endpoints_AllAssets_MsgFactory$composeMsg(
-																		_user$project$Endpoints_AllAssets_Msg$SettingsMsg(
-																			_user$project$Endpoints_AllAssets_Msg$UpdateLimit(_p3)));
+																	return _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_MsgFactory$composeMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$SettingsMsg(
+																			_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$UpdateLimit(_p3)));
 																},
 																_bluedogtraining$bdt_elm$Form_IntInput$render(
 																	_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -31267,7 +31267,7 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$label,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$label,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -31286,7 +31286,7 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$labelExample,
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																				_1: {ctor: '[]'}
 																			},
 																			{
@@ -31308,16 +31308,16 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_AllAssets_MsgFactory$composeMsg(
-																							_user$project$Endpoints_AllAssets_Msg$SettingsMsg(
-																								_user$project$Endpoints_AllAssets_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -31332,16 +31332,16 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 																				_rtfeldman$elm_css$Html_Styled$span,
 																				{
 																					ctor: '::',
-																					_0: _user$project$Endpoints_Styles$radioButton(
+																					_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																						_elm_lang$core$Native_Utils.eq(
 																							model.settings.sorting,
-																							_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																							_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																					_1: {
 																						ctor: '::',
 																						_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																							_user$project$Endpoints_AllAssets_MsgFactory$composeMsg(
-																								_user$project$Endpoints_AllAssets_Msg$SettingsMsg(
-																									_user$project$Endpoints_AllAssets_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																							_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_MsgFactory$composeMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$SettingsMsg(
+																									_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																						_1: {ctor: '[]'}
 																					}
 																				},
@@ -31358,24 +31358,24 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 														}),
 													_1: {
 														ctor: '::',
-														_0: _user$project$Endpoints_Views_Request$view(
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
 															A2(
-																_user$project$Endpoints_AllAssets_RequestBuilder$requestBuilder,
-																_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+																_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_RequestBuilder$requestBuilder,
+																_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 																model.settings)),
 														_1: {
 															ctor: '::',
 															_0: A2(
-																_user$project$Endpoints_Views_Button$view,
+																_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 																model.isLoading,
-																_user$project$Endpoints_AllAssets_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_MsgFactory$composeMsg(
 																	A2(
-																		_user$project$Endpoints_AllAssets_Msg$Request,
-																		_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+																		_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Msg$Request,
+																		_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 																		model.settings))),
 															_1: {
 																ctor: '::',
-																_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+																_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 																_1: {ctor: '[]'}
 															}
 														}
@@ -31392,33 +31392,33 @@ var _user$project$Endpoints_AllAssets_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_AllEffects_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$AllEffectsMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$AllEffectsMsg(_p0));
 };
 
-var _user$project$Endpoints_AllEffects_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_AllEffects$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_AllEffects$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_AllEffects$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
-					_user$project$Stellar_Endpoints_AllEffects$requestBuilder(endpoint))));
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$requestBuilder(endpoint))));
 	});
 
-var _user$project$Endpoints_AllEffects_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -31451,20 +31451,20 @@ var _user$project$Endpoints_AllEffects_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_AllEffects_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_AllEffects_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_AllEffects_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_AllEffects_MsgFactory$composeMsg(
-						_user$project$Endpoints_AllEffects_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -31473,7 +31473,7 @@ var _user$project$Endpoints_AllEffects_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_AllEffects$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -31485,7 +31485,7 @@ var _user$project$Endpoints_AllEffects_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_AllEffects$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllEffects$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -31503,21 +31503,21 @@ var _user$project$Endpoints_AllEffects_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_AllEffects_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'All Effects', 'https://www.stellar.org/developers/horizon/reference/endpoints/effects-all.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'All Effects', 'https://www.stellar.org/developers/horizon/reference/endpoints/effects-all.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -31532,7 +31532,7 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -31548,7 +31548,7 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -31567,7 +31567,7 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -31583,9 +31583,9 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_AllEffects_MsgFactory$composeMsg(
-															_user$project$Endpoints_AllEffects_Msg$SettingsMsg(
-																_user$project$Endpoints_AllEffects_Msg$UpdateCursor(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$UpdateCursor(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -31607,7 +31607,7 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -31626,7 +31626,7 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -31642,9 +31642,9 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_AllEffects_MsgFactory$composeMsg(
-																_user$project$Endpoints_AllEffects_Msg$SettingsMsg(
-																	_user$project$Endpoints_AllEffects_Msg$UpdateLimit(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$UpdateLimit(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_IntInput$render(
 															_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -31666,7 +31666,7 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -31685,7 +31685,7 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -31707,16 +31707,16 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$radioButton(
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																			_elm_lang$core$Native_Utils.eq(
 																				model.settings.sorting,
-																				_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																				_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																		_1: {
 																			ctor: '::',
 																			_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																				_user$project$Endpoints_AllEffects_MsgFactory$composeMsg(
-																					_user$project$Endpoints_AllEffects_Msg$SettingsMsg(
-																						_user$project$Endpoints_AllEffects_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																				_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_MsgFactory$composeMsg(
+																					_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$SettingsMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																			_1: {ctor: '[]'}
 																		}
 																	},
@@ -31731,16 +31731,16 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_AllEffects_MsgFactory$composeMsg(
-																						_user$project$Endpoints_AllEffects_Msg$SettingsMsg(
-																							_user$project$Endpoints_AllEffects_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -31757,24 +31757,24 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 												}),
 											_1: {
 												ctor: '::',
-												_0: _user$project$Endpoints_Views_Request$view(
+												_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
 													A2(
-														_user$project$Endpoints_AllEffects_RequestBuilder$requestBuilder,
-														_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+														_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_RequestBuilder$requestBuilder,
+														_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 														model.settings)),
 												_1: {
 													ctor: '::',
 													_0: A2(
-														_user$project$Endpoints_Views_Button$view,
+														_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 														model.isLoading,
-														_user$project$Endpoints_AllEffects_MsgFactory$composeMsg(
+														_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_MsgFactory$composeMsg(
 															A2(
-																_user$project$Endpoints_AllEffects_Msg$Request,
-																_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+																_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Msg$Request,
+																_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 																model.settings))),
 													_1: {
 														ctor: '::',
-														_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+														_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 														_1: {ctor: '[]'}
 													}
 												}
@@ -31789,34 +31789,34 @@ var _user$project$Endpoints_AllEffects_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_AllLedgers_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$AllLedgersMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$AllLedgersMsg(_p0));
 };
 
-var _user$project$Endpoints_AllLedgers_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_AllLedgers$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_AllLedgers$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_AllLedgers$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
-					_user$project$Stellar_Endpoints_AllLedgers$requestBuilder(
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint)))));
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$requestBuilder(
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint)))));
 	});
 
-var _user$project$Endpoints_AllLedgers_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -31849,20 +31849,20 @@ var _user$project$Endpoints_AllLedgers_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_AllLedgers_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_AllLedgers_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_AllLedgers_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_AllLedgers_MsgFactory$composeMsg(
-						_user$project$Endpoints_AllLedgers_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -31871,7 +31871,7 @@ var _user$project$Endpoints_AllLedgers_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_AllLedgers$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -31883,7 +31883,7 @@ var _user$project$Endpoints_AllLedgers_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_AllLedgers$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllLedgers$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -31901,21 +31901,21 @@ var _user$project$Endpoints_AllLedgers_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_AllLedgers_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'All Assets', 'https://www.stellar.org/developers/horizon/reference/endpoints/assets-all.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'All Assets', 'https://www.stellar.org/developers/horizon/reference/endpoints/assets-all.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -31930,7 +31930,7 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -31946,7 +31946,7 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -31965,7 +31965,7 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -31981,9 +31981,9 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_AllLedgers_MsgFactory$composeMsg(
-															_user$project$Endpoints_AllLedgers_Msg$SettingsMsg(
-																_user$project$Endpoints_AllLedgers_Msg$UpdateCursor(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$UpdateCursor(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -32005,7 +32005,7 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -32024,7 +32024,7 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -32040,9 +32040,9 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_AllLedgers_MsgFactory$composeMsg(
-																_user$project$Endpoints_AllLedgers_Msg$SettingsMsg(
-																	_user$project$Endpoints_AllLedgers_Msg$UpdateLimit(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$UpdateLimit(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_IntInput$render(
 															_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -32064,7 +32064,7 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -32083,7 +32083,7 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -32105,16 +32105,16 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$radioButton(
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																			_elm_lang$core$Native_Utils.eq(
 																				model.settings.sorting,
-																				_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																				_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																		_1: {
 																			ctor: '::',
 																			_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																				_user$project$Endpoints_AllLedgers_MsgFactory$composeMsg(
-																					_user$project$Endpoints_AllLedgers_Msg$SettingsMsg(
-																						_user$project$Endpoints_AllLedgers_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																				_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_MsgFactory$composeMsg(
+																					_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$SettingsMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																			_1: {ctor: '[]'}
 																		}
 																	},
@@ -32129,16 +32129,16 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_AllLedgers_MsgFactory$composeMsg(
-																						_user$project$Endpoints_AllLedgers_Msg$SettingsMsg(
-																							_user$project$Endpoints_AllLedgers_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -32155,18 +32155,18 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 												}),
 											_1: {
 												ctor: '::',
-												_0: _user$project$Endpoints_Views_Request$view(
-													A2(_user$project$Endpoints_AllLedgers_RequestBuilder$requestBuilder, endpoint, model.settings)),
+												_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+													A2(_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_RequestBuilder$requestBuilder, endpoint, model.settings)),
 												_1: {
 													ctor: '::',
 													_0: A2(
-														_user$project$Endpoints_Views_Button$view,
+														_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 														model.isLoading,
-														_user$project$Endpoints_AllLedgers_MsgFactory$composeMsg(
-															A2(_user$project$Endpoints_AllLedgers_Msg$Request, endpoint, model.settings))),
+														_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_MsgFactory$composeMsg(
+															A2(_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$Request, endpoint, model.settings))),
 													_1: {
 														ctor: '::',
-														_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+														_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 														_1: {ctor: '[]'}
 													}
 												}
@@ -32181,33 +32181,33 @@ var _user$project$Endpoints_AllLedgers_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_AllOperations_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$AllOperationsMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$AllOperationsMsg(_p0));
 };
 
-var _user$project$Endpoints_AllOperations_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_AllOperations$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_AllOperations$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_AllOperations$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
-					_user$project$Stellar_Endpoints_AllOperations$requestBuilder(endpoint))));
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$requestBuilder(endpoint))));
 	});
 
-var _user$project$Endpoints_AllOperations_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -32240,20 +32240,20 @@ var _user$project$Endpoints_AllOperations_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_AllOperations_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_AllOperations_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_AllOperations_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_AllOperations_MsgFactory$composeMsg(
-						_user$project$Endpoints_AllOperations_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -32262,7 +32262,7 @@ var _user$project$Endpoints_AllOperations_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_AllOperations$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -32274,7 +32274,7 @@ var _user$project$Endpoints_AllOperations_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_AllOperations$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllOperations$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -32292,21 +32292,21 @@ var _user$project$Endpoints_AllOperations_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_AllOperations_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'All Operations', 'https://www.stellar.org/developers/horizon/reference/endpoints/operations-all.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'All Operations', 'https://www.stellar.org/developers/horizon/reference/endpoints/operations-all.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -32321,7 +32321,7 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -32337,7 +32337,7 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -32356,7 +32356,7 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -32372,9 +32372,9 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_AllOperations_MsgFactory$composeMsg(
-															_user$project$Endpoints_AllOperations_Msg$SettingsMsg(
-																_user$project$Endpoints_AllOperations_Msg$UpdateCursor(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$UpdateCursor(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -32396,7 +32396,7 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -32415,7 +32415,7 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -32431,9 +32431,9 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_AllOperations_MsgFactory$composeMsg(
-																_user$project$Endpoints_AllOperations_Msg$SettingsMsg(
-																	_user$project$Endpoints_AllOperations_Msg$UpdateLimit(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$UpdateLimit(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_IntInput$render(
 															_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -32455,7 +32455,7 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -32474,7 +32474,7 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -32496,16 +32496,16 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$radioButton(
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																			_elm_lang$core$Native_Utils.eq(
 																				model.settings.sorting,
-																				_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																				_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																		_1: {
 																			ctor: '::',
 																			_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																				_user$project$Endpoints_AllOperations_MsgFactory$composeMsg(
-																					_user$project$Endpoints_AllOperations_Msg$SettingsMsg(
-																						_user$project$Endpoints_AllOperations_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																				_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_MsgFactory$composeMsg(
+																					_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$SettingsMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																			_1: {ctor: '[]'}
 																		}
 																	},
@@ -32520,16 +32520,16 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_AllOperations_MsgFactory$composeMsg(
-																						_user$project$Endpoints_AllOperations_Msg$SettingsMsg(
-																							_user$project$Endpoints_AllOperations_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -32546,24 +32546,24 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 												}),
 											_1: {
 												ctor: '::',
-												_0: _user$project$Endpoints_Views_Request$view(
+												_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
 													A2(
-														_user$project$Endpoints_AllOperations_RequestBuilder$requestBuilder,
-														_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+														_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_RequestBuilder$requestBuilder,
+														_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 														model.settings)),
 												_1: {
 													ctor: '::',
 													_0: A2(
-														_user$project$Endpoints_Views_Button$view,
+														_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 														model.isLoading,
-														_user$project$Endpoints_AllOperations_MsgFactory$composeMsg(
+														_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_MsgFactory$composeMsg(
 															A2(
-																_user$project$Endpoints_AllOperations_Msg$Request,
-																_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+																_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Msg$Request,
+																_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 																model.settings))),
 													_1: {
 														ctor: '::',
-														_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+														_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 														_1: {ctor: '[]'}
 													}
 												}
@@ -32578,33 +32578,33 @@ var _user$project$Endpoints_AllOperations_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_AllPayments_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$AllPaymentsMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$AllPaymentsMsg(_p0));
 };
 
-var _user$project$Endpoints_AllPayments_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_AllPayments$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_AllPayments$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_AllPayments$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
-					_user$project$Stellar_Endpoints_AllPayments$requestBuilder(endpoint))));
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$requestBuilder(endpoint))));
 	});
 
-var _user$project$Endpoints_AllPayments_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -32637,20 +32637,20 @@ var _user$project$Endpoints_AllPayments_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_AllPayments_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_AllPayments_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_AllPayments_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_AllPayments_MsgFactory$composeMsg(
-						_user$project$Endpoints_AllPayments_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -32659,7 +32659,7 @@ var _user$project$Endpoints_AllPayments_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_AllPayments$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -32671,7 +32671,7 @@ var _user$project$Endpoints_AllPayments_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_AllPayments$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllPayments$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -32689,21 +32689,21 @@ var _user$project$Endpoints_AllPayments_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_AllPayments_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'All Payments', 'https://www.stellar.org/developers/horizon/reference/endpoints/payments-all.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'All Payments', 'https://www.stellar.org/developers/horizon/reference/endpoints/payments-all.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -32718,7 +32718,7 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -32734,7 +32734,7 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -32753,7 +32753,7 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -32769,9 +32769,9 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_AllPayments_MsgFactory$composeMsg(
-															_user$project$Endpoints_AllPayments_Msg$SettingsMsg(
-																_user$project$Endpoints_AllPayments_Msg$UpdateCursor(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$UpdateCursor(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -32793,7 +32793,7 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -32812,7 +32812,7 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -32828,9 +32828,9 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_AllPayments_MsgFactory$composeMsg(
-																_user$project$Endpoints_AllPayments_Msg$SettingsMsg(
-																	_user$project$Endpoints_AllPayments_Msg$UpdateLimit(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$UpdateLimit(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_IntInput$render(
 															_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -32852,7 +32852,7 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -32871,7 +32871,7 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -32893,16 +32893,16 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$radioButton(
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																			_elm_lang$core$Native_Utils.eq(
 																				model.settings.sorting,
-																				_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																				_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																		_1: {
 																			ctor: '::',
 																			_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																				_user$project$Endpoints_AllPayments_MsgFactory$composeMsg(
-																					_user$project$Endpoints_AllPayments_Msg$SettingsMsg(
-																						_user$project$Endpoints_AllPayments_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																				_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_MsgFactory$composeMsg(
+																					_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$SettingsMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																			_1: {ctor: '[]'}
 																		}
 																	},
@@ -32917,16 +32917,16 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_AllPayments_MsgFactory$composeMsg(
-																						_user$project$Endpoints_AllPayments_Msg$SettingsMsg(
-																							_user$project$Endpoints_AllPayments_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -32943,24 +32943,24 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 												}),
 											_1: {
 												ctor: '::',
-												_0: _user$project$Endpoints_Views_Request$view(
+												_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
 													A2(
-														_user$project$Endpoints_AllPayments_RequestBuilder$requestBuilder,
-														_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+														_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_RequestBuilder$requestBuilder,
+														_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 														model.settings)),
 												_1: {
 													ctor: '::',
 													_0: A2(
-														_user$project$Endpoints_Views_Button$view,
+														_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 														model.isLoading,
-														_user$project$Endpoints_AllPayments_MsgFactory$composeMsg(
+														_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_MsgFactory$composeMsg(
 															A2(
-																_user$project$Endpoints_AllPayments_Msg$Request,
-																_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+																_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Msg$Request,
+																_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 																model.settings))),
 													_1: {
 														ctor: '::',
-														_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+														_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 														_1: {ctor: '[]'}
 													}
 												}
@@ -32975,33 +32975,33 @@ var _user$project$Endpoints_AllPayments_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_AllTransactions_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$AllTransactionsMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$AllTransactionsMsg(_p0));
 };
 
-var _user$project$Endpoints_AllTransactions_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_AllTransactions$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_AllTransactions$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_AllTransactions$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
-					_user$project$Stellar_Endpoints_AllTransactions$requestBuilder(endpoint))));
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$requestBuilder(endpoint))));
 	});
 
-var _user$project$Endpoints_AllTransactions_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -33034,20 +33034,20 @@ var _user$project$Endpoints_AllTransactions_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_AllTransactions_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_AllTransactions_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_AllTransactions_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_AllTransactions_MsgFactory$composeMsg(
-						_user$project$Endpoints_AllTransactions_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -33056,7 +33056,7 @@ var _user$project$Endpoints_AllTransactions_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_AllTransactions$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -33068,7 +33068,7 @@ var _user$project$Endpoints_AllTransactions_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_AllTransactions$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_AllTransactions$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -33086,21 +33086,21 @@ var _user$project$Endpoints_AllTransactions_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_AllTransactions_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'All Transactions', 'https://www.stellar.org/developers/horizon/reference/endpoints/transactions-all.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'All Transactions', 'https://www.stellar.org/developers/horizon/reference/endpoints/transactions-all.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -33115,7 +33115,7 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -33131,7 +33131,7 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -33150,7 +33150,7 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -33166,9 +33166,9 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_AllTransactions_MsgFactory$composeMsg(
-															_user$project$Endpoints_AllTransactions_Msg$SettingsMsg(
-																_user$project$Endpoints_AllTransactions_Msg$UpdateCursor(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$UpdateCursor(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -33190,7 +33190,7 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -33209,7 +33209,7 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -33225,9 +33225,9 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_AllTransactions_MsgFactory$composeMsg(
-																_user$project$Endpoints_AllTransactions_Msg$SettingsMsg(
-																	_user$project$Endpoints_AllTransactions_Msg$UpdateLimit(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$UpdateLimit(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_IntInput$render(
 															_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -33249,7 +33249,7 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -33268,7 +33268,7 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -33290,16 +33290,16 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$radioButton(
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																			_elm_lang$core$Native_Utils.eq(
 																				model.settings.sorting,
-																				_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																				_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																		_1: {
 																			ctor: '::',
 																			_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																				_user$project$Endpoints_AllTransactions_MsgFactory$composeMsg(
-																					_user$project$Endpoints_AllTransactions_Msg$SettingsMsg(
-																						_user$project$Endpoints_AllTransactions_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																				_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_MsgFactory$composeMsg(
+																					_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$SettingsMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																			_1: {ctor: '[]'}
 																		}
 																	},
@@ -33314,16 +33314,16 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_AllTransactions_MsgFactory$composeMsg(
-																						_user$project$Endpoints_AllTransactions_Msg$SettingsMsg(
-																							_user$project$Endpoints_AllTransactions_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -33340,24 +33340,24 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 												}),
 											_1: {
 												ctor: '::',
-												_0: _user$project$Endpoints_Views_Request$view(
+												_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
 													A2(
-														_user$project$Endpoints_AllTransactions_RequestBuilder$requestBuilder,
-														_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+														_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_RequestBuilder$requestBuilder,
+														_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 														model.settings)),
 												_1: {
 													ctor: '::',
 													_0: A2(
-														_user$project$Endpoints_Views_Button$view,
+														_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 														model.isLoading,
-														_user$project$Endpoints_AllTransactions_MsgFactory$composeMsg(
+														_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_MsgFactory$composeMsg(
 															A2(
-																_user$project$Endpoints_AllTransactions_Msg$Request,
-																_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+																_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Msg$Request,
+																_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 																model.settings))),
 													_1: {
 														ctor: '::',
-														_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+														_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 														_1: {ctor: '[]'}
 													}
 												}
@@ -33372,24 +33372,24 @@ var _user$project$Endpoints_AllTransactions_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_DataForAccount_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$DataForAccountMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$DataForAccountMsg(_p0));
 };
 
-var _user$project$Endpoints_DataForAccount_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Stellar_Endpoints_DataForAccount$requestBuilder,
-			_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
-			_user$project$Endpoints_Helpers$publicKeyFromInput(settings.publicKey),
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$requestBuilder,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$publicKeyFromInput(settings.publicKey),
 			A2(
 				_elm_lang$core$Maybe$withDefault,
-				_user$project$Stellar_Endpoints_DataForAccount$UserId,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$UserId,
 				_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(settings.dataKey)));
 	});
 
-var _user$project$Endpoints_DataForAccount_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var _p0 = function () {
@@ -33417,9 +33417,9 @@ var _user$project$Endpoints_DataForAccount_Update$updateSettings = F2(
 						_0: A2(
 							_elm_lang$core$Platform_Cmd$map,
 							function (_p3) {
-								return _user$project$Endpoints_DataForAccount_MsgFactory$composeMsg(
-									_user$project$Endpoints_DataForAccount_Msg$SettingsMsg(
-										_user$project$Endpoints_DataForAccount_Msg$UpdateDataKey(_p3)));
+								return _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_MsgFactory$composeMsg(
+									_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$SettingsMsg(
+										_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$UpdateDataKey(_p3)));
 							},
 							cmds),
 						_1: {ctor: '[]'}
@@ -33439,17 +33439,17 @@ var _user$project$Endpoints_DataForAccount_Update$updateSettings = F2(
 				_1: {ctor: '[]'}
 			});
 	});
-var _user$project$Endpoints_DataForAccount_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Update$update = F2(
 	function (msg, model) {
 		var _p4 = msg;
 		switch (_p4.ctor) {
 			case 'SettingsMsg':
-				return A2(_user$project$Endpoints_DataForAccount_Update$updateSettings, _p4._0, model);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Update$updateSettings, _p4._0, model);
 			case 'Request':
-				var request = A2(_user$project$Endpoints_DataForAccount_RequestBuilder$requestBuilder, _p4._0, _p4._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_RequestBuilder$requestBuilder, _p4._0, _p4._1);
 				var msg = function (_p5) {
-					return _user$project$Endpoints_DataForAccount_MsgFactory$composeMsg(
-						_user$project$Endpoints_DataForAccount_Msg$Response(_p5));
+					return _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$Response(_p5));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -33458,7 +33458,7 @@ var _user$project$Endpoints_DataForAccount_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_DataForAccount$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -33470,7 +33470,7 @@ var _user$project$Endpoints_DataForAccount_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p4._0._0, _user$project$Stellar_Endpoints_DataForAccount$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p4._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_DataForAccount$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -33488,21 +33488,21 @@ var _user$project$Endpoints_DataForAccount_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_DataForAccount_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Data for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/data-for-account.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Data for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/data-for-account.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -33517,7 +33517,7 @@ var _user$project$Endpoints_DataForAccount_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -33533,7 +33533,7 @@ var _user$project$Endpoints_DataForAccount_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -33542,7 +33542,7 @@ var _user$project$Endpoints_DataForAccount_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -33556,7 +33556,7 @@ var _user$project$Endpoints_DataForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -33572,9 +33572,9 @@ var _user$project$Endpoints_DataForAccount_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_DataForAccount_MsgFactory$composeMsg(
-															_user$project$Endpoints_DataForAccount_Msg$SettingsMsg(
-																_user$project$Endpoints_DataForAccount_Msg$UpdatePublicKey(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$UpdatePublicKey(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.publicKey))),
@@ -33596,7 +33596,7 @@ var _user$project$Endpoints_DataForAccount_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -33605,7 +33605,7 @@ var _user$project$Endpoints_DataForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelMandatory,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -33620,9 +33620,9 @@ var _user$project$Endpoints_DataForAccount_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_DataForAccount_MsgFactory$composeMsg(
-																_user$project$Endpoints_DataForAccount_Msg$SettingsMsg(
-																	_user$project$Endpoints_DataForAccount_Msg$UpdateDataKey(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$UpdateDataKey(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Select$render(
 															A2(
@@ -33638,18 +33638,18 @@ var _user$project$Endpoints_DataForAccount_View$view = F2(
 											}),
 										_1: {
 											ctor: '::',
-											_0: _user$project$Endpoints_Views_Request$view(
-												A2(_user$project$Endpoints_DataForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
+											_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+												A2(_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
 											_1: {
 												ctor: '::',
 												_0: A2(
-													_user$project$Endpoints_Views_Button$view,
+													_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 													model.isLoading,
-													_user$project$Endpoints_DataForAccount_MsgFactory$composeMsg(
-														A2(_user$project$Endpoints_DataForAccount_Msg$Request, endpoint, model.settings))),
+													_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_MsgFactory$composeMsg(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$Request, endpoint, model.settings))),
 												_1: {
 													ctor: '::',
-													_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+													_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 													_1: {ctor: '[]'}
 												}
 											}
@@ -33663,36 +33663,36 @@ var _user$project$Endpoints_DataForAccount_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_EffectsForAccount_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$EffectsForAccountMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$EffectsForAccountMsg(_p0));
 };
 
-var _user$project$Endpoints_EffectsForAccount_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_EffectsForAccount$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_EffectsForAccount$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_EffectsForAccount$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_EffectsForAccount$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
-						_user$project$Endpoints_Helpers$publicKeyFromInput(settings.account)))));
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$publicKeyFromInput(settings.account)))));
 	});
 
-var _user$project$Endpoints_EffectsForAccount_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -33731,20 +33731,20 @@ var _user$project$Endpoints_EffectsForAccount_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_EffectsForAccount_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_EffectsForAccount_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_EffectsForAccount_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
-						_user$project$Endpoints_EffectsForAccount_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -33753,7 +33753,7 @@ var _user$project$Endpoints_EffectsForAccount_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_EffectsForAccount$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -33765,7 +33765,7 @@ var _user$project$Endpoints_EffectsForAccount_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_EffectsForAccount$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForAccount$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -33783,21 +33783,21 @@ var _user$project$Endpoints_EffectsForAccount_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_EffectsForAccount_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Effects for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/effects-for-account.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Effects for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/effects-for-account.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -33812,7 +33812,7 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -33828,7 +33828,7 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -33837,7 +33837,7 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -33851,7 +33851,7 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -33867,9 +33867,9 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
-															_user$project$Endpoints_EffectsForAccount_Msg$SettingsMsg(
-																_user$project$Endpoints_EffectsForAccount_Msg$UpdateAccount(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$UpdateAccount(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.account))),
@@ -33891,7 +33891,7 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -33910,7 +33910,7 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -33926,9 +33926,9 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
-																_user$project$Endpoints_EffectsForAccount_Msg$SettingsMsg(
-																	_user$project$Endpoints_EffectsForAccount_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -33950,7 +33950,7 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -33969,7 +33969,7 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -33985,9 +33985,9 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
-																	_user$project$Endpoints_EffectsForAccount_Msg$SettingsMsg(
-																		_user$project$Endpoints_EffectsForAccount_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -34009,7 +34009,7 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -34028,7 +34028,7 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -34050,16 +34050,16 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
-																						_user$project$Endpoints_EffectsForAccount_Msg$SettingsMsg(
-																							_user$project$Endpoints_EffectsForAccount_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -34074,16 +34074,16 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
-																							_user$project$Endpoints_EffectsForAccount_Msg$SettingsMsg(
-																								_user$project$Endpoints_EffectsForAccount_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -34100,18 +34100,18 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_EffectsForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_EffectsForAccount_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -34127,39 +34127,39 @@ var _user$project$Endpoints_EffectsForAccount_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_EffectsForLedger_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$EffectsForLedgerMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$EffectsForLedgerMsg(_p0));
 };
 
-var _user$project$Endpoints_EffectsForLedger_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_EffectsForLedger$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_EffectsForLedger$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_EffectsForLedger$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_EffectsForLedger$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 						A2(
 							_elm_lang$core$Maybe$withDefault,
 							0,
 							_bluedogtraining$bdt_elm$Form_IntInput$getValue(settings.ledgerId))))));
 	});
 
-var _user$project$Endpoints_EffectsForLedger_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -34198,20 +34198,20 @@ var _user$project$Endpoints_EffectsForLedger_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_EffectsForLedger_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_EffectsForLedger_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_EffectsForLedger_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
-						_user$project$Endpoints_EffectsForLedger_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -34220,7 +34220,7 @@ var _user$project$Endpoints_EffectsForLedger_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_EffectsForLedger$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -34232,7 +34232,7 @@ var _user$project$Endpoints_EffectsForLedger_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_EffectsForLedger$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForLedger$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -34250,21 +34250,21 @@ var _user$project$Endpoints_EffectsForLedger_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_EffectsForLedger_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Effects for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Effects for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -34279,7 +34279,7 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -34295,7 +34295,7 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -34304,7 +34304,7 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -34318,7 +34318,7 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -34334,9 +34334,9 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
-															_user$project$Endpoints_EffectsForLedger_Msg$SettingsMsg(
-																_user$project$Endpoints_EffectsForLedger_Msg$UpdateLedgerId(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$UpdateLedgerId(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_IntInput$render(
 														_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.ledgerId))),
@@ -34358,7 +34358,7 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -34377,7 +34377,7 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -34393,9 +34393,9 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
-																_user$project$Endpoints_EffectsForLedger_Msg$SettingsMsg(
-																	_user$project$Endpoints_EffectsForLedger_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -34417,7 +34417,7 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -34436,7 +34436,7 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -34452,9 +34452,9 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
-																	_user$project$Endpoints_EffectsForLedger_Msg$SettingsMsg(
-																		_user$project$Endpoints_EffectsForLedger_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -34476,7 +34476,7 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -34495,7 +34495,7 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -34517,16 +34517,16 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
-																						_user$project$Endpoints_EffectsForLedger_Msg$SettingsMsg(
-																							_user$project$Endpoints_EffectsForLedger_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -34541,16 +34541,16 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
-																							_user$project$Endpoints_EffectsForLedger_Msg$SettingsMsg(
-																								_user$project$Endpoints_EffectsForLedger_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -34567,18 +34567,18 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_EffectsForLedger_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_EffectsForLedger_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -34594,39 +34594,39 @@ var _user$project$Endpoints_EffectsForLedger_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_EffectsForOperation_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$EffectsForOperationMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$EffectsForOperationMsg(_p0));
 };
 
-var _user$project$Endpoints_EffectsForOperation_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_EffectsForOperation$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_EffectsForOperation$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_EffectsForOperation$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_EffectsForOperation$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 						A2(
 							_elm_lang$core$Maybe$withDefault,
 							0,
 							_bluedogtraining$bdt_elm$Form_IntInput$getValue(settings.operationId))))));
 	});
 
-var _user$project$Endpoints_EffectsForOperation_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -34665,20 +34665,20 @@ var _user$project$Endpoints_EffectsForOperation_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_EffectsForOperation_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_EffectsForOperation_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_EffectsForOperation_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
-						_user$project$Endpoints_EffectsForOperation_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -34687,7 +34687,7 @@ var _user$project$Endpoints_EffectsForOperation_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_EffectsForOperation$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -34699,7 +34699,7 @@ var _user$project$Endpoints_EffectsForOperation_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_EffectsForOperation$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForOperation$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -34717,21 +34717,21 @@ var _user$project$Endpoints_EffectsForOperation_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_EffectsForOperation_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Effects for Operation', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-operationId.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Effects for Operation', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-operationId.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -34746,7 +34746,7 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -34762,7 +34762,7 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -34771,7 +34771,7 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -34785,7 +34785,7 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -34801,9 +34801,9 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
-															_user$project$Endpoints_EffectsForOperation_Msg$SettingsMsg(
-																_user$project$Endpoints_EffectsForOperation_Msg$UpdateOperationId(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$UpdateOperationId(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_IntInput$render(
 														_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.operationId))),
@@ -34825,7 +34825,7 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -34844,7 +34844,7 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -34860,9 +34860,9 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
-																_user$project$Endpoints_EffectsForOperation_Msg$SettingsMsg(
-																	_user$project$Endpoints_EffectsForOperation_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -34884,7 +34884,7 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -34903,7 +34903,7 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -34919,9 +34919,9 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
-																	_user$project$Endpoints_EffectsForOperation_Msg$SettingsMsg(
-																		_user$project$Endpoints_EffectsForOperation_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -34943,7 +34943,7 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -34962,7 +34962,7 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -34984,16 +34984,16 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
-																						_user$project$Endpoints_EffectsForOperation_Msg$SettingsMsg(
-																							_user$project$Endpoints_EffectsForOperation_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -35008,16 +35008,16 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
-																							_user$project$Endpoints_EffectsForOperation_Msg$SettingsMsg(
-																								_user$project$Endpoints_EffectsForOperation_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -35034,18 +35034,18 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_EffectsForOperation_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_EffectsForOperation_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -35061,36 +35061,36 @@ var _user$project$Endpoints_EffectsForOperation_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_EffectsForTransaction_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$EffectsForTransactionMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$EffectsForTransactionMsg(_p0));
 };
 
-var _user$project$Endpoints_EffectsForTransaction_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_EffectsForTransaction$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_EffectsForTransaction$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_EffectsForTransaction$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_EffectsForTransaction$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 						_bluedogtraining$bdt_elm$Form_Input$getValue(settings.transaction)))));
 	});
 
-var _user$project$Endpoints_EffectsForTransaction_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -35129,20 +35129,20 @@ var _user$project$Endpoints_EffectsForTransaction_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_EffectsForTransaction_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_EffectsForTransaction_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_EffectsForTransaction_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
-						_user$project$Endpoints_EffectsForTransaction_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -35151,7 +35151,7 @@ var _user$project$Endpoints_EffectsForTransaction_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_EffectsForTransaction$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -35163,7 +35163,7 @@ var _user$project$Endpoints_EffectsForTransaction_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_EffectsForTransaction$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_EffectsForTransaction$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -35181,21 +35181,21 @@ var _user$project$Endpoints_EffectsForTransaction_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Effects for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Effects for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -35210,7 +35210,7 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -35226,7 +35226,7 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -35235,7 +35235,7 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -35249,7 +35249,7 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -35265,9 +35265,9 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
-															_user$project$Endpoints_EffectsForTransaction_Msg$SettingsMsg(
-																_user$project$Endpoints_EffectsForTransaction_Msg$UpdateTransaction(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$UpdateTransaction(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.transaction))),
@@ -35289,7 +35289,7 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -35308,7 +35308,7 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -35324,9 +35324,9 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
-																_user$project$Endpoints_EffectsForTransaction_Msg$SettingsMsg(
-																	_user$project$Endpoints_EffectsForTransaction_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -35348,7 +35348,7 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -35367,7 +35367,7 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -35383,9 +35383,9 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
-																	_user$project$Endpoints_EffectsForTransaction_Msg$SettingsMsg(
-																		_user$project$Endpoints_EffectsForTransaction_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -35407,7 +35407,7 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -35426,7 +35426,7 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -35448,16 +35448,16 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
-																						_user$project$Endpoints_EffectsForTransaction_Msg$SettingsMsg(
-																							_user$project$Endpoints_EffectsForTransaction_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -35472,16 +35472,16 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
-																							_user$project$Endpoints_EffectsForTransaction_Msg$SettingsMsg(
-																								_user$project$Endpoints_EffectsForTransaction_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -35498,18 +35498,18 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_EffectsForTransaction_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_EffectsForTransaction_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -35525,33 +35525,33 @@ var _user$project$Endpoints_EffectsForTransaction_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_FindPaymentPaths_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$FindPaymentPathsMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$FindPaymentPathsMsg(_p0));
 };
 
-var _user$project$Endpoints_FindPaymentPaths_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A5(
-			_user$project$Endpoints_Helpers$setIfChanged,
-			_user$project$Stellar_Endpoints_FindPaymentPaths$setDestinationAssetIssuer,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$setDestinationAssetIssuer,
 			_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 			_bluedogtraining$bdt_elm$Form_Input$getValue,
 			settings.destinationAssetIssuer,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChanged,
-				_user$project$Stellar_Endpoints_FindPaymentPaths$setDestinationAssetCode,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$setDestinationAssetCode,
 				_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_Input$getValue,
 				settings.destinationAssetCode,
 				A5(
-					_user$project$Stellar_Endpoints_FindPaymentPaths$requestBuilder,
-					_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
-					_user$project$Endpoints_Helpers$publicKeyFromInput(settings.sourceAccount),
-					_user$project$Endpoints_Helpers$publicKeyFromInput(settings.destinationAccount),
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$requestBuilder,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$publicKeyFromInput(settings.sourceAccount),
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$publicKeyFromInput(settings.destinationAccount),
 					A2(
 						_elm_lang$core$Maybe$withDefault,
-						_user$project$Stellar_AssetType$Native,
+						_ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native,
 						_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(settings.destinationAssetType)),
 					A2(
 						_elm_lang$core$Maybe$withDefault,
@@ -35559,7 +35559,7 @@ var _user$project$Endpoints_FindPaymentPaths_RequestBuilder$requestBuilder = F2(
 						_bluedogtraining$bdt_elm$Form_IntInput$getValue(settings.destinationAmount)))));
 	});
 
-var _user$project$Endpoints_FindPaymentPaths_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var _p0 = function () {
@@ -35597,9 +35597,9 @@ var _user$project$Endpoints_FindPaymentPaths_Update$updateSettings = F2(
 							_0: A2(
 								_elm_lang$core$Platform_Cmd$map,
 								function (_p3) {
-									return _user$project$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
-										_user$project$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
-											_user$project$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetType(_p3)));
+									return _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
+										_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
+											_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetType(_p3)));
 								},
 								cmds),
 							_1: {ctor: '[]'}
@@ -35646,17 +35646,17 @@ var _user$project$Endpoints_FindPaymentPaths_Update$updateSettings = F2(
 				_1: {ctor: '[]'}
 			});
 	});
-var _user$project$Endpoints_FindPaymentPaths_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Update$update = F2(
 	function (msg, model) {
 		var _p4 = msg;
 		switch (_p4.ctor) {
 			case 'SettingsMsg':
-				return A2(_user$project$Endpoints_FindPaymentPaths_Update$updateSettings, _p4._0, model);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Update$updateSettings, _p4._0, model);
 			case 'Request':
-				var request = A2(_user$project$Endpoints_FindPaymentPaths_RequestBuilder$requestBuilder, _p4._0, _p4._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_RequestBuilder$requestBuilder, _p4._0, _p4._1);
 				var msg = function (_p5) {
-					return _user$project$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
-						_user$project$Endpoints_FindPaymentPaths_Msg$Response(_p5));
+					return _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$Response(_p5));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -35665,7 +35665,7 @@ var _user$project$Endpoints_FindPaymentPaths_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_FindPaymentPaths$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -35677,7 +35677,7 @@ var _user$project$Endpoints_FindPaymentPaths_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p4._0._0, _user$project$Stellar_Endpoints_FindPaymentPaths$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p4._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_FindPaymentPaths$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -35695,21 +35695,21 @@ var _user$project$Endpoints_FindPaymentPaths_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Operation Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/operations-single.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operation Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/operations-single.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -35724,7 +35724,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -35740,7 +35740,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -35749,7 +35749,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -35763,7 +35763,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -35779,9 +35779,9 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
-															_user$project$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
-																_user$project$Endpoints_FindPaymentPaths_Msg$UpdateSourceAccount(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateSourceAccount(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.sourceAccount))),
@@ -35803,7 +35803,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -35812,7 +35812,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelMandatory,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -35826,7 +35826,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -35842,9 +35842,9 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
-																_user$project$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
-																	_user$project$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAccount(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAccount(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.destinationAccount))),
@@ -35866,7 +35866,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -35875,7 +35875,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelMandatory,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -35897,9 +35897,9 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
-																	_user$project$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
-																		_user$project$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetType(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetType(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_Select$render(
 																_bluedogtraining$bdt_elm$Form_Select$view(model.settings.destinationAssetType))),
@@ -35914,7 +35914,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 														_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.destinationAssetType),
 														_elm_lang$core$Maybe$Nothing)) && (!_elm_lang$core$Native_Utils.eq(
 														_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.destinationAssetType),
-														_elm_lang$core$Maybe$Just(_user$project$Stellar_AssetType$Native))),
+														_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native))),
 													{
 														ctor: '::',
 														_0: _rtfeldman$elm_css$Html_Styled_Attributes$class('form-group'),
@@ -35926,7 +35926,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -35945,7 +35945,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -35961,9 +35961,9 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 															_0: A2(
 																_rtfeldman$elm_css$Html_Styled$map,
 																function (_p3) {
-																	return _user$project$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
-																		_user$project$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
-																			_user$project$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetCode(_p3)));
+																	return _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
+																			_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetCode(_p3)));
 																},
 																_bluedogtraining$bdt_elm$Form_Input$render(
 																	_bluedogtraining$bdt_elm$Form_Input$view(model.settings.destinationAssetCode))),
@@ -35978,7 +35978,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 															_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.destinationAssetType),
 															_elm_lang$core$Maybe$Nothing)) && (!_elm_lang$core$Native_Utils.eq(
 															_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.destinationAssetType),
-															_elm_lang$core$Maybe$Just(_user$project$Stellar_AssetType$Native))),
+															_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native))),
 														{
 															ctor: '::',
 															_0: _rtfeldman$elm_css$Html_Styled_Attributes$class('form-group'),
@@ -35990,7 +35990,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$label,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$label,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -36009,7 +36009,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$labelExample,
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																				_1: {ctor: '[]'}
 																			},
 																			{
@@ -36025,9 +36025,9 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 																_0: A2(
 																	_rtfeldman$elm_css$Html_Styled$map,
 																	function (_p4) {
-																		return _user$project$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
-																			_user$project$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
-																				_user$project$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetIssuer(_p4)));
+																		return _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
+																			_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
+																				_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAssetIssuer(_p4)));
 																	},
 																	_bluedogtraining$bdt_elm$Form_Input$render(
 																		_bluedogtraining$bdt_elm$Form_Input$view(model.settings.destinationAssetIssuer))),
@@ -36049,7 +36049,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$label,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$label,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -36058,7 +36058,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$labelMandatory,
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 																				_1: {ctor: '[]'}
 																			},
 																			{
@@ -36072,7 +36072,7 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 																				_rtfeldman$elm_css$Html_Styled$span,
 																				{
 																					ctor: '::',
-																					_0: _user$project$Endpoints_Styles$labelExample,
+																					_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																					_1: {ctor: '[]'}
 																				},
 																				{
@@ -36088,9 +36088,9 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 																	_0: A2(
 																		_rtfeldman$elm_css$Html_Styled$map,
 																		function (_p5) {
-																			return _user$project$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
-																				_user$project$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
-																					_user$project$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAmount(_p5)));
+																			return _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
+																				_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$SettingsMsg(
+																					_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$UpdateDestinationAmount(_p5)));
 																		},
 																		_bluedogtraining$bdt_elm$Form_IntInput$render(
 																			_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.destinationAmount))),
@@ -36099,18 +36099,18 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 															}),
 														_1: {
 															ctor: '::',
-															_0: _user$project$Endpoints_Views_Request$view(
-																A2(_user$project$Endpoints_FindPaymentPaths_RequestBuilder$requestBuilder, endpoint, model.settings)),
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_RequestBuilder$requestBuilder, endpoint, model.settings)),
 															_1: {
 																ctor: '::',
 																_0: A2(
-																	_user$project$Endpoints_Views_Button$view,
+																	_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 																	model.isLoading,
-																	_user$project$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
-																		A2(_user$project$Endpoints_FindPaymentPaths_Msg$Request, endpoint, model.settings))),
+																	_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_MsgFactory$composeMsg(
+																		A2(_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$Request, endpoint, model.settings))),
 																_1: {
 																	ctor: '::',
-																	_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+																	_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 																	_1: {ctor: '[]'}
 																}
 															}
@@ -36128,22 +36128,22 @@ var _user$project$Endpoints_FindPaymentPaths_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_LedgerDetails_Model$initialSettings = {sequence: _bluedogtraining$bdt_elm$Form_IntInput$init};
-var _user$project$Endpoints_LedgerDetails_Model$initialModel = {settings: _user$project$Endpoints_LedgerDetails_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_LedgerDetails_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Model$initialSettings = {sequence: _bluedogtraining$bdt_elm$Form_IntInput$init};
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_LedgerDetails_Model$Settings = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Model$Settings = function (a) {
 	return {sequence: a};
 };
 
-var _user$project$Endpoints_LedgerDetails_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$LedgerDetailsMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$LedgerDetailsMsg(_p0));
 };
 
-var _user$project$Endpoints_LedgerDetails_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -36158,20 +36158,20 @@ var _user$project$Endpoints_LedgerDetails_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_LedgerDetails_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Update$update = F2(
 	function (msg, model) {
 		var _p1 = msg;
 		switch (_p1.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_LedgerDetails_Update$updateSettings, _p1._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Update$updateSettings, _p1._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var requestBuilder = A2(_user$project$Stellar_Endpoints_LedgerDetails$requestBuilder, _p1._0, _p1._1);
+				var requestBuilder = A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$requestBuilder, _p1._0, _p1._1);
 				var msg = function (_p2) {
-					return _user$project$Endpoints_LedgerDetails_MsgFactory$composeMsg(
-						_user$project$Endpoints_LedgerDetails_Msg$Response(_p2));
+					return _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Msg$Response(_p2));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -36180,7 +36180,7 @@ var _user$project$Endpoints_LedgerDetails_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_LedgerDetails$send, msg, requestBuilder),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$send, msg, requestBuilder),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -36192,7 +36192,7 @@ var _user$project$Endpoints_LedgerDetails_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p1._0._0, _user$project$Stellar_Endpoints_LedgerDetails$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p1._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -36210,21 +36210,21 @@ var _user$project$Endpoints_LedgerDetails_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_LedgerDetails_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Ledger Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/accounts-single.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Ledger Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/accounts-single.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -36239,7 +36239,7 @@ var _user$project$Endpoints_LedgerDetails_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -36255,7 +36255,7 @@ var _user$project$Endpoints_LedgerDetails_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -36264,7 +36264,7 @@ var _user$project$Endpoints_LedgerDetails_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -36278,7 +36278,7 @@ var _user$project$Endpoints_LedgerDetails_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -36294,9 +36294,9 @@ var _user$project$Endpoints_LedgerDetails_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_LedgerDetails_MsgFactory$composeMsg(
-															_user$project$Endpoints_LedgerDetails_Msg$SettingsMsg(
-																_user$project$Endpoints_LedgerDetails_Msg$UpdateSequence(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Msg$UpdateSequence(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_IntInput$render(
 														_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.sequence))),
@@ -36305,10 +36305,10 @@ var _user$project$Endpoints_LedgerDetails_View$view = F2(
 										}),
 									_1: {
 										ctor: '::',
-										_0: _user$project$Endpoints_Views_Request$view(
+										_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
 											A2(
-												_user$project$Stellar_Endpoints_LedgerDetails$requestBuilder,
-												_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+												_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_LedgerDetails$requestBuilder,
+												_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 												A2(
 													_elm_lang$core$Maybe$withDefault,
 													0,
@@ -36316,19 +36316,19 @@ var _user$project$Endpoints_LedgerDetails_View$view = F2(
 										_1: {
 											ctor: '::',
 											_0: A2(
-												_user$project$Endpoints_Views_Button$view,
+												_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 												model.isLoading,
-												_user$project$Endpoints_LedgerDetails_MsgFactory$composeMsg(
+												_ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_MsgFactory$composeMsg(
 													A2(
-														_user$project$Endpoints_LedgerDetails_Msg$Request,
-														_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+														_ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Msg$Request,
+														_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 														A2(
 															_elm_lang$core$Maybe$withDefault,
 															0,
 															_bluedogtraining$bdt_elm$Form_IntInput$getValue(model.settings.sequence))))),
 											_1: {
 												ctor: '::',
-												_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+												_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 												_1: {ctor: '[]'}
 											}
 										}
@@ -36341,47 +36341,47 @@ var _user$project$Endpoints_LedgerDetails_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_TransactionDetails_Model$initialSettings = {hash: _bluedogtraining$bdt_elm$Form_Input$init};
-var _user$project$Endpoints_TransactionDetails_Model$initialModel = {settings: _user$project$Endpoints_TransactionDetails_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
-var _user$project$Endpoints_TransactionDetails_Model$Model = F3(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Model$initialSettings = {hash: _bluedogtraining$bdt_elm$Form_Input$init};
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Model$initialModel = {settings: _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Model$initialSettings, isLoading: false, response: _elm_lang$core$Maybe$Nothing};
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Model$Model = F3(
 	function (a, b, c) {
 		return {settings: a, isLoading: b, response: c};
 	});
-var _user$project$Endpoints_TransactionDetails_Model$Settings = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Model$Settings = function (a) {
 	return {hash: a};
 };
 
-var _user$project$Endpoints_Model$initialModel = {
+var _ryan_senn$stellar_elm_demo$Endpoints_Model$initialModel = {
 	endpoint: A2(_bluedogtraining$bdt_elm$Form_Input$setInitialValue, 'https://horizon-testnet.stellar.org', _bluedogtraining$bdt_elm$Form_Input$init),
-	accountDetails: _user$project$Endpoints_AccountDetails_Model$initialModel,
-	allAssets: _user$project$Endpoints_AllAssets_Model$initialModel,
-	allEffects: _user$project$Endpoints_AllEffects_Model$initialModel,
-	effectsForAccount: _user$project$Endpoints_EffectsForAccount_Model$initialModel,
-	effectsForLedger: _user$project$Endpoints_EffectsForLedger_Model$initialModel,
-	effectsForOperation: _user$project$Endpoints_EffectsForOperation_Model$initialModel,
-	effectsForTransaction: _user$project$Endpoints_EffectsForTransaction_Model$initialModel,
-	dataForAccount: _user$project$Endpoints_DataForAccount_Model$initialModel,
-	allLedgers: _user$project$Endpoints_AllLedgers_Model$initialModel,
-	ledgerDetails: _user$project$Endpoints_LedgerDetails_Model$initialModel,
-	offersForAccount: _user$project$Endpoints_OffersForAccount_Model$initialModel,
-	allOperations: _user$project$Endpoints_AllOperations_Model$initialModel,
-	operationsForAccount: _user$project$Endpoints_OperationsForAccount_Model$initialModel,
-	operationsForLedger: _user$project$Endpoints_OperationsForLedger_Model$initialModel,
-	operationsForTransaction: _user$project$Endpoints_OperationsForTransaction_Model$initialModel,
-	operationDetails: _user$project$Endpoints_OperationDetails_Model$initialModel,
-	orderbookDetails: _user$project$Endpoints_OrderbookDetails_Model$initialModel,
-	findPaymentPaths: _user$project$Endpoints_FindPaymentPaths_Model$initialModel,
-	allPayments: _user$project$Endpoints_AllPayments_Model$initialModel,
-	paymentsForAccount: _user$project$Endpoints_PaymentsForAccount_Model$initialModel,
-	paymentsForLedger: _user$project$Endpoints_PaymentsForLedger_Model$initialModel,
-	paymentsForTransaction: _user$project$Endpoints_PaymentsForTransaction_Model$initialModel,
-	allTransactions: _user$project$Endpoints_AllTransactions_Model$initialModel,
-	postTransaction: _user$project$Endpoints_PostTransaction_Model$initialModel,
-	transactionsForAccount: _user$project$Endpoints_TransactionsForAccount_Model$initialModel,
-	transactionsForLedger: _user$project$Endpoints_TransactionsForLedger_Model$initialModel,
-	transactionDetails: _user$project$Endpoints_TransactionDetails_Model$initialModel
+	accountDetails: _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Model$initialModel,
+	allAssets: _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Model$initialModel,
+	allEffects: _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Model$initialModel,
+	effectsForAccount: _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Model$initialModel,
+	effectsForLedger: _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Model$initialModel,
+	effectsForOperation: _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Model$initialModel,
+	effectsForTransaction: _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Model$initialModel,
+	dataForAccount: _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Model$initialModel,
+	allLedgers: _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Model$initialModel,
+	ledgerDetails: _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Model$initialModel,
+	offersForAccount: _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Model$initialModel,
+	allOperations: _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Model$initialModel,
+	operationsForAccount: _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Model$initialModel,
+	operationsForLedger: _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Model$initialModel,
+	operationsForTransaction: _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Model$initialModel,
+	operationDetails: _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Model$initialModel,
+	orderbookDetails: _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Model$initialModel,
+	findPaymentPaths: _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Model$initialModel,
+	allPayments: _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Model$initialModel,
+	paymentsForAccount: _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Model$initialModel,
+	paymentsForLedger: _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Model$initialModel,
+	paymentsForTransaction: _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Model$initialModel,
+	allTransactions: _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Model$initialModel,
+	postTransaction: _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Model$initialModel,
+	transactionsForAccount: _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Model$initialModel,
+	transactionsForLedger: _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Model$initialModel,
+	transactionDetails: _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Model$initialModel
 };
-var _user$project$Endpoints_Model$Model = function (a) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Model$Model = function (a) {
 	return function (b) {
 		return function (c) {
 			return function (d) {
@@ -36439,36 +36439,36 @@ var _user$project$Endpoints_Model$Model = function (a) {
 	};
 };
 
-var _user$project$Endpoints_OffersForAccount_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$OffersForAccountMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$OffersForAccountMsg(_p0));
 };
 
-var _user$project$Endpoints_OffersForAccount_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_OffersForAccount$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_OffersForAccount$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_OffersForAccount$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_OffersForAccount$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
-						_user$project$Endpoints_Helpers$publicKeyFromInput(settings.account)))));
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$publicKeyFromInput(settings.account)))));
 	});
 
-var _user$project$Endpoints_OffersForAccount_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -36507,20 +36507,20 @@ var _user$project$Endpoints_OffersForAccount_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_OffersForAccount_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_OffersForAccount_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_OffersForAccount_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_OffersForAccount_MsgFactory$composeMsg(
-						_user$project$Endpoints_OffersForAccount_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -36529,7 +36529,7 @@ var _user$project$Endpoints_OffersForAccount_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_OffersForAccount$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -36541,7 +36541,7 @@ var _user$project$Endpoints_OffersForAccount_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_OffersForAccount$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OffersForAccount$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -36559,21 +36559,21 @@ var _user$project$Endpoints_OffersForAccount_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_OffersForAccount_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Offers for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-account.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Offers for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-account.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -36588,7 +36588,7 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -36604,7 +36604,7 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -36613,7 +36613,7 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -36627,7 +36627,7 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -36643,9 +36643,9 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_OffersForAccount_MsgFactory$composeMsg(
-															_user$project$Endpoints_OffersForAccount_Msg$SettingsMsg(
-																_user$project$Endpoints_OffersForAccount_Msg$UpdateAccount(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$UpdateAccount(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.account))),
@@ -36667,7 +36667,7 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -36686,7 +36686,7 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -36702,9 +36702,9 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_OffersForAccount_MsgFactory$composeMsg(
-																_user$project$Endpoints_OffersForAccount_Msg$SettingsMsg(
-																	_user$project$Endpoints_OffersForAccount_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -36726,7 +36726,7 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -36745,7 +36745,7 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -36761,9 +36761,9 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_OffersForAccount_MsgFactory$composeMsg(
-																	_user$project$Endpoints_OffersForAccount_Msg$SettingsMsg(
-																		_user$project$Endpoints_OffersForAccount_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -36785,7 +36785,7 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -36804,7 +36804,7 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -36826,16 +36826,16 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_OffersForAccount_MsgFactory$composeMsg(
-																						_user$project$Endpoints_OffersForAccount_Msg$SettingsMsg(
-																							_user$project$Endpoints_OffersForAccount_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -36850,16 +36850,16 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_OffersForAccount_MsgFactory$composeMsg(
-																							_user$project$Endpoints_OffersForAccount_Msg$SettingsMsg(
-																								_user$project$Endpoints_OffersForAccount_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -36876,18 +36876,18 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_OffersForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_OffersForAccount_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_OffersForAccount_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -36903,23 +36903,23 @@ var _user$project$Endpoints_OffersForAccount_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_OperationDetails_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$OperationDetailsMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$OperationDetailsMsg(_p0));
 };
 
-var _user$project$Endpoints_OperationDetails_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A2(
-			_user$project$Stellar_Endpoints_OperationDetails$requestBuilder,
-			_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$requestBuilder,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 			A2(
 				_elm_lang$core$Maybe$withDefault,
 				0,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue(settings.operationId)));
 	});
 
-var _user$project$Endpoints_OperationDetails_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -36934,20 +36934,20 @@ var _user$project$Endpoints_OperationDetails_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_OperationDetails_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Update$update = F2(
 	function (msg, model) {
 		var _p1 = msg;
 		switch (_p1.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_OperationDetails_Update$updateSettings, _p1._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Update$updateSettings, _p1._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_OperationDetails_RequestBuilder$requestBuilder, _p1._0, _p1._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_RequestBuilder$requestBuilder, _p1._0, _p1._1);
 				var msg = function (_p2) {
-					return _user$project$Endpoints_OperationDetails_MsgFactory$composeMsg(
-						_user$project$Endpoints_OperationDetails_Msg$Response(_p2));
+					return _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Msg$Response(_p2));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -36956,7 +36956,7 @@ var _user$project$Endpoints_OperationDetails_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_OperationDetails$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -36968,7 +36968,7 @@ var _user$project$Endpoints_OperationDetails_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p1._0._0, _user$project$Stellar_Endpoints_OperationDetails$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p1._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationDetails$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -36986,21 +36986,21 @@ var _user$project$Endpoints_OperationDetails_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_OperationDetails_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Operation Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/operations-single.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operation Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/operations-single.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -37015,7 +37015,7 @@ var _user$project$Endpoints_OperationDetails_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -37031,7 +37031,7 @@ var _user$project$Endpoints_OperationDetails_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -37040,7 +37040,7 @@ var _user$project$Endpoints_OperationDetails_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -37054,7 +37054,7 @@ var _user$project$Endpoints_OperationDetails_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -37070,9 +37070,9 @@ var _user$project$Endpoints_OperationDetails_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_OperationDetails_MsgFactory$composeMsg(
-															_user$project$Endpoints_OperationDetails_Msg$SettingsMsg(
-																_user$project$Endpoints_OperationDetails_Msg$UpdatePublicKey(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Msg$UpdatePublicKey(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_IntInput$render(
 														_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.operationId))),
@@ -37081,18 +37081,18 @@ var _user$project$Endpoints_OperationDetails_View$view = F2(
 										}),
 									_1: {
 										ctor: '::',
-										_0: _user$project$Endpoints_Views_Request$view(
-											A2(_user$project$Endpoints_OperationDetails_RequestBuilder$requestBuilder, endpoint, model.settings)),
+										_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+											A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_RequestBuilder$requestBuilder, endpoint, model.settings)),
 										_1: {
 											ctor: '::',
 											_0: A2(
-												_user$project$Endpoints_Views_Button$view,
+												_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 												model.isLoading,
-												_user$project$Endpoints_OperationDetails_MsgFactory$composeMsg(
-													A2(_user$project$Endpoints_OperationDetails_Msg$Request, endpoint, model.settings))),
+												_ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_MsgFactory$composeMsg(
+													A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Msg$Request, endpoint, model.settings))),
 											_1: {
 												ctor: '::',
-												_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+												_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 												_1: {ctor: '[]'}
 											}
 										}
@@ -37105,36 +37105,36 @@ var _user$project$Endpoints_OperationDetails_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_OperationsForAccount_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$OperationsForAccountMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$OperationsForAccountMsg(_p0));
 };
 
-var _user$project$Endpoints_OperationsForAccount_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_OperationsForAccount$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_OperationsForAccount$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_OperationsForAccount$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_OperationsForAccount$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
-						_user$project$Endpoints_Helpers$publicKeyFromInput(settings.account)))));
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$publicKeyFromInput(settings.account)))));
 	});
 
-var _user$project$Endpoints_OperationsForAccount_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -37173,20 +37173,20 @@ var _user$project$Endpoints_OperationsForAccount_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_OperationsForAccount_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_OperationsForAccount_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_OperationsForAccount_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
-						_user$project$Endpoints_OperationsForAccount_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -37195,7 +37195,7 @@ var _user$project$Endpoints_OperationsForAccount_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_OperationsForAccount$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -37207,7 +37207,7 @@ var _user$project$Endpoints_OperationsForAccount_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_OperationsForAccount$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForAccount$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -37225,21 +37225,21 @@ var _user$project$Endpoints_OperationsForAccount_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_OperationsForAccount_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Operations for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-account.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operations for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-account.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -37254,7 +37254,7 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -37270,7 +37270,7 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -37279,7 +37279,7 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -37293,7 +37293,7 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -37309,9 +37309,9 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
-															_user$project$Endpoints_OperationsForAccount_Msg$SettingsMsg(
-																_user$project$Endpoints_OperationsForAccount_Msg$UpdateAccount(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$UpdateAccount(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.account))),
@@ -37333,7 +37333,7 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -37352,7 +37352,7 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -37368,9 +37368,9 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
-																_user$project$Endpoints_OperationsForAccount_Msg$SettingsMsg(
-																	_user$project$Endpoints_OperationsForAccount_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -37392,7 +37392,7 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -37411,7 +37411,7 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -37427,9 +37427,9 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
-																	_user$project$Endpoints_OperationsForAccount_Msg$SettingsMsg(
-																		_user$project$Endpoints_OperationsForAccount_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -37451,7 +37451,7 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -37470,7 +37470,7 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -37492,16 +37492,16 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
-																						_user$project$Endpoints_OperationsForAccount_Msg$SettingsMsg(
-																							_user$project$Endpoints_OperationsForAccount_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -37516,16 +37516,16 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
-																							_user$project$Endpoints_OperationsForAccount_Msg$SettingsMsg(
-																								_user$project$Endpoints_OperationsForAccount_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -37542,18 +37542,18 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_OperationsForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_OperationsForAccount_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -37569,39 +37569,39 @@ var _user$project$Endpoints_OperationsForAccount_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_OperationsForLedger_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$OperationsForLedgerMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$OperationsForLedgerMsg(_p0));
 };
 
-var _user$project$Endpoints_OperationsForLedger_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_OperationsForLedger$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_OperationsForLedger$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_OperationsForLedger$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_OperationsForLedger$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 						A2(
 							_elm_lang$core$Maybe$withDefault,
 							0,
 							_bluedogtraining$bdt_elm$Form_IntInput$getValue(settings.ledgerId))))));
 	});
 
-var _user$project$Endpoints_OperationsForLedger_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -37640,20 +37640,20 @@ var _user$project$Endpoints_OperationsForLedger_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_OperationsForLedger_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_OperationsForLedger_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_OperationsForLedger_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
-						_user$project$Endpoints_OperationsForLedger_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -37662,7 +37662,7 @@ var _user$project$Endpoints_OperationsForLedger_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_OperationsForLedger$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -37674,7 +37674,7 @@ var _user$project$Endpoints_OperationsForLedger_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_OperationsForLedger$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForLedger$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -37692,21 +37692,21 @@ var _user$project$Endpoints_OperationsForLedger_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_OperationsForLedger_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Operations for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operations for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -37721,7 +37721,7 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -37737,7 +37737,7 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -37746,7 +37746,7 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -37760,7 +37760,7 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -37776,9 +37776,9 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
-															_user$project$Endpoints_OperationsForLedger_Msg$SettingsMsg(
-																_user$project$Endpoints_OperationsForLedger_Msg$UpdateLedgerId(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$UpdateLedgerId(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_IntInput$render(
 														_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.ledgerId))),
@@ -37800,7 +37800,7 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -37819,7 +37819,7 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -37835,9 +37835,9 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
-																_user$project$Endpoints_OperationsForLedger_Msg$SettingsMsg(
-																	_user$project$Endpoints_OperationsForLedger_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -37859,7 +37859,7 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -37878,7 +37878,7 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -37894,9 +37894,9 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
-																	_user$project$Endpoints_OperationsForLedger_Msg$SettingsMsg(
-																		_user$project$Endpoints_OperationsForLedger_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -37918,7 +37918,7 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -37937,7 +37937,7 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -37959,16 +37959,16 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
-																						_user$project$Endpoints_OperationsForLedger_Msg$SettingsMsg(
-																							_user$project$Endpoints_OperationsForLedger_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -37983,16 +37983,16 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
-																							_user$project$Endpoints_OperationsForLedger_Msg$SettingsMsg(
-																								_user$project$Endpoints_OperationsForLedger_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -38009,18 +38009,18 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_OperationsForLedger_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_OperationsForLedger_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -38036,36 +38036,36 @@ var _user$project$Endpoints_OperationsForLedger_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_OperationsForTransaction_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$OperationsForTransactionMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$OperationsForTransactionMsg(_p0));
 };
 
-var _user$project$Endpoints_OperationsForTransaction_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_OperationsForTransaction$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_OperationsForTransaction$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_OperationsForTransaction$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_OperationsForTransaction$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 						_bluedogtraining$bdt_elm$Form_Input$getValue(settings.transaction)))));
 	});
 
-var _user$project$Endpoints_OperationsForTransaction_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -38104,20 +38104,20 @@ var _user$project$Endpoints_OperationsForTransaction_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_OperationsForTransaction_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_OperationsForTransaction_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_OperationsForTransaction_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
-						_user$project$Endpoints_OperationsForTransaction_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -38126,7 +38126,7 @@ var _user$project$Endpoints_OperationsForTransaction_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_OperationsForTransaction$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -38138,7 +38138,7 @@ var _user$project$Endpoints_OperationsForTransaction_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_OperationsForTransaction$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OperationsForTransaction$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -38156,21 +38156,21 @@ var _user$project$Endpoints_OperationsForTransaction_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Operations for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operations for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -38185,7 +38185,7 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -38201,7 +38201,7 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -38210,7 +38210,7 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -38224,7 +38224,7 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -38240,9 +38240,9 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
-															_user$project$Endpoints_OperationsForTransaction_Msg$SettingsMsg(
-																_user$project$Endpoints_OperationsForTransaction_Msg$UpdateTransaction(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$UpdateTransaction(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.transaction))),
@@ -38264,7 +38264,7 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -38283,7 +38283,7 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -38299,9 +38299,9 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
-																_user$project$Endpoints_OperationsForTransaction_Msg$SettingsMsg(
-																	_user$project$Endpoints_OperationsForTransaction_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -38323,7 +38323,7 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -38342,7 +38342,7 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -38358,9 +38358,9 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
-																	_user$project$Endpoints_OperationsForTransaction_Msg$SettingsMsg(
-																		_user$project$Endpoints_OperationsForTransaction_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -38382,7 +38382,7 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -38401,7 +38401,7 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -38423,16 +38423,16 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
-																						_user$project$Endpoints_OperationsForTransaction_Msg$SettingsMsg(
-																							_user$project$Endpoints_OperationsForTransaction_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -38447,16 +38447,16 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
-																							_user$project$Endpoints_OperationsForTransaction_Msg$SettingsMsg(
-																								_user$project$Endpoints_OperationsForTransaction_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -38473,18 +38473,18 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_OperationsForTransaction_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_OperationsForTransaction_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -38500,57 +38500,57 @@ var _user$project$Endpoints_OperationsForTransaction_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$OrderbookDetailsMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$OrderbookDetailsMsg(_p0));
 };
 
-var _user$project$Endpoints_OrderbookDetails_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A5(
-			_user$project$Endpoints_Helpers$setIfChangedMaybe,
-			_user$project$Stellar_Endpoints_OrderbookDetails$setLimit,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$setLimit,
 			_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 			_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 			settings.limit,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChanged,
-				_user$project$Stellar_Endpoints_OrderbookDetails$setBuyingAssetIssuer,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$setBuyingAssetIssuer,
 				_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_Input$getValue,
 				settings.buyingAssetIssuer,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_OrderbookDetails$setBuyingAssetCode,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$setBuyingAssetCode,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.buyingAssetCode,
 					A5(
-						_user$project$Endpoints_Helpers$setIfChanged,
-						_user$project$Stellar_Endpoints_OrderbookDetails$setSellingAssetIssuer,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$setSellingAssetIssuer,
 						_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 						_bluedogtraining$bdt_elm$Form_Input$getValue,
 						settings.sellingAssetIssuer,
 						A5(
-							_user$project$Endpoints_Helpers$setIfChanged,
-							_user$project$Stellar_Endpoints_OrderbookDetails$setSellingAssetCode,
+							_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+							_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$setSellingAssetCode,
 							_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 							_bluedogtraining$bdt_elm$Form_Input$getValue,
 							settings.sellingAssetCode,
 							A3(
-								_user$project$Stellar_Endpoints_OrderbookDetails$requestBuilder,
-								_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+								_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$requestBuilder,
+								_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 								A2(
 									_elm_lang$core$Maybe$withDefault,
-									_user$project$Stellar_AssetType$Native,
+									_ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native,
 									_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(settings.sellingAssetType)),
 								A2(
 									_elm_lang$core$Maybe$withDefault,
-									_user$project$Stellar_AssetType$Native,
+									_ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native,
 									_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(settings.buyingAssetType))))))));
 	});
 
-var _user$project$Endpoints_OrderbookDetails_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var _p0 = function () {
@@ -38570,9 +38570,9 @@ var _user$project$Endpoints_OrderbookDetails_Update$updateSettings = F2(
 							_0: A2(
 								_elm_lang$core$Platform_Cmd$map,
 								function (_p3) {
-									return _user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
-										_user$project$Endpoints_OrderbookDetails_Msg$SettingsMsg(
-											_user$project$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetType(_p3)));
+									return _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
+										_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$SettingsMsg(
+											_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetType(_p3)));
 								},
 								cmds),
 							_1: {ctor: '[]'}
@@ -38609,9 +38609,9 @@ var _user$project$Endpoints_OrderbookDetails_Update$updateSettings = F2(
 							_0: A2(
 								_elm_lang$core$Platform_Cmd$map,
 								function (_p5) {
-									return _user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
-										_user$project$Endpoints_OrderbookDetails_Msg$SettingsMsg(
-											_user$project$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetType(_p5)));
+									return _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
+										_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$SettingsMsg(
+											_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetType(_p5)));
 								},
 								cmds),
 							_1: {ctor: '[]'}
@@ -38658,17 +38658,17 @@ var _user$project$Endpoints_OrderbookDetails_Update$updateSettings = F2(
 				_1: {ctor: '[]'}
 			});
 	});
-var _user$project$Endpoints_OrderbookDetails_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Update$update = F2(
 	function (msg, model) {
 		var _p6 = msg;
 		switch (_p6.ctor) {
 			case 'SettingsMsg':
-				return A2(_user$project$Endpoints_OrderbookDetails_Update$updateSettings, _p6._0, model);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Update$updateSettings, _p6._0, model);
 			case 'Request':
-				var request = A2(_user$project$Endpoints_OrderbookDetails_RequestBuilder$requestBuilder, _p6._0, _p6._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_RequestBuilder$requestBuilder, _p6._0, _p6._1);
 				var msg = function (_p7) {
-					return _user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
-						_user$project$Endpoints_OrderbookDetails_Msg$Response(_p7));
+					return _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$Response(_p7));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -38677,7 +38677,7 @@ var _user$project$Endpoints_OrderbookDetails_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_OrderbookDetails$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -38689,7 +38689,7 @@ var _user$project$Endpoints_OrderbookDetails_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p6._0._0, _user$project$Stellar_Endpoints_OrderbookDetails$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p6._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_OrderbookDetails$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -38707,21 +38707,21 @@ var _user$project$Endpoints_OrderbookDetails_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_OrderbookDetails_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Orderbook Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Orderbook Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -38736,7 +38736,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -38752,7 +38752,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -38761,7 +38761,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -38783,9 +38783,9 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
-															_user$project$Endpoints_OrderbookDetails_Msg$SettingsMsg(
-																_user$project$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetType(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetType(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Select$render(
 														_bluedogtraining$bdt_elm$Form_Select$view(model.settings.sellingAssetType))),
@@ -38800,7 +38800,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 												_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.sellingAssetType),
 												_elm_lang$core$Maybe$Nothing)) && (!_elm_lang$core$Native_Utils.eq(
 												_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.sellingAssetType),
-												_elm_lang$core$Maybe$Just(_user$project$Stellar_AssetType$Native))),
+												_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native))),
 											{
 												ctor: '::',
 												_0: _rtfeldman$elm_css$Html_Styled_Attributes$class('form-group'),
@@ -38812,7 +38812,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -38831,7 +38831,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -38847,9 +38847,9 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
-																_user$project$Endpoints_OrderbookDetails_Msg$SettingsMsg(
-																	_user$project$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetCode(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetCode(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.sellingAssetCode))),
@@ -38864,7 +38864,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 													_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.sellingAssetType),
 													_elm_lang$core$Maybe$Nothing)) && (!_elm_lang$core$Native_Utils.eq(
 													_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.sellingAssetType),
-													_elm_lang$core$Maybe$Just(_user$project$Stellar_AssetType$Native))),
+													_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native))),
 												{
 													ctor: '::',
 													_0: _rtfeldman$elm_css$Html_Styled_Attributes$class('form-group'),
@@ -38876,7 +38876,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -38895,7 +38895,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -38911,9 +38911,9 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
-																	_user$project$Endpoints_OrderbookDetails_Msg$SettingsMsg(
-																		_user$project$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetIssuer(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateSellingAssetIssuer(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_Input$render(
 																_bluedogtraining$bdt_elm$Form_Input$view(model.settings.sellingAssetIssuer))),
@@ -38935,7 +38935,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -38944,7 +38944,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelMandatory,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -38966,9 +38966,9 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 															_0: A2(
 																_rtfeldman$elm_css$Html_Styled$map,
 																function (_p3) {
-																	return _user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
-																		_user$project$Endpoints_OrderbookDetails_Msg$SettingsMsg(
-																			_user$project$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetType(_p3)));
+																	return _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$SettingsMsg(
+																			_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetType(_p3)));
 																},
 																_bluedogtraining$bdt_elm$Form_Select$render(
 																	_bluedogtraining$bdt_elm$Form_Select$view(model.settings.buyingAssetType))),
@@ -38983,7 +38983,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 															_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.buyingAssetType),
 															_elm_lang$core$Maybe$Nothing)) && (!_elm_lang$core$Native_Utils.eq(
 															_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.buyingAssetType),
-															_elm_lang$core$Maybe$Just(_user$project$Stellar_AssetType$Native))),
+															_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native))),
 														{
 															ctor: '::',
 															_0: _rtfeldman$elm_css$Html_Styled_Attributes$class('form-group'),
@@ -38995,7 +38995,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$label,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$label,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -39014,7 +39014,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$labelExample,
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																				_1: {ctor: '[]'}
 																			},
 																			{
@@ -39030,9 +39030,9 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																_0: A2(
 																	_rtfeldman$elm_css$Html_Styled$map,
 																	function (_p4) {
-																		return _user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
-																			_user$project$Endpoints_OrderbookDetails_Msg$SettingsMsg(
-																				_user$project$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetCode(_p4)));
+																		return _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
+																			_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$SettingsMsg(
+																				_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetCode(_p4)));
 																	},
 																	_bluedogtraining$bdt_elm$Form_Input$render(
 																		_bluedogtraining$bdt_elm$Form_Input$view(model.settings.buyingAssetCode))),
@@ -39047,7 +39047,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.buyingAssetType),
 																_elm_lang$core$Maybe$Nothing)) && (!_elm_lang$core$Native_Utils.eq(
 																_bluedogtraining$bdt_elm$Form_Select$getSelectedOption(model.settings.buyingAssetType),
-																_elm_lang$core$Maybe$Just(_user$project$Stellar_AssetType$Native))),
+																_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_AssetType$Native))),
 															{
 																ctor: '::',
 																_0: _rtfeldman$elm_css$Html_Styled_Attributes$class('form-group'),
@@ -39059,7 +39059,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$label,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$label,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -39078,7 +39078,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																				_rtfeldman$elm_css$Html_Styled$span,
 																				{
 																					ctor: '::',
-																					_0: _user$project$Endpoints_Styles$labelExample,
+																					_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																					_1: {ctor: '[]'}
 																				},
 																				{
@@ -39094,9 +39094,9 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																	_0: A2(
 																		_rtfeldman$elm_css$Html_Styled$map,
 																		function (_p5) {
-																			return _user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
-																				_user$project$Endpoints_OrderbookDetails_Msg$SettingsMsg(
-																					_user$project$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetIssuer(_p5)));
+																			return _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
+																				_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$SettingsMsg(
+																					_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateBuyingAssetIssuer(_p5)));
 																		},
 																		_bluedogtraining$bdt_elm$Form_Input$render(
 																			_bluedogtraining$bdt_elm$Form_Input$view(model.settings.buyingAssetIssuer))),
@@ -39118,7 +39118,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$label,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$label,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -39137,7 +39137,7 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																					_rtfeldman$elm_css$Html_Styled$span,
 																					{
 																						ctor: '::',
-																						_0: _user$project$Endpoints_Styles$labelExample,
+																						_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																						_1: {ctor: '[]'}
 																					},
 																					{
@@ -39153,9 +39153,9 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																		_0: A2(
 																			_rtfeldman$elm_css$Html_Styled$map,
 																			function (_p6) {
-																				return _user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
-																					_user$project$Endpoints_OrderbookDetails_Msg$SettingsMsg(
-																						_user$project$Endpoints_OrderbookDetails_Msg$UpdateLimit(_p6)));
+																				return _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
+																					_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$SettingsMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$UpdateLimit(_p6)));
 																			},
 																			_bluedogtraining$bdt_elm$Form_IntInput$render(
 																				_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -39164,18 +39164,18 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 																}),
 															_1: {
 																ctor: '::',
-																_0: _user$project$Endpoints_Views_Request$view(
-																	A2(_user$project$Endpoints_OrderbookDetails_RequestBuilder$requestBuilder, endpoint, model.settings)),
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+																	A2(_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_RequestBuilder$requestBuilder, endpoint, model.settings)),
 																_1: {
 																	ctor: '::',
 																	_0: A2(
-																		_user$project$Endpoints_Views_Button$view,
+																		_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 																		model.isLoading,
-																		_user$project$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
-																			A2(_user$project$Endpoints_OrderbookDetails_Msg$Request, endpoint, model.settings))),
+																		_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_MsgFactory$composeMsg(
+																			A2(_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$Request, endpoint, model.settings))),
 																	_1: {
 																		ctor: '::',
-																		_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+																		_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 																		_1: {ctor: '[]'}
 																	}
 																}
@@ -39194,36 +39194,36 @@ var _user$project$Endpoints_OrderbookDetails_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_PaymentsForAccount_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$PaymentsForAccountMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$PaymentsForAccountMsg(_p0));
 };
 
-var _user$project$Endpoints_PaymentsForAccount_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_PaymentsForAccount$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_PaymentsForAccount$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_PaymentsForAccount$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_PaymentsForAccount$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
-						_user$project$Endpoints_Helpers$publicKeyFromInput(settings.account)))));
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$publicKeyFromInput(settings.account)))));
 	});
 
-var _user$project$Endpoints_PaymentsForAccount_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -39262,20 +39262,20 @@ var _user$project$Endpoints_PaymentsForAccount_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_PaymentsForAccount_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_PaymentsForAccount_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_PaymentsForAccount_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
-						_user$project$Endpoints_PaymentsForAccount_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -39284,7 +39284,7 @@ var _user$project$Endpoints_PaymentsForAccount_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_PaymentsForAccount$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -39296,7 +39296,7 @@ var _user$project$Endpoints_PaymentsForAccount_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_PaymentsForAccount$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForAccount$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -39314,21 +39314,21 @@ var _user$project$Endpoints_PaymentsForAccount_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Payments for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/payments-for-account.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Payments for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/payments-for-account.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -39343,7 +39343,7 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -39359,7 +39359,7 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -39368,7 +39368,7 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -39382,7 +39382,7 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -39398,9 +39398,9 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
-															_user$project$Endpoints_PaymentsForAccount_Msg$SettingsMsg(
-																_user$project$Endpoints_PaymentsForAccount_Msg$UpdateAccount(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$UpdateAccount(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.account))),
@@ -39422,7 +39422,7 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -39441,7 +39441,7 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -39457,9 +39457,9 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
-																_user$project$Endpoints_PaymentsForAccount_Msg$SettingsMsg(
-																	_user$project$Endpoints_PaymentsForAccount_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -39481,7 +39481,7 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -39500,7 +39500,7 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -39516,9 +39516,9 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
-																	_user$project$Endpoints_PaymentsForAccount_Msg$SettingsMsg(
-																		_user$project$Endpoints_PaymentsForAccount_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -39540,7 +39540,7 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -39559,7 +39559,7 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -39581,16 +39581,16 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
-																						_user$project$Endpoints_PaymentsForAccount_Msg$SettingsMsg(
-																							_user$project$Endpoints_PaymentsForAccount_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -39605,16 +39605,16 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
-																							_user$project$Endpoints_PaymentsForAccount_Msg$SettingsMsg(
-																								_user$project$Endpoints_PaymentsForAccount_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -39631,18 +39631,18 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_PaymentsForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_PaymentsForAccount_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -39658,39 +39658,39 @@ var _user$project$Endpoints_PaymentsForAccount_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_PaymentsForLedger_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$PaymentsForLedgerMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$PaymentsForLedgerMsg(_p0));
 };
 
-var _user$project$Endpoints_PaymentsForLedger_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_PaymentsForLedger$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_PaymentsForLedger$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_PaymentsForLedger$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_PaymentsForLedger$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 						A2(
 							_elm_lang$core$Maybe$withDefault,
 							0,
 							_bluedogtraining$bdt_elm$Form_IntInput$getValue(settings.ledgerId))))));
 	});
 
-var _user$project$Endpoints_PaymentsForLedger_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -39729,20 +39729,20 @@ var _user$project$Endpoints_PaymentsForLedger_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_PaymentsForLedger_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_PaymentsForLedger_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_PaymentsForLedger_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
-						_user$project$Endpoints_PaymentsForLedger_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -39751,7 +39751,7 @@ var _user$project$Endpoints_PaymentsForLedger_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_PaymentsForLedger$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -39763,7 +39763,7 @@ var _user$project$Endpoints_PaymentsForLedger_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_PaymentsForLedger$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForLedger$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -39781,21 +39781,21 @@ var _user$project$Endpoints_PaymentsForLedger_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Payments for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Payments for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -39810,7 +39810,7 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -39826,7 +39826,7 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -39835,7 +39835,7 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -39849,7 +39849,7 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -39865,9 +39865,9 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
-															_user$project$Endpoints_PaymentsForLedger_Msg$SettingsMsg(
-																_user$project$Endpoints_PaymentsForLedger_Msg$UpdateLedgerId(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$UpdateLedgerId(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_IntInput$render(
 														_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.ledgerId))),
@@ -39889,7 +39889,7 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -39908,7 +39908,7 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -39924,9 +39924,9 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
-																_user$project$Endpoints_PaymentsForLedger_Msg$SettingsMsg(
-																	_user$project$Endpoints_PaymentsForLedger_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -39948,7 +39948,7 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -39967,7 +39967,7 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -39983,9 +39983,9 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
-																	_user$project$Endpoints_PaymentsForLedger_Msg$SettingsMsg(
-																		_user$project$Endpoints_PaymentsForLedger_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -40007,7 +40007,7 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -40026,7 +40026,7 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -40048,16 +40048,16 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
-																						_user$project$Endpoints_PaymentsForLedger_Msg$SettingsMsg(
-																							_user$project$Endpoints_PaymentsForLedger_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -40072,16 +40072,16 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
-																							_user$project$Endpoints_PaymentsForLedger_Msg$SettingsMsg(
-																								_user$project$Endpoints_PaymentsForLedger_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -40098,18 +40098,18 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_PaymentsForLedger_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_PaymentsForLedger_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -40125,36 +40125,36 @@ var _user$project$Endpoints_PaymentsForLedger_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$PaymentsForTransactionMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$PaymentsForTransactionMsg(_p0));
 };
 
-var _user$project$Endpoints_PaymentsForTransaction_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_PaymentsForTransaction$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_PaymentsForTransaction$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_PaymentsForTransaction$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_PaymentsForTransaction$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 						_bluedogtraining$bdt_elm$Form_Input$getValue(settings.transaction)))));
 	});
 
-var _user$project$Endpoints_PaymentsForTransaction_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -40193,20 +40193,20 @@ var _user$project$Endpoints_PaymentsForTransaction_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_PaymentsForTransaction_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_PaymentsForTransaction_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_PaymentsForTransaction_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
-						_user$project$Endpoints_PaymentsForTransaction_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -40215,7 +40215,7 @@ var _user$project$Endpoints_PaymentsForTransaction_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_PaymentsForTransaction$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -40227,7 +40227,7 @@ var _user$project$Endpoints_PaymentsForTransaction_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_PaymentsForTransaction$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PaymentsForTransaction$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -40245,21 +40245,21 @@ var _user$project$Endpoints_PaymentsForTransaction_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Payments for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Payments for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -40274,7 +40274,7 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -40290,7 +40290,7 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -40299,7 +40299,7 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -40313,7 +40313,7 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -40329,9 +40329,9 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
-															_user$project$Endpoints_PaymentsForTransaction_Msg$SettingsMsg(
-																_user$project$Endpoints_PaymentsForTransaction_Msg$UpdateTransaction(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$UpdateTransaction(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.transaction))),
@@ -40353,7 +40353,7 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -40372,7 +40372,7 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -40388,9 +40388,9 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
-																_user$project$Endpoints_PaymentsForTransaction_Msg$SettingsMsg(
-																	_user$project$Endpoints_PaymentsForTransaction_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -40412,7 +40412,7 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -40431,7 +40431,7 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -40447,9 +40447,9 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
-																	_user$project$Endpoints_PaymentsForTransaction_Msg$SettingsMsg(
-																		_user$project$Endpoints_PaymentsForTransaction_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -40471,7 +40471,7 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -40490,7 +40490,7 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -40512,16 +40512,16 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
-																						_user$project$Endpoints_PaymentsForTransaction_Msg$SettingsMsg(
-																							_user$project$Endpoints_PaymentsForTransaction_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -40536,16 +40536,16 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
-																							_user$project$Endpoints_PaymentsForTransaction_Msg$SettingsMsg(
-																								_user$project$Endpoints_PaymentsForTransaction_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -40562,18 +40562,18 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_PaymentsForTransaction_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_PaymentsForTransaction_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -40589,20 +40589,20 @@ var _user$project$Endpoints_PaymentsForTransaction_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_PostTransaction_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$PostTransactionMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$PostTransactionMsg(_p0));
 };
 
-var _user$project$Endpoints_PostTransaction_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A2(
-			_user$project$Stellar_Endpoints_PostTransaction$requestBuilder,
-			_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$requestBuilder,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 			_bluedogtraining$bdt_elm$Form_TextArea$getValue(settings.transactionEnvelopeXdr));
 	});
 
-var _user$project$Endpoints_PostTransaction_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var _p0 = function () {
@@ -40629,17 +40629,17 @@ var _user$project$Endpoints_PostTransaction_Update$updateSettings = F2(
 				_1: {ctor: '[]'}
 			});
 	});
-var _user$project$Endpoints_PostTransaction_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
-				return A2(_user$project$Endpoints_PostTransaction_Update$updateSettings, _p2._0, model);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Update$updateSettings, _p2._0, model);
 			case 'Request':
-				var request = A2(_user$project$Endpoints_PostTransaction_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_PostTransaction_MsgFactory$composeMsg(
-						_user$project$Endpoints_PostTransaction_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -40648,7 +40648,7 @@ var _user$project$Endpoints_PostTransaction_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_PostTransaction$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -40660,7 +40660,7 @@ var _user$project$Endpoints_PostTransaction_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_PostTransaction$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_PostTransaction$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -40678,21 +40678,21 @@ var _user$project$Endpoints_PostTransaction_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_PostTransaction_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Operations for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operations for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -40707,7 +40707,7 @@ var _user$project$Endpoints_PostTransaction_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -40723,7 +40723,7 @@ var _user$project$Endpoints_PostTransaction_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -40742,7 +40742,7 @@ var _user$project$Endpoints_PostTransaction_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -40758,9 +40758,9 @@ var _user$project$Endpoints_PostTransaction_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_PostTransaction_MsgFactory$composeMsg(
-															_user$project$Endpoints_PostTransaction_Msg$SettingsMsg(
-																_user$project$Endpoints_PostTransaction_Msg$UpdateTransactionEnvelopeXdr(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Msg$UpdateTransactionEnvelopeXdr(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_TextArea$render(
 														_bluedogtraining$bdt_elm$Form_TextArea$view(model.settings.transactionEnvelopeXdr))),
@@ -40769,18 +40769,18 @@ var _user$project$Endpoints_PostTransaction_View$view = F2(
 										}),
 									_1: {
 										ctor: '::',
-										_0: _user$project$Endpoints_Views_Request$view(
-											A2(_user$project$Endpoints_PostTransaction_RequestBuilder$requestBuilder, endpoint, model.settings)),
+										_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+											A2(_ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_RequestBuilder$requestBuilder, endpoint, model.settings)),
 										_1: {
 											ctor: '::',
 											_0: A2(
-												_user$project$Endpoints_Views_Button$view,
+												_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 												model.isLoading,
-												_user$project$Endpoints_PostTransaction_MsgFactory$composeMsg(
-													A2(_user$project$Endpoints_PostTransaction_Msg$Request, endpoint, model.settings))),
+												_ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_MsgFactory$composeMsg(
+													A2(_ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Msg$Request, endpoint, model.settings))),
 											_1: {
 												ctor: '::',
-												_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+												_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 												_1: {ctor: '[]'}
 											}
 										}
@@ -40793,12 +40793,12 @@ var _user$project$Endpoints_PostTransaction_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_TransactionDetails_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$TransactionDetailsMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$TransactionDetailsMsg(_p0));
 };
 
-var _user$project$Endpoints_TransactionDetails_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -40813,20 +40813,20 @@ var _user$project$Endpoints_TransactionDetails_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_TransactionDetails_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Update$update = F2(
 	function (msg, model) {
 		var _p1 = msg;
 		switch (_p1.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_TransactionDetails_Update$updateSettings, _p1._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Update$updateSettings, _p1._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var requestBuilder = A2(_user$project$Stellar_Endpoints_TransactionDetails$requestBuilder, _p1._0, _p1._1);
+				var requestBuilder = A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$requestBuilder, _p1._0, _p1._1);
 				var msg = function (_p2) {
-					return _user$project$Endpoints_TransactionDetails_MsgFactory$composeMsg(
-						_user$project$Endpoints_TransactionDetails_Msg$Response(_p2));
+					return _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Msg$Response(_p2));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -40835,7 +40835,7 @@ var _user$project$Endpoints_TransactionDetails_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_TransactionDetails$send, msg, requestBuilder),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$send, msg, requestBuilder),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -40847,7 +40847,7 @@ var _user$project$Endpoints_TransactionDetails_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p1._0._0, _user$project$Stellar_Endpoints_TransactionDetails$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p1._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -40865,21 +40865,21 @@ var _user$project$Endpoints_TransactionDetails_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_TransactionDetails_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Transaction Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/accounts-single.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Transaction Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/accounts-single.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -40894,7 +40894,7 @@ var _user$project$Endpoints_TransactionDetails_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -40910,7 +40910,7 @@ var _user$project$Endpoints_TransactionDetails_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -40919,7 +40919,7 @@ var _user$project$Endpoints_TransactionDetails_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -40933,7 +40933,7 @@ var _user$project$Endpoints_TransactionDetails_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -40949,9 +40949,9 @@ var _user$project$Endpoints_TransactionDetails_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_TransactionDetails_MsgFactory$composeMsg(
-															_user$project$Endpoints_TransactionDetails_Msg$SettingsMsg(
-																_user$project$Endpoints_TransactionDetails_Msg$UpdateHash(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Msg$UpdateHash(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.hash))),
@@ -40960,24 +40960,24 @@ var _user$project$Endpoints_TransactionDetails_View$view = F2(
 										}),
 									_1: {
 										ctor: '::',
-										_0: _user$project$Endpoints_Views_Request$view(
+										_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
 											A2(
-												_user$project$Stellar_Endpoints_TransactionDetails$requestBuilder,
-												_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+												_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionDetails$requestBuilder,
+												_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 												_bluedogtraining$bdt_elm$Form_Input$getValue(model.settings.hash))),
 										_1: {
 											ctor: '::',
 											_0: A2(
-												_user$project$Endpoints_Views_Button$view,
+												_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 												model.isLoading,
-												_user$project$Endpoints_TransactionDetails_MsgFactory$composeMsg(
+												_ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_MsgFactory$composeMsg(
 													A2(
-														_user$project$Endpoints_TransactionDetails_Msg$Request,
-														_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+														_ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Msg$Request,
+														_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 														_bluedogtraining$bdt_elm$Form_Input$getValue(model.settings.hash)))),
 											_1: {
 												ctor: '::',
-												_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+												_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 												_1: {ctor: '[]'}
 											}
 										}
@@ -40990,36 +40990,36 @@ var _user$project$Endpoints_TransactionDetails_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_TransactionsForAccount_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$TransactionsForAccountMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$TransactionsForAccountMsg(_p0));
 };
 
-var _user$project$Endpoints_TransactionsForAccount_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_TransactionsForAccount$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_TransactionsForAccount$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_TransactionsForAccount$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_TransactionsForAccount$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
-						_user$project$Endpoints_Helpers$publicKeyFromInput(settings.account)))));
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$publicKeyFromInput(settings.account)))));
 	});
 
-var _user$project$Endpoints_TransactionsForAccount_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -41058,20 +41058,20 @@ var _user$project$Endpoints_TransactionsForAccount_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_TransactionsForAccount_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_TransactionsForAccount_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_TransactionsForAccount_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
-						_user$project$Endpoints_TransactionsForAccount_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -41080,7 +41080,7 @@ var _user$project$Endpoints_TransactionsForAccount_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_TransactionsForAccount$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -41092,7 +41092,7 @@ var _user$project$Endpoints_TransactionsForAccount_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_TransactionsForAccount$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForAccount$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -41110,21 +41110,21 @@ var _user$project$Endpoints_TransactionsForAccount_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Transactions for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/transactions-for-account.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Transactions for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/transactions-for-account.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -41139,7 +41139,7 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -41155,7 +41155,7 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -41164,7 +41164,7 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -41178,7 +41178,7 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -41194,9 +41194,9 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
-															_user$project$Endpoints_TransactionsForAccount_Msg$SettingsMsg(
-																_user$project$Endpoints_TransactionsForAccount_Msg$UpdateAccount(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$UpdateAccount(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_Input$render(
 														_bluedogtraining$bdt_elm$Form_Input$view(model.settings.account))),
@@ -41218,7 +41218,7 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -41237,7 +41237,7 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -41253,9 +41253,9 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
-																_user$project$Endpoints_TransactionsForAccount_Msg$SettingsMsg(
-																	_user$project$Endpoints_TransactionsForAccount_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -41277,7 +41277,7 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -41296,7 +41296,7 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -41312,9 +41312,9 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
-																	_user$project$Endpoints_TransactionsForAccount_Msg$SettingsMsg(
-																		_user$project$Endpoints_TransactionsForAccount_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -41336,7 +41336,7 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -41355,7 +41355,7 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -41377,16 +41377,16 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
-																						_user$project$Endpoints_TransactionsForAccount_Msg$SettingsMsg(
-																							_user$project$Endpoints_TransactionsForAccount_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -41401,16 +41401,16 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
-																							_user$project$Endpoints_TransactionsForAccount_Msg$SettingsMsg(
-																								_user$project$Endpoints_TransactionsForAccount_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -41427,18 +41427,18 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_TransactionsForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_TransactionsForAccount_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -41454,39 +41454,39 @@ var _user$project$Endpoints_TransactionsForAccount_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_TransactionsForLedger_MsgFactory$composeMsg = function (_p0) {
-	return _user$project$Endpoints_MsgFactory$composeMsg(
-		_user$project$Endpoints_Msg$TransactionsForLedgerMsg(_p0));
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_MsgFactory$composeMsg = function (_p0) {
+	return _ryan_senn$stellar_elm_demo$Endpoints_MsgFactory$composeMsg(
+		_ryan_senn$stellar_elm_demo$Endpoints_Msg$TransactionsForLedgerMsg(_p0));
 };
 
-var _user$project$Endpoints_TransactionsForLedger_RequestBuilder$requestBuilder = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_RequestBuilder$requestBuilder = F2(
 	function (endpoint, settings) {
 		return A3(
-			_user$project$Endpoints_Helpers$setIfJust,
-			_user$project$Stellar_Endpoints_TransactionsForLedger$setSorting,
+			_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfJust,
+			_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$setSorting,
 			settings.sorting,
 			A5(
-				_user$project$Endpoints_Helpers$setIfChangedMaybe,
-				_user$project$Stellar_Endpoints_TransactionsForLedger$setLimit,
+				_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChangedMaybe,
+				_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$setLimit,
 				_bluedogtraining$bdt_elm$Form_IntInput$getIsChanged,
 				_bluedogtraining$bdt_elm$Form_IntInput$getValue,
 				settings.limit,
 				A5(
-					_user$project$Endpoints_Helpers$setIfChanged,
-					_user$project$Stellar_Endpoints_TransactionsForLedger$setCursor,
+					_ryan_senn$stellar_elm_demo$Endpoints_Helpers$setIfChanged,
+					_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$setCursor,
 					_bluedogtraining$bdt_elm$Form_Input$getIsChanged,
 					_bluedogtraining$bdt_elm$Form_Input$getValue,
 					settings.cursor,
 					A2(
-						_user$project$Stellar_Endpoints_TransactionsForLedger$requestBuilder,
-						_user$project$Endpoints_Helpers$endpointFromInput(endpoint),
+						_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$requestBuilder,
+						_ryan_senn$stellar_elm_demo$Endpoints_Helpers$endpointFromInput(endpoint),
 						A2(
 							_elm_lang$core$Maybe$withDefault,
 							0,
 							_bluedogtraining$bdt_elm$Form_IntInput$getValue(settings.ledgerId))))));
 	});
 
-var _user$project$Endpoints_TransactionsForLedger_Update$updateSettings = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Update$updateSettings = F2(
 	function (updateSettingsMsg, model) {
 		var settingsModel = model.settings;
 		var newSettingsModel = function () {
@@ -41525,20 +41525,20 @@ var _user$project$Endpoints_TransactionsForLedger_Update$updateSettings = F2(
 			model,
 			{settings: newSettingsModel});
 	});
-var _user$project$Endpoints_TransactionsForLedger_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Update$update = F2(
 	function (msg, model) {
 		var _p2 = msg;
 		switch (_p2.ctor) {
 			case 'SettingsMsg':
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
-					A2(_user$project$Endpoints_TransactionsForLedger_Update$updateSettings, _p2._0, model),
+					A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Update$updateSettings, _p2._0, model),
 					{ctor: '[]'});
 			case 'Request':
-				var request = A2(_user$project$Endpoints_TransactionsForLedger_RequestBuilder$requestBuilder, _p2._0, _p2._1);
+				var request = A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_RequestBuilder$requestBuilder, _p2._0, _p2._1);
 				var msg = function (_p3) {
-					return _user$project$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
-						_user$project$Endpoints_TransactionsForLedger_Msg$Response(_p3));
+					return _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
+						_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$Response(_p3));
 				};
 				return A2(
 					_elm_lang$core$Platform_Cmd_ops['!'],
@@ -41547,7 +41547,7 @@ var _user$project$Endpoints_TransactionsForLedger_Update$update = F2(
 						{isLoading: true}),
 					{
 						ctor: '::',
-						_0: A2(_user$project$Stellar_Endpoints_TransactionsForLedger$send, msg, request),
+						_0: A2(_ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$send, msg, request),
 						_1: {ctor: '[]'}
 					});
 			default:
@@ -41559,7 +41559,7 @@ var _user$project$Endpoints_TransactionsForLedger_Update$update = F2(
 							{
 								isLoading: false,
 								response: _elm_lang$core$Maybe$Just(
-									A2(_user$project$Stellar_Error$flattenError, _p2._0._0, _user$project$Stellar_Endpoints_TransactionsForLedger$Error))
+									A2(_ryan_senn$stellar_elm_sdk$Stellar_Error$flattenError, _p2._0._0, _ryan_senn$stellar_elm_sdk$Stellar_Endpoints_TransactionsForLedger$Error))
 							}),
 						{ctor: '[]'});
 				} else {
@@ -41577,21 +41577,21 @@ var _user$project$Endpoints_TransactionsForLedger_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_View$view = F2(
 	function (endpoint, model) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_user$project$Endpoints_Views_Title$view, 'Transactions for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Transactions for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _user$project$Endpoints_Styles$page,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$page,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -41606,7 +41606,7 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 								}),
 							_1: {
 								ctor: '::',
-								_0: _user$project$Endpoints_Views_Endpoint$view(endpoint),
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
 								_1: {
 									ctor: '::',
 									_0: A2(
@@ -41622,7 +41622,7 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 												_rtfeldman$elm_css$Html_Styled$label,
 												{
 													ctor: '::',
-													_0: _user$project$Endpoints_Styles$label,
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 													_1: {ctor: '[]'}
 												},
 												{
@@ -41631,7 +41631,7 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$span,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$labelMandatory,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelMandatory,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -41645,7 +41645,7 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$span,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$labelExample,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -41661,9 +41661,9 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 												_0: A2(
 													_rtfeldman$elm_css$Html_Styled$map,
 													function (_p0) {
-														return _user$project$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
-															_user$project$Endpoints_TransactionsForLedger_Msg$SettingsMsg(
-																_user$project$Endpoints_TransactionsForLedger_Msg$UpdateLedgerId(_p0)));
+														return _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
+															_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$SettingsMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$UpdateLedgerId(_p0)));
 													},
 													_bluedogtraining$bdt_elm$Form_IntInput$render(
 														_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.ledgerId))),
@@ -41685,7 +41685,7 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 													_rtfeldman$elm_css$Html_Styled$label,
 													{
 														ctor: '::',
-														_0: _user$project$Endpoints_Styles$label,
+														_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 														_1: {ctor: '[]'}
 													},
 													{
@@ -41704,7 +41704,7 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 																_rtfeldman$elm_css$Html_Styled$span,
 																{
 																	ctor: '::',
-																	_0: _user$project$Endpoints_Styles$labelExample,
+																	_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																	_1: {ctor: '[]'}
 																},
 																{
@@ -41720,9 +41720,9 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 													_0: A2(
 														_rtfeldman$elm_css$Html_Styled$map,
 														function (_p1) {
-															return _user$project$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
-																_user$project$Endpoints_TransactionsForLedger_Msg$SettingsMsg(
-																	_user$project$Endpoints_TransactionsForLedger_Msg$UpdateCursor(_p1)));
+															return _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
+																_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$SettingsMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$UpdateCursor(_p1)));
 														},
 														_bluedogtraining$bdt_elm$Form_Input$render(
 															_bluedogtraining$bdt_elm$Form_Input$view(model.settings.cursor))),
@@ -41744,7 +41744,7 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 														_rtfeldman$elm_css$Html_Styled$label,
 														{
 															ctor: '::',
-															_0: _user$project$Endpoints_Styles$label,
+															_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 															_1: {ctor: '[]'}
 														},
 														{
@@ -41763,7 +41763,7 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 																	_rtfeldman$elm_css$Html_Styled$span,
 																	{
 																		ctor: '::',
-																		_0: _user$project$Endpoints_Styles$labelExample,
+																		_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																		_1: {ctor: '[]'}
 																	},
 																	{
@@ -41779,9 +41779,9 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 														_0: A2(
 															_rtfeldman$elm_css$Html_Styled$map,
 															function (_p2) {
-																return _user$project$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
-																	_user$project$Endpoints_TransactionsForLedger_Msg$SettingsMsg(
-																		_user$project$Endpoints_TransactionsForLedger_Msg$UpdateLimit(_p2)));
+																return _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
+																	_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$SettingsMsg(
+																		_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$UpdateLimit(_p2)));
 															},
 															_bluedogtraining$bdt_elm$Form_IntInput$render(
 																_bluedogtraining$bdt_elm$Form_IntInput$view(model.settings.limit))),
@@ -41803,7 +41803,7 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 															_rtfeldman$elm_css$Html_Styled$label,
 															{
 																ctor: '::',
-																_0: _user$project$Endpoints_Styles$label,
+																_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$label,
 																_1: {ctor: '[]'}
 															},
 															{
@@ -41822,7 +41822,7 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$labelExample,
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$labelExample,
 																			_1: {ctor: '[]'}
 																		},
 																		{
@@ -41844,16 +41844,16 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 																		_rtfeldman$elm_css$Html_Styled$span,
 																		{
 																			ctor: '::',
-																			_0: _user$project$Endpoints_Styles$radioButton(
+																			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																				_elm_lang$core$Native_Utils.eq(
 																					model.settings.sorting,
-																					_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Asc))),
+																					_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc))),
 																			_1: {
 																				ctor: '::',
 																				_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																					_user$project$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
-																						_user$project$Endpoints_TransactionsForLedger_Msg$SettingsMsg(
-																							_user$project$Endpoints_TransactionsForLedger_Msg$UpdateSorting(_user$project$Stellar_Sorting$Asc)))),
+																					_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
+																						_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$SettingsMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Asc)))),
 																				_1: {ctor: '[]'}
 																			}
 																		},
@@ -41868,16 +41868,16 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 																			_rtfeldman$elm_css$Html_Styled$span,
 																			{
 																				ctor: '::',
-																				_0: _user$project$Endpoints_Styles$radioButton(
+																				_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$radioButton(
 																					_elm_lang$core$Native_Utils.eq(
 																						model.settings.sorting,
-																						_elm_lang$core$Maybe$Just(_user$project$Stellar_Sorting$Desc))),
+																						_elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc))),
 																				_1: {
 																					ctor: '::',
 																					_0: _rtfeldman$elm_css$Html_Styled_Events$onClick(
-																						_user$project$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
-																							_user$project$Endpoints_TransactionsForLedger_Msg$SettingsMsg(
-																								_user$project$Endpoints_TransactionsForLedger_Msg$UpdateSorting(_user$project$Stellar_Sorting$Desc)))),
+																						_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
+																							_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$SettingsMsg(
+																								_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$UpdateSorting(_ryan_senn$stellar_elm_sdk$Stellar_Sorting$Desc)))),
 																					_1: {ctor: '[]'}
 																				}
 																			},
@@ -41894,18 +41894,18 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 													}),
 												_1: {
 													ctor: '::',
-													_0: _user$project$Endpoints_Views_Request$view(
-														A2(_user$project$Endpoints_TransactionsForLedger_RequestBuilder$requestBuilder, endpoint, model.settings)),
+													_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view(
+														A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_RequestBuilder$requestBuilder, endpoint, model.settings)),
 													_1: {
 														ctor: '::',
 														_0: A2(
-															_user$project$Endpoints_Views_Button$view,
+															_ryan_senn$stellar_elm_demo$Endpoints_Views_Button$view,
 															model.isLoading,
-															_user$project$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
-																A2(_user$project$Endpoints_TransactionsForLedger_Msg$Request, endpoint, model.settings))),
+															_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_MsgFactory$composeMsg(
+																A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_user$project$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -41921,7 +41921,7 @@ var _user$project$Endpoints_TransactionsForLedger_View$view = F2(
 			});
 	});
 
-var _user$project$Endpoints_Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_Update$update = F2(
 	function (msg, model) {
 		var _p0 = msg;
 		switch (_p0.ctor) {
@@ -41935,7 +41935,7 @@ var _user$project$Endpoints_Update$update = F2(
 						}),
 					{ctor: '[]'});
 			case 'AccountDetailsMsg':
-				var _p1 = A2(_user$project$Endpoints_AccountDetails_Update$update, _p0._0, model.accountDetails);
+				var _p1 = A2(_ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Update$update, _p0._0, model.accountDetails);
 				var accountDetailsModel = _p1._0;
 				var cmd = _p1._1;
 				return A2(
@@ -41949,7 +41949,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'AllAssetsMsg':
-				var _p2 = A2(_user$project$Endpoints_AllAssets_Update$update, _p0._0, model.allAssets);
+				var _p2 = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_Update$update, _p0._0, model.allAssets);
 				var allAssetsModel = _p2._0;
 				var cmd = _p2._1;
 				return A2(
@@ -41963,7 +41963,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'DataForAccountMsg':
-				var _p3 = A2(_user$project$Endpoints_DataForAccount_Update$update, _p0._0, model.dataForAccount);
+				var _p3 = A2(_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Update$update, _p0._0, model.dataForAccount);
 				var dataForAccountModel = _p3._0;
 				var cmd = _p3._1;
 				return A2(
@@ -41977,7 +41977,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'AllEffectsMsg':
-				var _p4 = A2(_user$project$Endpoints_AllEffects_Update$update, _p0._0, model.allEffects);
+				var _p4 = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_Update$update, _p0._0, model.allEffects);
 				var allEffectsModel = _p4._0;
 				var cmd = _p4._1;
 				return A2(
@@ -41991,7 +41991,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'EffectsForAccountMsg':
-				var _p5 = A2(_user$project$Endpoints_EffectsForAccount_Update$update, _p0._0, model.effectsForAccount);
+				var _p5 = A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Update$update, _p0._0, model.effectsForAccount);
 				var effectsForAccountModel = _p5._0;
 				var cmd = _p5._1;
 				return A2(
@@ -42005,7 +42005,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'EffectsForLedgerMsg':
-				var _p6 = A2(_user$project$Endpoints_EffectsForLedger_Update$update, _p0._0, model.effectsForLedger);
+				var _p6 = A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Update$update, _p0._0, model.effectsForLedger);
 				var effectsForLedgerModel = _p6._0;
 				var cmd = _p6._1;
 				return A2(
@@ -42019,7 +42019,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'EffectsForOperationMsg':
-				var _p7 = A2(_user$project$Endpoints_EffectsForOperation_Update$update, _p0._0, model.effectsForOperation);
+				var _p7 = A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Update$update, _p0._0, model.effectsForOperation);
 				var effectsForOperationModel = _p7._0;
 				var cmd = _p7._1;
 				return A2(
@@ -42033,7 +42033,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'EffectsForTransactionMsg':
-				var _p8 = A2(_user$project$Endpoints_EffectsForTransaction_Update$update, _p0._0, model.effectsForTransaction);
+				var _p8 = A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Update$update, _p0._0, model.effectsForTransaction);
 				var effectsForTransactionModel = _p8._0;
 				var cmd = _p8._1;
 				return A2(
@@ -42047,7 +42047,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'AllLedgersMsg':
-				var _p9 = A2(_user$project$Endpoints_AllLedgers_Update$update, _p0._0, model.allLedgers);
+				var _p9 = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Update$update, _p0._0, model.allLedgers);
 				var allLedgersModel = _p9._0;
 				var cmd = _p9._1;
 				return A2(
@@ -42061,7 +42061,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'LedgerDetailsMsg':
-				var _p10 = A2(_user$project$Endpoints_LedgerDetails_Update$update, _p0._0, model.ledgerDetails);
+				var _p10 = A2(_ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_Update$update, _p0._0, model.ledgerDetails);
 				var ledgerDetailsModel = _p10._0;
 				var cmd = _p10._1;
 				return A2(
@@ -42075,7 +42075,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'OffersForAccountMsg':
-				var _p11 = A2(_user$project$Endpoints_OffersForAccount_Update$update, _p0._0, model.offersForAccount);
+				var _p11 = A2(_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Update$update, _p0._0, model.offersForAccount);
 				var offersForAccountModel = _p11._0;
 				var cmd = _p11._1;
 				return A2(
@@ -42089,7 +42089,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'AllOperationsMsg':
-				var _p12 = A2(_user$project$Endpoints_AllOperations_Update$update, _p0._0, model.allOperations);
+				var _p12 = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_Update$update, _p0._0, model.allOperations);
 				var allOperationsModel = _p12._0;
 				var cmd = _p12._1;
 				return A2(
@@ -42103,7 +42103,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'OperationsForAccountMsg':
-				var _p13 = A2(_user$project$Endpoints_OperationsForAccount_Update$update, _p0._0, model.operationsForAccount);
+				var _p13 = A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Update$update, _p0._0, model.operationsForAccount);
 				var operationsForAccountModel = _p13._0;
 				var cmd = _p13._1;
 				return A2(
@@ -42117,7 +42117,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'OperationsForLedgerMsg':
-				var _p14 = A2(_user$project$Endpoints_OperationsForLedger_Update$update, _p0._0, model.operationsForLedger);
+				var _p14 = A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Update$update, _p0._0, model.operationsForLedger);
 				var operationsForLedgerModel = _p14._0;
 				var cmd = _p14._1;
 				return A2(
@@ -42131,7 +42131,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'OperationsForTransactionMsg':
-				var _p15 = A2(_user$project$Endpoints_OperationsForTransaction_Update$update, _p0._0, model.operationsForTransaction);
+				var _p15 = A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Update$update, _p0._0, model.operationsForTransaction);
 				var operationsForTransactionModel = _p15._0;
 				var cmd = _p15._1;
 				return A2(
@@ -42145,7 +42145,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'OperationDetailsMsg':
-				var _p16 = A2(_user$project$Endpoints_OperationDetails_Update$update, _p0._0, model.operationDetails);
+				var _p16 = A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Update$update, _p0._0, model.operationDetails);
 				var operationDetailsModel = _p16._0;
 				var cmd = _p16._1;
 				return A2(
@@ -42159,7 +42159,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'OrderbookDetailsMsg':
-				var _p17 = A2(_user$project$Endpoints_OrderbookDetails_Update$update, _p0._0, model.orderbookDetails);
+				var _p17 = A2(_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Update$update, _p0._0, model.orderbookDetails);
 				var orderbookDetailsModel = _p17._0;
 				var cmd = _p17._1;
 				return A2(
@@ -42173,7 +42173,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'FindPaymentPathsMsg':
-				var _p18 = A2(_user$project$Endpoints_FindPaymentPaths_Update$update, _p0._0, model.findPaymentPaths);
+				var _p18 = A2(_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Update$update, _p0._0, model.findPaymentPaths);
 				var findPaymentPathsModel = _p18._0;
 				var cmd = _p18._1;
 				return A2(
@@ -42187,7 +42187,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'AllPaymentsMsg':
-				var _p19 = A2(_user$project$Endpoints_AllPayments_Update$update, _p0._0, model.allPayments);
+				var _p19 = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_Update$update, _p0._0, model.allPayments);
 				var allPaymentsModel = _p19._0;
 				var cmd = _p19._1;
 				return A2(
@@ -42201,7 +42201,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'PaymentsForAccountMsg':
-				var _p20 = A2(_user$project$Endpoints_PaymentsForAccount_Update$update, _p0._0, model.paymentsForAccount);
+				var _p20 = A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Update$update, _p0._0, model.paymentsForAccount);
 				var paymentsForAccountModel = _p20._0;
 				var cmd = _p20._1;
 				return A2(
@@ -42215,7 +42215,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'PaymentsForLedgerMsg':
-				var _p21 = A2(_user$project$Endpoints_PaymentsForLedger_Update$update, _p0._0, model.paymentsForLedger);
+				var _p21 = A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Update$update, _p0._0, model.paymentsForLedger);
 				var paymentsForLedgerModel = _p21._0;
 				var cmd = _p21._1;
 				return A2(
@@ -42229,7 +42229,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'PaymentsForTransactionMsg':
-				var _p22 = A2(_user$project$Endpoints_PaymentsForTransaction_Update$update, _p0._0, model.paymentsForTransaction);
+				var _p22 = A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Update$update, _p0._0, model.paymentsForTransaction);
 				var paymentsForTransactionModel = _p22._0;
 				var cmd = _p22._1;
 				return A2(
@@ -42243,7 +42243,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'AllTransactionsMsg':
-				var _p23 = A2(_user$project$Endpoints_AllTransactions_Update$update, _p0._0, model.allTransactions);
+				var _p23 = A2(_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_Update$update, _p0._0, model.allTransactions);
 				var allTransactionsModel = _p23._0;
 				var cmd = _p23._1;
 				return A2(
@@ -42257,7 +42257,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'PostTransactionMsg':
-				var _p24 = A2(_user$project$Endpoints_PostTransaction_Update$update, _p0._0, model.postTransaction);
+				var _p24 = A2(_ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Update$update, _p0._0, model.postTransaction);
 				var postTransactionModel = _p24._0;
 				var cmd = _p24._1;
 				return A2(
@@ -42271,7 +42271,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'TransactionsForAccountMsg':
-				var _p25 = A2(_user$project$Endpoints_TransactionsForAccount_Update$update, _p0._0, model.transactionsForAccount);
+				var _p25 = A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Update$update, _p0._0, model.transactionsForAccount);
 				var transactionsForAccountModel = _p25._0;
 				var cmd = _p25._1;
 				return A2(
@@ -42285,7 +42285,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			case 'TransactionsForLedgerMsg':
-				var _p26 = A2(_user$project$Endpoints_TransactionsForLedger_Update$update, _p0._0, model.transactionsForLedger);
+				var _p26 = A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Update$update, _p0._0, model.transactionsForLedger);
 				var transactionsForLedgerModel = _p26._0;
 				var cmd = _p26._1;
 				return A2(
@@ -42299,7 +42299,7 @@ var _user$project$Endpoints_Update$update = F2(
 						_1: {ctor: '[]'}
 					});
 			default:
-				var _p27 = A2(_user$project$Endpoints_TransactionDetails_Update$update, _p0._0, model.transactionDetails);
+				var _p27 = A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_Update$update, _p0._0, model.transactionDetails);
 				var transactionDetailsModel = _p27._0;
 				var cmd = _p27._1;
 				return A2(
@@ -42315,79 +42315,79 @@ var _user$project$Endpoints_Update$update = F2(
 		}
 	});
 
-var _user$project$Endpoints_View$view = F2(
+var _ryan_senn$stellar_elm_demo$Endpoints_View$view = F2(
 	function (endpoints, endpoint) {
 		var _p0 = endpoint;
 		switch (_p0.ctor) {
 			case 'AccountDetails':
-				return A2(_user$project$Endpoints_AccountDetails_View$view, endpoints.endpoint, endpoints.accountDetails);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_View$view, endpoints.endpoint, endpoints.accountDetails);
 			case 'AllAssets':
-				return A2(_user$project$Endpoints_AllAssets_View$view, endpoints.endpoint, endpoints.allAssets);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_AllAssets_View$view, endpoints.endpoint, endpoints.allAssets);
 			case 'DataForAccount':
-				return A2(_user$project$Endpoints_DataForAccount_View$view, endpoints.endpoint, endpoints.dataForAccount);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_View$view, endpoints.endpoint, endpoints.dataForAccount);
 			case 'AllEffects':
-				return A2(_user$project$Endpoints_AllEffects_View$view, endpoints.endpoint, endpoints.allEffects);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_AllEffects_View$view, endpoints.endpoint, endpoints.allEffects);
 			case 'EffectsForAccount':
-				return A2(_user$project$Endpoints_EffectsForAccount_View$view, endpoints.endpoint, endpoints.effectsForAccount);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_View$view, endpoints.endpoint, endpoints.effectsForAccount);
 			case 'EffectsForLedger':
-				return A2(_user$project$Endpoints_EffectsForLedger_View$view, endpoints.endpoint, endpoints.effectsForLedger);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_View$view, endpoints.endpoint, endpoints.effectsForLedger);
 			case 'EffectsForOperation':
-				return A2(_user$project$Endpoints_EffectsForOperation_View$view, endpoints.endpoint, endpoints.effectsForOperation);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_View$view, endpoints.endpoint, endpoints.effectsForOperation);
 			case 'EffectsForTransaction':
-				return A2(_user$project$Endpoints_EffectsForTransaction_View$view, endpoints.endpoint, endpoints.effectsForTransaction);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_View$view, endpoints.endpoint, endpoints.effectsForTransaction);
 			case 'AllLedgers':
-				return A2(_user$project$Endpoints_AllLedgers_View$view, endpoints.endpoint, endpoints.allLedgers);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_View$view, endpoints.endpoint, endpoints.allLedgers);
 			case 'LedgerDetails':
-				return A2(_user$project$Endpoints_LedgerDetails_View$view, endpoints.endpoint, endpoints.ledgerDetails);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_View$view, endpoints.endpoint, endpoints.ledgerDetails);
 			case 'OffersForAccount':
-				return A2(_user$project$Endpoints_OffersForAccount_View$view, endpoints.endpoint, endpoints.offersForAccount);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_View$view, endpoints.endpoint, endpoints.offersForAccount);
 			case 'AllOperations':
-				return A2(_user$project$Endpoints_AllOperations_View$view, endpoints.endpoint, endpoints.allOperations);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_AllOperations_View$view, endpoints.endpoint, endpoints.allOperations);
 			case 'OperationsForAccount':
-				return A2(_user$project$Endpoints_OperationsForAccount_View$view, endpoints.endpoint, endpoints.operationsForAccount);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_View$view, endpoints.endpoint, endpoints.operationsForAccount);
 			case 'OperationsForLedger':
-				return A2(_user$project$Endpoints_OperationsForLedger_View$view, endpoints.endpoint, endpoints.operationsForLedger);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_View$view, endpoints.endpoint, endpoints.operationsForLedger);
 			case 'OperationsForTransaction':
-				return A2(_user$project$Endpoints_OperationsForTransaction_View$view, endpoints.endpoint, endpoints.operationsForTransaction);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_View$view, endpoints.endpoint, endpoints.operationsForTransaction);
 			case 'OperationDetails':
-				return A2(_user$project$Endpoints_OperationDetails_View$view, endpoints.endpoint, endpoints.operationDetails);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_View$view, endpoints.endpoint, endpoints.operationDetails);
 			case 'OrderbookDetails':
-				return A2(_user$project$Endpoints_OrderbookDetails_View$view, endpoints.endpoint, endpoints.orderbookDetails);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_View$view, endpoints.endpoint, endpoints.orderbookDetails);
 			case 'FindPaymentPaths':
-				return A2(_user$project$Endpoints_FindPaymentPaths_View$view, endpoints.endpoint, endpoints.findPaymentPaths);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_View$view, endpoints.endpoint, endpoints.findPaymentPaths);
 			case 'AllPayments':
-				return A2(_user$project$Endpoints_AllPayments_View$view, endpoints.endpoint, endpoints.allPayments);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_AllPayments_View$view, endpoints.endpoint, endpoints.allPayments);
 			case 'PaymentsForAccount':
-				return A2(_user$project$Endpoints_PaymentsForAccount_View$view, endpoints.endpoint, endpoints.paymentsForAccount);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_View$view, endpoints.endpoint, endpoints.paymentsForAccount);
 			case 'PaymentsForLedger':
-				return A2(_user$project$Endpoints_PaymentsForLedger_View$view, endpoints.endpoint, endpoints.paymentsForLedger);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_View$view, endpoints.endpoint, endpoints.paymentsForLedger);
 			case 'PaymentsForTransaction':
-				return A2(_user$project$Endpoints_PaymentsForTransaction_View$view, endpoints.endpoint, endpoints.paymentsForTransaction);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_View$view, endpoints.endpoint, endpoints.paymentsForTransaction);
 			case 'AllTransactions':
-				return A2(_user$project$Endpoints_AllTransactions_View$view, endpoints.endpoint, endpoints.allTransactions);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_View$view, endpoints.endpoint, endpoints.allTransactions);
 			case 'PostTransaction':
-				return A2(_user$project$Endpoints_PostTransaction_View$view, endpoints.endpoint, endpoints.postTransaction);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_View$view, endpoints.endpoint, endpoints.postTransaction);
 			case 'TransactionsForAccount':
-				return A2(_user$project$Endpoints_TransactionsForAccount_View$view, endpoints.endpoint, endpoints.transactionsForAccount);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_View$view, endpoints.endpoint, endpoints.transactionsForAccount);
 			case 'TransactionsForLedger':
-				return A2(_user$project$Endpoints_TransactionsForLedger_View$view, endpoints.endpoint, endpoints.transactionsForLedger);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_View$view, endpoints.endpoint, endpoints.transactionsForLedger);
 			default:
-				return A2(_user$project$Endpoints_TransactionDetails_View$view, endpoints.endpoint, endpoints.transactionDetails);
+				return A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_View$view, endpoints.endpoint, endpoints.transactionDetails);
 		}
 	});
 
-var _user$project$Model$initialModel = {
-	route: _elm_lang$core$Maybe$Just(_user$project$Routes$Home),
-	endpoints: _user$project$Endpoints_Model$initialModel,
+var _ryan_senn$stellar_elm_demo$Model$initialModel = {
+	route: _elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_demo$Routes$Home),
+	endpoints: _ryan_senn$stellar_elm_demo$Endpoints_Model$initialModel,
 	allAssetsResponse: _elm_lang$core$Maybe$Nothing,
 	dataForAccountResponse: _elm_lang$core$Maybe$Nothing
 };
-var _user$project$Model$Model = F4(
+var _ryan_senn$stellar_elm_demo$Model$Model = F4(
 	function (a, b, c, d) {
 		return {route: a, endpoints: b, allAssetsResponse: c, dataForAccountResponse: d};
 	});
 
-var _user$project$Update$setRoute = F2(
+var _ryan_senn$stellar_elm_demo$Update$setRoute = F2(
 	function (route, model) {
 		var _p0 = route;
 		if (_p0.ctor === 'Nothing') {
@@ -42404,7 +42404,7 @@ var _user$project$Update$setRoute = F2(
 					_elm_lang$core$Native_Utils.update(
 						model,
 						{
-							route: _elm_lang$core$Maybe$Just(_user$project$Routes$Home)
+							route: _elm_lang$core$Maybe$Just(_ryan_senn$stellar_elm_demo$Routes$Home)
 						}),
 					{ctor: '[]'});
 			} else {
@@ -42414,19 +42414,19 @@ var _user$project$Update$setRoute = F2(
 						model,
 						{
 							route: _elm_lang$core$Maybe$Just(
-								_user$project$Routes$Endpoints(_p0._0._0))
+								_ryan_senn$stellar_elm_demo$Routes$Endpoints(_p0._0._0))
 						}),
 					{ctor: '[]'});
 			}
 		}
 	});
-var _user$project$Update$update = F2(
+var _ryan_senn$stellar_elm_demo$Update$update = F2(
 	function (msg, model) {
 		var _p1 = msg;
 		if (_p1.ctor === 'SetRoute') {
-			return A2(_user$project$Update$setRoute, _p1._0, model);
+			return A2(_ryan_senn$stellar_elm_demo$Update$setRoute, _p1._0, model);
 		} else {
-			var _p2 = A2(_user$project$Endpoints_Update$update, _p1._0, model.endpoints);
+			var _p2 = A2(_ryan_senn$stellar_elm_demo$Endpoints_Update$update, _p1._0, model.endpoints);
 			var endpointsModel = _p2._0;
 			var cmd = _p2._1;
 			return A2(
@@ -42442,11 +42442,11 @@ var _user$project$Update$update = F2(
 		}
 	});
 
-var _user$project$View$home = A2(
+var _ryan_senn$stellar_elm_demo$View$home = A2(
 	_rtfeldman$elm_css$Html_Styled$div,
 	{
 		ctor: '::',
-		_0: _user$project$Styles$home,
+		_0: _ryan_senn$stellar_elm_demo$Styles$home,
 		_1: {ctor: '[]'}
 	},
 	{
@@ -42546,23 +42546,23 @@ var _user$project$View$home = A2(
 			}
 		}
 	});
-var _user$project$View$page = F2(
+var _ryan_senn$stellar_elm_demo$View$page = F2(
 	function (endpoints, route) {
 		var _p0 = route;
 		if (_p0.ctor === 'Home') {
-			return _user$project$View$home;
+			return _ryan_senn$stellar_elm_demo$View$home;
 		} else {
-			return A2(_user$project$Endpoints_View$view, endpoints, _p0._0);
+			return A2(_ryan_senn$stellar_elm_demo$Endpoints_View$view, endpoints, _p0._0);
 		}
 	});
-var _user$project$View$content = function (model) {
+var _ryan_senn$stellar_elm_demo$View$content = function (model) {
 	var _p1 = model.route;
 	if (_p1.ctor === 'Nothing') {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{
 				ctor: '::',
-				_0: _user$project$Styles$content,
+				_0: _ryan_senn$stellar_elm_demo$Styles$content,
 				_1: {ctor: '[]'}
 			},
 			{
@@ -42575,27 +42575,27 @@ var _user$project$View$content = function (model) {
 			_rtfeldman$elm_css$Html_Styled$div,
 			{
 				ctor: '::',
-				_0: _user$project$Styles$content,
+				_0: _ryan_senn$stellar_elm_demo$Styles$content,
 				_1: {ctor: '[]'}
 			},
 			{
 				ctor: '::',
-				_0: A2(_user$project$View$page, model.endpoints, _p1._0),
+				_0: A2(_ryan_senn$stellar_elm_demo$View$page, model.endpoints, _p1._0),
 				_1: {ctor: '[]'}
 			});
 	}
 };
-var _user$project$View$menuItem = F2(
+var _ryan_senn$stellar_elm_demo$View$menuItem = F2(
 	function (mRoute, endpoint) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$li,
 			{
 				ctor: '::',
-				_0: _user$project$Styles$sidebarItem(
+				_0: _ryan_senn$stellar_elm_demo$Styles$sidebarItem(
 					A2(
-						_user$project$Routes$isActiveRoute,
+						_ryan_senn$stellar_elm_demo$Routes$isActiveRoute,
 						mRoute,
-						_user$project$Routes$Endpoints(endpoint))),
+						_ryan_senn$stellar_elm_demo$Routes$Endpoints(endpoint))),
 				_1: {ctor: '[]'}
 			},
 			{
@@ -42604,11 +42604,11 @@ var _user$project$View$menuItem = F2(
 					_rtfeldman$elm_css$Html_Styled$a,
 					{
 						ctor: '::',
-						_0: _user$project$Styles$sidebarItemLink,
+						_0: _ryan_senn$stellar_elm_demo$Styles$sidebarItemLink,
 						_1: {
 							ctor: '::',
-							_0: _user$project$Routes$href(
-								_user$project$Routes$Endpoints(endpoint)),
+							_0: _ryan_senn$stellar_elm_demo$Routes$href(
+								_ryan_senn$stellar_elm_demo$Routes$Endpoints(endpoint)),
 							_1: {ctor: '[]'}
 						}
 					},
@@ -42623,12 +42623,12 @@ var _user$project$View$menuItem = F2(
 				_1: {ctor: '[]'}
 			});
 	});
-var _user$project$View$sidebar = function (mRoute) {
+var _ryan_senn$stellar_elm_demo$View$sidebar = function (mRoute) {
 	return A2(
 		_rtfeldman$elm_css$Html_Styled$div,
 		{
 			ctor: '::',
-			_0: _user$project$Styles$sidebar,
+			_0: _ryan_senn$stellar_elm_demo$Styles$sidebar,
 			_1: {ctor: '[]'}
 		},
 		{
@@ -42637,7 +42637,7 @@ var _user$project$View$sidebar = function (mRoute) {
 				_rtfeldman$elm_css$Html_Styled$h4,
 				{
 					ctor: '::',
-					_0: _user$project$Styles$sidebarTitle,
+					_0: _ryan_senn$stellar_elm_demo$Styles$sidebarTitle,
 					_1: {ctor: '[]'}
 				},
 				{
@@ -42651,40 +42651,40 @@ var _user$project$View$sidebar = function (mRoute) {
 					_rtfeldman$elm_css$Html_Styled$ul,
 					{
 						ctor: '::',
-						_0: _user$project$Styles$sidebarList,
+						_0: _ryan_senn$stellar_elm_demo$Styles$sidebarList,
 						_1: {ctor: '[]'}
 					},
 					A2(
 						_elm_lang$core$List$map,
-						_user$project$View$menuItem(mRoute),
-						_user$project$Endpoints$asList)),
+						_ryan_senn$stellar_elm_demo$View$menuItem(mRoute),
+						_ryan_senn$stellar_elm_demo$Endpoints$asList)),
 				_1: {ctor: '[]'}
 			}
 		});
 };
-var _user$project$View$body = function (model) {
+var _ryan_senn$stellar_elm_demo$View$body = function (model) {
 	return A2(
 		_rtfeldman$elm_css$Html_Styled$div,
 		{
 			ctor: '::',
-			_0: _user$project$Styles$body,
+			_0: _ryan_senn$stellar_elm_demo$Styles$body,
 			_1: {ctor: '[]'}
 		},
 		{
 			ctor: '::',
-			_0: _user$project$View$sidebar(model.route),
+			_0: _ryan_senn$stellar_elm_demo$View$sidebar(model.route),
 			_1: {
 				ctor: '::',
-				_0: _user$project$View$content(model),
+				_0: _ryan_senn$stellar_elm_demo$View$content(model),
 				_1: {ctor: '[]'}
 			}
 		});
 };
-var _user$project$View$header = A2(
+var _ryan_senn$stellar_elm_demo$View$header = A2(
 	_rtfeldman$elm_css$Html_Styled$div,
 	{
 		ctor: '::',
-		_0: _user$project$Styles$header,
+		_0: _ryan_senn$stellar_elm_demo$Styles$header,
 		_1: {ctor: '[]'}
 	},
 	{
@@ -42693,7 +42693,7 @@ var _user$project$View$header = A2(
 			_rtfeldman$elm_css$Html_Styled$h1,
 			{
 				ctor: '::',
-				_0: _user$project$Styles$title,
+				_0: _ryan_senn$stellar_elm_demo$Styles$title,
 				_1: {ctor: '[]'}
 			},
 			{
@@ -42702,10 +42702,10 @@ var _user$project$View$header = A2(
 					_rtfeldman$elm_css$Html_Styled$a,
 					{
 						ctor: '::',
-						_0: _user$project$Styles$stellarTitle,
+						_0: _ryan_senn$stellar_elm_demo$Styles$stellarTitle,
 						_1: {
 							ctor: '::',
-							_0: _user$project$Routes$href(_user$project$Routes$Home),
+							_0: _ryan_senn$stellar_elm_demo$Routes$href(_ryan_senn$stellar_elm_demo$Routes$Home),
 							_1: {ctor: '[]'}
 						}
 					},
@@ -42720,10 +42720,10 @@ var _user$project$View$header = A2(
 						_rtfeldman$elm_css$Html_Styled$a,
 						{
 							ctor: '::',
-							_0: _user$project$Styles$elmTitle,
+							_0: _ryan_senn$stellar_elm_demo$Styles$elmTitle,
 							_1: {
 								ctor: '::',
-								_0: _user$project$Routes$href(_user$project$Routes$Home),
+								_0: _ryan_senn$stellar_elm_demo$Routes$href(_ryan_senn$stellar_elm_demo$Routes$Home),
 								_1: {ctor: '[]'}
 							}
 						},
@@ -42737,50 +42737,50 @@ var _user$project$View$header = A2(
 			}),
 		_1: {ctor: '[]'}
 	});
-var _user$project$View$view = function (model) {
+var _ryan_senn$stellar_elm_demo$View$view = function (model) {
 	return A2(
 		_rtfeldman$elm_css$Html_Styled$div,
 		{
 			ctor: '::',
-			_0: _user$project$Styles$layout,
+			_0: _ryan_senn$stellar_elm_demo$Styles$layout,
 			_1: {ctor: '[]'}
 		},
 		{
 			ctor: '::',
-			_0: _user$project$View$header,
+			_0: _ryan_senn$stellar_elm_demo$View$header,
 			_1: {
 				ctor: '::',
-				_0: _user$project$View$body(model),
+				_0: _ryan_senn$stellar_elm_demo$View$body(model),
 				_1: {ctor: '[]'}
 			}
 		});
 };
 
-var _user$project$Main$main = A2(
+var _ryan_senn$stellar_elm_demo$Main$main = A2(
 	_elm_lang$navigation$Navigation$program,
 	function (_p0) {
-		return _user$project$Msg$SetRoute(
-			_user$project$Routes$fromLocation(_p0));
+		return _ryan_senn$stellar_elm_demo$Msg$SetRoute(
+			_ryan_senn$stellar_elm_demo$Routes$fromLocation(_p0));
 	},
 	{
 		init: function (location) {
 			return A2(
-				_user$project$Update$setRoute,
-				_user$project$Routes$fromLocation(location),
-				_user$project$Model$initialModel);
+				_ryan_senn$stellar_elm_demo$Update$setRoute,
+				_ryan_senn$stellar_elm_demo$Routes$fromLocation(location),
+				_ryan_senn$stellar_elm_demo$Model$initialModel);
 		},
-		update: _user$project$Update$update,
+		update: _ryan_senn$stellar_elm_demo$Update$update,
 		subscriptions: _elm_lang$core$Basics$always(_elm_lang$core$Platform_Sub$none),
 		view: function (_p1) {
 			return _rtfeldman$elm_css$Html_Styled$toUnstyled(
-				_user$project$View$view(_p1));
+				_ryan_senn$stellar_elm_demo$View$view(_p1));
 		}
 	})();
 
 var Elm = {};
 Elm['Main'] = Elm['Main'] || {};
-if (typeof _user$project$Main$main !== 'undefined') {
-    _user$project$Main$main(Elm['Main'], 'Main', undefined);
+if (typeof _ryan_senn$stellar_elm_demo$Main$main !== 'undefined') {
+    _ryan_senn$stellar_elm_demo$Main$main(Elm['Main'], 'Main', undefined);
 }
 
 if (typeof define === "function" && define['amd'])
