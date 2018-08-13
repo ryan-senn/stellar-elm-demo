@@ -129,7 +129,7 @@ home =
         , p
             []
             [ a
-                [ href "https://github.com/ryan-senn/stellar-elm", target "blank_" ]
+                [ href "https://github.com/ryan-senn/stellar-elm-demo", target "blank_" ]
                 [ text "The source code is visible on Github."]
             ]
         , p
