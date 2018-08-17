@@ -6,6 +6,8 @@ import Html.Styled.Attributes exposing (..)
 
 import Form.Input as Input
 
+import Config exposing (sdkVersion)
+
 import Msg exposing (Msg)
 
 import Endpoints.Msg as Endpoints
@@ -13,6 +15,7 @@ import Endpoints.Msg as Endpoints
 import Endpoints.Styles as Css
 
 import Endpoints.Views.Title as Title
+import Endpoints.Views.RequestTitle as RequestTitle
 import Endpoints.Views.Endpoint as Endpoint
 import Endpoints.Views.Request as Request
 import Endpoints.Views.Button as Button
@@ -32,9 +35,7 @@ view endpoint model =
         [ Title.view "Account Details" "https://www.stellar.org/developers/horizon/reference/endpoints/accounts-single.html"
         , div
             [ Css.page ]
-            [ h2
-                []
-                [ text "Request" ]
+            [ RequestTitle.view "AccountDetails"
             , Endpoint.view endpoint
             , div
                 [ class "form-group" ]
@@ -54,6 +55,6 @@ view endpoint model =
                 ]
             , Request.view (requestBuilder endpoint model.settings)
             , Button.view model.isLoading (AccountDetails.Request endpoint model.settings |> AccountDetails.composeMsg)
-            , Response.view model.response model.isLoading
+            , Response.view "AccountDetails" model.response model.isLoading
             ]
         ]

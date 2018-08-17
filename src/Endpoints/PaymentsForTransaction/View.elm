@@ -16,6 +16,7 @@ import Endpoints.Msg as Endpoints
 import Endpoints.Styles as Css
 
 import Endpoints.Views.Title as Title
+import Endpoints.Views.RequestTitle as RequestTitle
 import Endpoints.Views.Endpoint as Endpoint
 import Endpoints.Views.Request as Request
 import Endpoints.Views.Button as Button
@@ -35,12 +36,10 @@ view endpoint model =
 
     div
         []
-        [ Title.view "Payments for Transaction" "https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html"
+        [ Title.view "Payments for Transaction" "https://www.stellar.org/developers/horizon/reference/endpoints/payments-for-transaction.html"
         , div
             [ Css.page ]
-            [ h2
-                []
-                [ text "Request" ]
+            [ RequestTitle.view "PaymentsForTransaction"
             , Endpoint.view endpoint
             , div
                 [ class "form-group" ]
@@ -117,6 +116,6 @@ view endpoint model =
                 ]
             , Request.view (requestBuilder endpoint model.settings)
             , Button.view model.isLoading (PaymentsForTransaction.Request endpoint model.settings |> PaymentsForTransaction.composeMsg)
-            , Response.view model.response model.isLoading
+            , Response.view "PaymentsForTransaction" model.response model.isLoading
             ]
         ]

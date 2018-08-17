@@ -42,6 +42,22 @@ officialLink =
         ]
 
 
+pageTitleContainer : Attribute Msg
+pageTitleContainer =
+    css
+        [ displayFlex
+        , alignItems center
+        ]
+
+
+pageTitleLink : Attribute Msg
+pageTitleLink =
+    css
+        [ marginLeft <| px 10
+        , marginTop <| px 5
+        ]
+
+
 response : Attribute Msg
 response =
     css
@@ -49,16 +65,16 @@ response =
         ]
 
 
-request : Attribute Msg
-request =
+requestHttpBar : Attribute Msg
+requestHttpBar =
     css
         [ displayFlex
         , marginTop (px 15)
         ]
 
 
-requestType : Attribute Msg
-requestType =
+requestHttpBarType : Attribute Msg
+requestHttpBarType =
     css
         [ padding2 (px 8) (px 12)
         , backgroundColor (hex "f6f6f6f6")
@@ -67,8 +83,8 @@ requestType =
         ]
 
 
-requestUrl : Attribute Msg
-requestUrl =
+requestHttpBarUrl : Attribute Msg
+requestHttpBarUrl =
     css
         [ cursor pointer
         , flexGrow (int 1)

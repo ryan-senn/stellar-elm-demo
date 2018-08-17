@@ -11,20 +11,28 @@ import Http
 
 import RecordFormatter
 
+import Config exposing (sdkVersion)
+
 import Msg exposing (Msg)
 
 import Endpoints.Styles as Css
 
 
-view : Maybe (Result Http.Error record) -> Bool -> Html Msg
-view response isLoading =
+view : String -> Maybe (Result Http.Error record) -> Bool -> Html Msg
+view link response isLoading =
 
     div
         []
-        [ h2
-            []
-            [ text "Response" ]
-        , lazy2 record response isLoading
+        [ div
+            [ Css.pageTitleContainer ]
+            [ h2
+                []
+                [ text "Response" ]
+            , a
+                [ Css.pageTitleLink, href <| "http://package.elm-lang.org/packages/ryan-senn/stellar-elm-sdk/" ++ sdkVersion ++ "/Stellar-Endpoints-AccountDetails#Response", target "_blank" ]
+                [ text "View Reponse on Elm Packages Documentation" ]
+            ]
+            , lazy2 record response isLoading
         ]
 
 

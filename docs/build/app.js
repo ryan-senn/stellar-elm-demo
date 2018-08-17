@@ -23745,6 +23745,8 @@ var _ryan_senn$elm_record_formatter$RecordFormatter$toString = function (_p1) {
 				_elm_lang$core$Basics$toString(_p1))));
 };
 
+var _ryan_senn$stellar_elm_demo$Config$sdkVersion = '1.0.2';
+
 var _ryan_senn$stellar_elm_demo$Endpoints$TransactionDetails = {ctor: 'TransactionDetails'};
 var _ryan_senn$stellar_elm_demo$Endpoints$TransactionsForLedger = {ctor: 'TransactionsForLedger'};
 var _ryan_senn$stellar_elm_demo$Endpoints$TransactionsForAccount = {ctor: 'TransactionsForAccount'};
@@ -30238,7 +30240,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestButton = function (isLoa
 			}
 		});
 };
-var _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestUrl = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestHttpBarUrl = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$cursor(_rtfeldman$elm_css$Css$pointer),
@@ -30268,7 +30270,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestUrl = _rtfeldman$elm_css
 			}
 		}
 	});
-var _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestType = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestHttpBarType = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: A2(
@@ -30295,7 +30297,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestType = _rtfeldman$elm_cs
 			}
 		}
 	});
-var _ryan_senn$stellar_elm_demo$Endpoints_Styles$request = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestHttpBar = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
 		ctor: '::',
 		_0: _rtfeldman$elm_css$Css$displayFlex,
@@ -30316,6 +30318,28 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Styles$response = _rtfeldman$elm_css$H
 				_rtfeldman$elm_css$Css$minus,
 				_rtfeldman$elm_css$Css$px(350))),
 		_1: {ctor: '[]'}
+	});
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$pageTitleLink = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+	{
+		ctor: '::',
+		_0: _rtfeldman$elm_css$Css$marginLeft(
+			_rtfeldman$elm_css$Css$px(10)),
+		_1: {
+			ctor: '::',
+			_0: _rtfeldman$elm_css$Css$marginTop(
+				_rtfeldman$elm_css$Css$px(5)),
+			_1: {ctor: '[]'}
+		}
+	});
+var _ryan_senn$stellar_elm_demo$Endpoints_Styles$pageTitleContainer = _rtfeldman$elm_css$Html_Styled_Attributes$css(
+	{
+		ctor: '::',
+		_0: _rtfeldman$elm_css$Css$displayFlex,
+		_1: {
+			ctor: '::',
+			_0: _rtfeldman$elm_css$Css$alignItems(_rtfeldman$elm_css$Css$center),
+			_1: {ctor: '[]'}
+		}
 	});
 var _ryan_senn$stellar_elm_demo$Endpoints_Styles$officialLink = _rtfeldman$elm_css$Html_Styled_Attributes$css(
 	{
@@ -30441,6 +30465,61 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view = F2(
 			});
 	});
 
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view = function (title) {
+	return A2(
+		_rtfeldman$elm_css$Html_Styled$div,
+		{
+			ctor: '::',
+			_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$pageTitleContainer,
+			_1: {ctor: '[]'}
+		},
+		{
+			ctor: '::',
+			_0: A2(
+				_rtfeldman$elm_css$Html_Styled$h2,
+				{ctor: '[]'},
+				{
+					ctor: '::',
+					_0: _rtfeldman$elm_css$Html_Styled$text('Response'),
+					_1: {ctor: '[]'}
+				}),
+			_1: {
+				ctor: '::',
+				_0: A2(
+					_rtfeldman$elm_css$Html_Styled$a,
+					{
+						ctor: '::',
+						_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$pageTitleLink,
+						_1: {
+							ctor: '::',
+							_0: _rtfeldman$elm_css$Html_Styled_Attributes$href(
+								A2(
+									_elm_lang$core$Basics_ops['++'],
+									'http://package.elm-lang.org/packages/ryan-senn/stellar-elm-sdk/',
+									A2(
+										_elm_lang$core$Basics_ops['++'],
+										_ryan_senn$stellar_elm_demo$Config$sdkVersion,
+										A2(
+											_elm_lang$core$Basics_ops['++'],
+											'/Stellar-Endpoints-',
+											A2(_elm_lang$core$Basics_ops['++'], title, '#Response'))))),
+							_1: {
+								ctor: '::',
+								_0: _rtfeldman$elm_css$Html_Styled_Attributes$target('_blank'),
+								_1: {ctor: '[]'}
+							}
+						}
+					},
+					{
+						ctor: '::',
+						_0: _rtfeldman$elm_css$Html_Styled$text('View Reponse on Elm Packages Documentation'),
+						_1: {ctor: '[]'}
+					}),
+				_1: {ctor: '[]'}
+			}
+		});
+};
+
 var _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view = function (inputModel) {
 	return A2(
 		_rtfeldman$elm_css$Html_Styled$div,
@@ -30533,7 +30612,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view = function (request
 				_rtfeldman$elm_css$Html_Styled$div,
 				{
 					ctor: '::',
-					_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$request,
+					_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestHttpBar,
 					_1: {ctor: '[]'}
 				},
 				{
@@ -30542,7 +30621,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view = function (request
 						_rtfeldman$elm_css$Html_Styled$div,
 						{
 							ctor: '::',
-							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestType,
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestHttpBarType,
 							_1: {ctor: '[]'}
 						},
 						{
@@ -30556,7 +30635,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Views_Request$view = function (request
 							_rtfeldman$elm_css$Html_Styled$div,
 							{
 								ctor: '::',
-								_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestUrl,
+								_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$requestHttpBarUrl,
 								_1: {
 									ctor: '::',
 									_0: _rtfeldman$elm_css$Html_Styled_Attributes$class('clipboard'),
@@ -30709,20 +30788,58 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Views_Response$record = F2(
 					_1: {ctor: '[]'}
 				}));
 	});
-var _ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view = F2(
-	function (response, isLoading) {
+var _ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view = F3(
+	function (link, response, isLoading) {
 		return A2(
 			_rtfeldman$elm_css$Html_Styled$div,
 			{ctor: '[]'},
 			{
 				ctor: '::',
 				_0: A2(
-					_rtfeldman$elm_css$Html_Styled$h2,
-					{ctor: '[]'},
+					_rtfeldman$elm_css$Html_Styled$div,
 					{
 						ctor: '::',
-						_0: _rtfeldman$elm_css$Html_Styled$text('Response'),
+						_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$pageTitleContainer,
 						_1: {ctor: '[]'}
+					},
+					{
+						ctor: '::',
+						_0: A2(
+							_rtfeldman$elm_css$Html_Styled$h2,
+							{ctor: '[]'},
+							{
+								ctor: '::',
+								_0: _rtfeldman$elm_css$Html_Styled$text('Response'),
+								_1: {ctor: '[]'}
+							}),
+						_1: {
+							ctor: '::',
+							_0: A2(
+								_rtfeldman$elm_css$Html_Styled$a,
+								{
+									ctor: '::',
+									_0: _ryan_senn$stellar_elm_demo$Endpoints_Styles$pageTitleLink,
+									_1: {
+										ctor: '::',
+										_0: _rtfeldman$elm_css$Html_Styled_Attributes$href(
+											A2(
+												_elm_lang$core$Basics_ops['++'],
+												'http://package.elm-lang.org/packages/ryan-senn/stellar-elm-sdk/',
+												A2(_elm_lang$core$Basics_ops['++'], _ryan_senn$stellar_elm_demo$Config$sdkVersion, '/Stellar-Endpoints-AccountDetails#Response'))),
+										_1: {
+											ctor: '::',
+											_0: _rtfeldman$elm_css$Html_Styled_Attributes$target('_blank'),
+											_1: {ctor: '[]'}
+										}
+									}
+								},
+								{
+									ctor: '::',
+									_0: _rtfeldman$elm_css$Html_Styled$text('View Reponse on Elm Packages Documentation'),
+									_1: {ctor: '[]'}
+								}),
+							_1: {ctor: '[]'}
+						}
 					}),
 				_1: {
 					ctor: '::',
@@ -30751,14 +30868,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('AccountDetails'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -30838,7 +30948,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_View$view = F2(
 													A2(_ryan_senn$stellar_elm_demo$Endpoints_AccountDetails_Msg$Request, endpoint, model.settings))),
 											_1: {
 												ctor: '::',
-												_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+												_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'AccountDetails', model.response, model.isLoading),
 												_1: {ctor: '[]'}
 											}
 										}
@@ -31005,14 +31115,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('AllAssets'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -31375,7 +31478,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllAssets_View$view = F2(
 																		model.settings))),
 															_1: {
 																ctor: '::',
-																_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+																_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'AllAssets', model.response, model.isLoading),
 																_1: {ctor: '[]'}
 															}
 														}
@@ -31522,14 +31625,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('AllEffects'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -31774,7 +31870,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllEffects_View$view = F2(
 																model.settings))),
 													_1: {
 														ctor: '::',
-														_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+														_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'AllEffects', model.response, model.isLoading),
 														_1: {ctor: '[]'}
 													}
 												}
@@ -31908,7 +32004,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'All Assets', 'https://www.stellar.org/developers/horizon/reference/endpoints/assets-all.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'All Assets', 'https://www.stellar.org/developers/horizon/reference/endpoints/ledgers-all.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -31920,14 +32016,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('AllLedgers'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -32166,7 +32255,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_View$view = F2(
 															A2(_ryan_senn$stellar_elm_demo$Endpoints_AllLedgers_Msg$Request, endpoint, model.settings))),
 													_1: {
 														ctor: '::',
-														_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+														_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'AllLedgers', model.response, model.isLoading),
 														_1: {ctor: '[]'}
 													}
 												}
@@ -32311,14 +32400,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('AllOperations'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -32563,7 +32645,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllOperations_View$view = F2(
 																model.settings))),
 													_1: {
 														ctor: '::',
-														_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+														_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'AllOperations', model.response, model.isLoading),
 														_1: {ctor: '[]'}
 													}
 												}
@@ -32708,14 +32790,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('AllPayments'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -32960,7 +33035,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllPayments_View$view = F2(
 																model.settings))),
 													_1: {
 														ctor: '::',
-														_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+														_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'AllPayments', model.response, model.isLoading),
 														_1: {ctor: '[]'}
 													}
 												}
@@ -33105,14 +33180,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('AllTransactions'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -33357,7 +33425,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_AllTransactions_View$view = F2(
 																model.settings))),
 													_1: {
 														ctor: '::',
-														_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+														_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'AllTransactions', model.response, model.isLoading),
 														_1: {ctor: '[]'}
 													}
 												}
@@ -33507,14 +33575,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('DataForAccount'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -33649,7 +33710,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_View$view = F2(
 														A2(_ryan_senn$stellar_elm_demo$Endpoints_DataForAccount_Msg$Request, endpoint, model.settings))),
 												_1: {
 													ctor: '::',
-													_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+													_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'DataForAccount', model.response, model.isLoading),
 													_1: {ctor: '[]'}
 												}
 											}
@@ -33802,14 +33863,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('EffectsForAccount'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -34111,7 +34165,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForAccount_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'EffectsForAccount', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -34257,7 +34311,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Effects for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Effects for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/effects-for-ledger.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -34269,14 +34323,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('EffectsForLedger'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -34578,7 +34625,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForLedger_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'EffectsForLedger', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -34724,7 +34771,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Effects for Operation', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-operationId.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Effects for Operation', 'https://www.stellar.org/developers/horizon/reference/endpoints/effects-for-operation.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -34736,14 +34783,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('EffectsForOperation'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -35045,7 +35085,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForOperation_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'EffectsForOperation', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -35188,7 +35228,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Effects for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Effects for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/effects-for-transaction.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -35200,14 +35240,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('EffectsForTransaction'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -35509,7 +35542,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_EffectsForTransaction_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'EffectsForTransaction', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -35702,7 +35735,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operation Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/operations-single.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operation Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/path-finding.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -35714,14 +35747,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('FindPaymentPaths'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -36110,7 +36136,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_View$view = F2(
 																		A2(_ryan_senn$stellar_elm_demo$Endpoints_FindPaymentPaths_Msg$Request, endpoint, model.settings))),
 																_1: {
 																	ctor: '::',
-																	_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+																	_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'FindPaymentPaths', model.response, model.isLoading),
 																	_1: {ctor: '[]'}
 																}
 															}
@@ -36217,7 +36243,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Ledger Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/accounts-single.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Ledger Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/ledgers-single.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -36229,14 +36255,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('LedgerDetails'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -36328,7 +36347,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_LedgerDetails_View$view = F2(
 															_bluedogtraining$bdt_elm$Form_IntInput$getValue(model.settings.sequence))))),
 											_1: {
 												ctor: '::',
-												_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+												_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'LedgerDetails', model.response, model.isLoading),
 												_1: {ctor: '[]'}
 											}
 										}
@@ -36578,14 +36597,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('OffersForAccount'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -36887,7 +36899,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_OffersForAccount_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'OffersForAccount', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -37005,14 +37017,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('OperationDetails'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -37092,7 +37097,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_View$view = F2(
 													A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationDetails_Msg$Request, endpoint, model.settings))),
 											_1: {
 												ctor: '::',
-												_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+												_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'OperationDetails', model.response, model.isLoading),
 												_1: {ctor: '[]'}
 											}
 										}
@@ -37232,7 +37237,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operations for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-account.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operations for Account', 'https://www.stellar.org/developers/horizon/reference/endpoints/operations-for-account.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -37244,14 +37249,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('OperationsForAccount'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -37553,7 +37551,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForAccount_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'OperationsForAccount', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -37699,7 +37697,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operations for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operations for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/operations-for-ledger.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -37711,14 +37709,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('OperationsForLEdger'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -38020,7 +38011,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForLedger_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'OperationsForLEdger', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -38163,7 +38154,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_View$view = F
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operations for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operations for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/operations-for-transaction.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -38175,14 +38166,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_View$view = F
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('OperationsForTransaction'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -38484,7 +38468,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_View$view = F
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_OperationsForTransaction_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'OperationsForTransaction', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -38714,7 +38698,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Orderbook Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Orderbook Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/orderbook-details.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -38726,14 +38710,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('OrderbookDetails'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -39175,7 +39152,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_View$view = F2(
 																			A2(_ryan_senn$stellar_elm_demo$Endpoints_OrderbookDetails_Msg$Request, endpoint, model.settings))),
 																	_1: {
 																		ctor: '::',
-																		_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+																		_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'OrderbookDetails', model.response, model.isLoading),
 																		_1: {ctor: '[]'}
 																	}
 																}
@@ -39333,14 +39310,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('PaymentsForAccount'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -39642,7 +39612,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForAccount_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'PaymentsForAccount', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -39788,7 +39758,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Payments for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Payments for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/payments-for-ledger.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -39800,14 +39770,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('PaymentsForLedger'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -40109,7 +40072,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForLedger_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'PaymentsForLedger', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -40252,7 +40215,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Payments for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Payments for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/payments-for-transaction.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -40264,14 +40227,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('PaymentsForTransaction'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -40573,7 +40529,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_PaymentsForTransaction_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'PaymentsForTransaction', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -40685,7 +40641,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Operations for Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-transaction.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Post Transaction', 'https://www.stellar.org/developers/horizon/reference/endpoints/transactions-create.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -40697,14 +40653,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('PostTransaction'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -40780,7 +40729,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_View$view = F2(
 													A2(_ryan_senn$stellar_elm_demo$Endpoints_PostTransaction_Msg$Request, endpoint, model.settings))),
 											_1: {
 												ctor: '::',
-												_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+												_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'PostTransaction', model.response, model.isLoading),
 												_1: {ctor: '[]'}
 											}
 										}
@@ -40872,7 +40821,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Transaction Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/accounts-single.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Transaction Details', 'https://www.stellar.org/developers/horizon/reference/endpoints/transactions-single.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -40884,14 +40833,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('TransactionDetails'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -40977,7 +40919,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_TransactionDetails_View$view = F2(
 														_bluedogtraining$bdt_elm$Form_Input$getValue(model.settings.hash)))),
 											_1: {
 												ctor: '::',
-												_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+												_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'TransactionDetails', model.response, model.isLoading),
 												_1: {ctor: '[]'}
 											}
 										}
@@ -41129,14 +41071,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('TRansactionsForAccount'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -41438,7 +41373,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForAccount_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'TRansactionsForAccount', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -41584,7 +41519,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_View$view = F2(
 			{ctor: '[]'},
 			{
 				ctor: '::',
-				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Transactions for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/offers-for-ledgerId.html'),
+				_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Title$view, 'Transactions for Ledger', 'https://www.stellar.org/developers/horizon/reference/endpoints/transactions-for-ledger.html'),
 				_1: {
 					ctor: '::',
 					_0: A2(
@@ -41596,14 +41531,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_View$view = F2(
 						},
 						{
 							ctor: '::',
-							_0: A2(
-								_rtfeldman$elm_css$Html_Styled$h2,
-								{ctor: '[]'},
-								{
-									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
-									_1: {ctor: '[]'}
-								}),
+							_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view('TransactionsForLedger'),
 							_1: {
 								ctor: '::',
 								_0: _ryan_senn$stellar_elm_demo$Endpoints_Views_Endpoint$view(endpoint),
@@ -41905,7 +41833,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_View$view = F2(
 																A2(_ryan_senn$stellar_elm_demo$Endpoints_TransactionsForLedger_Msg$Request, endpoint, model.settings))),
 														_1: {
 															ctor: '::',
-															_0: A2(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, model.response, model.isLoading),
+															_0: A3(_ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view, 'TransactionsForLedger', model.response, model.isLoading),
 															_1: {ctor: '[]'}
 														}
 													}
@@ -42517,7 +42445,7 @@ var _ryan_senn$stellar_elm_demo$View$home = A2(
 							_rtfeldman$elm_css$Html_Styled$a,
 							{
 								ctor: '::',
-								_0: _rtfeldman$elm_css$Html_Styled_Attributes$href('https://github.com/ryan-senn/stellar-elm'),
+								_0: _rtfeldman$elm_css$Html_Styled_Attributes$href('https://github.com/ryan-senn/stellar-elm-demo'),
 								_1: {
 									ctor: '::',
 									_0: _rtfeldman$elm_css$Html_Styled_Attributes$target('blank_'),

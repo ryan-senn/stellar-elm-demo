@@ -19,12 +19,12 @@ view requestBuilder =
     case requestBuilder.method of
         "GET" ->
             div
-                [ Css.request ]
+                [ Css.requestHttpBar ]
                 [ div
-                    [ Css.requestType ]
+                    [ Css.requestHttpBarType ]
                     [ text "GET" ]
                 , div
-                    [ Css.requestUrl
+                    [ Css.requestHttpBarUrl
                     , class "clipboard"
                     , title "Copy to Clipboard"
                     , attribute "data-clipboard-text" (requestBuilder.url ++ queryParams requestBuilder.queryParams)

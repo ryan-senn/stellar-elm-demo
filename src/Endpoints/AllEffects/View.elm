@@ -16,6 +16,7 @@ import Endpoints.Msg as Endpoints
 import Endpoints.Styles as Css
 
 import Endpoints.Views.Title as Title
+import Endpoints.Views.RequestTitle as RequestTitle
 import Endpoints.Views.Endpoint as Endpoint
 import Endpoints.Views.Request as Request
 import Endpoints.Views.Button as Button
@@ -38,9 +39,7 @@ view endpoint model =
         [ Title.view "All Effects" "https://www.stellar.org/developers/horizon/reference/endpoints/effects-all.html"
         , div
             [ Css.page ]
-            [ h2
-                []
-                [ text "Request" ]
+            [ RequestTitle.view "AllEffects"
             , Endpoint.view endpoint
             , div
                 [ class "form-group" ]
@@ -101,6 +100,6 @@ view endpoint model =
                 ]
             , Request.view (requestBuilder (endpointFromInput endpoint) model.settings)
             , Button.view model.isLoading (AllEffects.Request (endpointFromInput endpoint) model.settings |> AllEffects.composeMsg)
-            , Response.view model.response model.isLoading
+            , Response.view "AllEffects" model.response model.isLoading
             ]
         ]

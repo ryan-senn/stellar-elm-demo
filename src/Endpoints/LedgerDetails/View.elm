@@ -14,6 +14,7 @@ import Endpoints.Msg as Endpoints
 import Endpoints.Styles as Css
 
 import Endpoints.Views.Title as Title
+import Endpoints.Views.RequestTitle as RequestTitle
 import Endpoints.Views.Endpoint as Endpoint
 import Endpoints.Views.Request as Request
 import Endpoints.Views.Button as Button
@@ -33,12 +34,10 @@ view endpoint model =
 
     div
         []
-        [ Title.view "Ledger Details" "https://www.stellar.org/developers/horizon/reference/endpoints/accounts-single.html"
+        [ Title.view "Ledger Details" "https://www.stellar.org/developers/horizon/reference/endpoints/ledgers-single.html"
         , div
             [ Css.page ]
-            [ h2
-                []
-                [ text "Request" ]
+            [ RequestTitle.view "LedgerDetails"
             , Endpoint.view endpoint
             , div
                 [ class "form-group" ]
@@ -58,6 +57,6 @@ view endpoint model =
                 ]
             , Request.view (requestBuilder (endpointFromInput endpoint) (IntInput.getValue model.settings.sequence |> Maybe.withDefault 0))
             , Button.view model.isLoading (LedgerDetails.Request (endpointFromInput endpoint) (IntInput.getValue model.settings.sequence |> Maybe.withDefault 0) |> LedgerDetails.composeMsg)
-            , Response.view model.response model.isLoading
+            , Response.view "LedgerDetails" model.response model.isLoading
             ]
         ]

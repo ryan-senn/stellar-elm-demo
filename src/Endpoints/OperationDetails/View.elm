@@ -14,6 +14,7 @@ import Endpoints.Msg as Endpoints
 import Endpoints.Styles as Css
 
 import Endpoints.Views.Title as Title
+import Endpoints.Views.RequestTitle as RequestTitle
 import Endpoints.Views.Endpoint as Endpoint
 import Endpoints.Views.Request as Request
 import Endpoints.Views.Button as Button
@@ -33,9 +34,7 @@ view endpoint model =
         [ Title.view "Operation Details" "https://www.stellar.org/developers/horizon/reference/endpoints/operations-single.html"
         , div
             [ Css.page ]
-            [ h2
-                []
-                [ text "Request" ]
+            [ RequestTitle.view "OperationDetails"
             , Endpoint.view endpoint
             , div
                 [ class "form-group" ]
@@ -55,6 +54,6 @@ view endpoint model =
                 ]
             , Request.view (requestBuilder endpoint model.settings)
             , Button.view model.isLoading (OperationDetails.Request endpoint model.settings |> OperationDetails.composeMsg)
-            , Response.view model.response model.isLoading
+            , Response.view "OperationDetails" model.response model.isLoading
             ]
         ]
