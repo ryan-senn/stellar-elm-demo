@@ -17,8 +17,8 @@ view title =
         [ Css.pageTitleContainer ]
         [ h2
             []
-            [ text "Response" ]
+            [ text "Request" ]
         , a
-            [ Css.pageTitleLink, href <| "http://package.elm-lang.org/packages/ryan-senn/stellar-elm-sdk/" ++ sdkVersion ++ "/Stellar-Endpoints-" ++ title ++ "#Response", target "_blank" ]
-            [ text "View Reponse on Elm Packages Documentation" ]
+            [ Css.pageTitleLink, href <| "http://package.elm-lang.org/packages/ryan-senn/stellar-elm-sdk/" ++ sdkVersion ++ "/Stellar-Endpoints-" ++ title ++ "#requestBuilder", target "_blank" ]
+            [ text "View requestBuilder Documentation on Elm Packages" ]
         ]

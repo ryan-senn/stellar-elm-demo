@@ -30,7 +30,7 @@ view link response isLoading =
                 [ text "Response" ]
             , a
                 [ Css.pageTitleLink, href <| "http://package.elm-lang.org/packages/ryan-senn/stellar-elm-sdk/" ++ sdkVersion ++ "/Stellar-Endpoints-AccountDetails#Response", target "_blank" ]
-                [ text "View Reponse on Elm Packages Documentation" ]
+                [ text "View Response Documentation on Elm Packages" ]
             ]
             , lazy2 record response isLoading
         ]

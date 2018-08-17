@@ -30480,7 +30480,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view = function (ti
 				{ctor: '[]'},
 				{
 					ctor: '::',
-					_0: _rtfeldman$elm_css$Html_Styled$text('Response'),
+					_0: _rtfeldman$elm_css$Html_Styled$text('Request'),
 					_1: {ctor: '[]'}
 				}),
 			_1: {
@@ -30502,7 +30502,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view = function (ti
 										A2(
 											_elm_lang$core$Basics_ops['++'],
 											'/Stellar-Endpoints-',
-											A2(_elm_lang$core$Basics_ops['++'], title, '#Response'))))),
+											A2(_elm_lang$core$Basics_ops['++'], title, '#requestBuilder'))))),
 							_1: {
 								ctor: '::',
 								_0: _rtfeldman$elm_css$Html_Styled_Attributes$target('_blank'),
@@ -30512,7 +30512,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Views_RequestTitle$view = function (ti
 					},
 					{
 						ctor: '::',
-						_0: _rtfeldman$elm_css$Html_Styled$text('View Reponse on Elm Packages Documentation'),
+						_0: _rtfeldman$elm_css$Html_Styled$text('View requestBuilder Documentation on Elm Packages'),
 						_1: {ctor: '[]'}
 					}),
 				_1: {ctor: '[]'}
@@ -30835,7 +30835,7 @@ var _ryan_senn$stellar_elm_demo$Endpoints_Views_Response$view = F3(
 								},
 								{
 									ctor: '::',
-									_0: _rtfeldman$elm_css$Html_Styled$text('View Reponse on Elm Packages Documentation'),
+									_0: _rtfeldman$elm_css$Html_Styled$text('View Response Documentation on Elm Packages'),
 									_1: {ctor: '[]'}
 								}),
 							_1: {ctor: '[]'}
