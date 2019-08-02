@@ -23,6 +23,7 @@ view model =
         [ Css.layout ]
         [ header
         , body model
+        , footer
         ]
 
 
@@ -136,3 +137,8 @@ home =
             []
             [ text "The Readme contains a section about the structure, future plans and how to build!" ]
         ]
+
+
+footer : Html Msg
+footer =
+    

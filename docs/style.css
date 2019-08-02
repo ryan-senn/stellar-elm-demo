@@ -4,6 +4,27 @@
   font-weight: 400;
   src: url(https://fonts.gstatic.com/s/materialicons/v38/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format("woff2"); }
 
+html {
+  display: flex;
+  min-height: 100vh;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+main {
+  flex: 1;
+}
+
+footer {
+  border-top: 1px solid #eeeeee;
+  padding: 1rem 2rem;
+  margin-top: 2rem;
+}
+
 .bdt-elm {
   box-sizing: border-box; }
   .bdt-elm * {
